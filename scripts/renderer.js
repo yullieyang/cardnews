@@ -142,7 +142,10 @@ async function renderDiaryShot(outputDir, totalSlides, page) {
 
 export async function renderSlides(cards, outputDir) {
   const css = readCSS();
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+  });
   const page = await browser.newPage();
   await page.setViewport({ width: 1080, height: 1080 });
 
