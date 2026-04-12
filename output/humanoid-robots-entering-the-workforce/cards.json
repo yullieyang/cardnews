@@ -1,0 +1,66 @@
+{
+  "title": "Humanoid Robots Entering the Workforce",
+  "theme_color": "#5C35CC",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Humanoid Robots\nEnter the Workforce",
+      "body": "From factory floors to warehouses — the age of robot coworkers is here"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Are Humanoid Robots?",
+      "body": "Humanoid robots are bipedal machines designed to move and interact like humans. Unlike traditional industrial arms, they can navigate real-world spaces, use human tools, and adapt to unstructured environments."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Breakthrough: AI-Powered Movement",
+      "body": "Modern humanoids use deep reinforcement learning to master balance, grasping, and locomotion. Training in simulation — then transferring skills to the real world — has cut development time from years to months."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Who's Leading the Race?",
+      "body": "Tesla's Optimus, Figure AI, Boston Dynamics Atlas, and Agility Robotics' Digit are frontrunners. Chinese firms like Unitree and Fourier Intelligence are also rapidly scaling, creating intense global competition."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Where They're Being Deployed First",
+      "body": "Automotive factories, e-commerce fulfillment centers, and logistics warehouses are the first deployment zones. BMW, Amazon, and GXO Logistics are already piloting humanoid robots in live operations."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Economics of Robot Labor",
+      "body": "Early units cost $50,000–$200,000, but prices are projected to fall below $20,000 by 2030. At that price point, robots could outcompete human labor in many repetitive physical tasks within a decade."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Human-Robot Collaboration",
+      "body": "Rather than full replacement, most deployments use robots alongside humans. Robots handle heavy lifting and monotonous tasks while humans oversee, troubleshoot, and manage exceptions — raising overall productivity."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Safety Challenges Still to Solve",
+      "body": "Humanoids operating near people require rigorous safety protocols. Force-limiting sensors, real-time collision detection, and regulatory certification frameworks are still maturing as deployment scales up."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Jobs at Risk — and Jobs Created",
+      "body": "Roles involving repetitive physical labor face the most disruption. At the same time, new jobs are emerging in robot fleet management, teleoperation, maintenance, and AI training — a shift, not just a loss."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Robot Coworker Era Has Begun",
+      "body": "Humanoid robots won't replace human ingenuity — but they will reshape every physical industry. Understanding this shift now is the best preparation for the workforce of tomorrow."
+    }
+  ]
+}
