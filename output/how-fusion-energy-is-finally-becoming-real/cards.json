@@ -1,0 +1,66 @@
+{
+  "title": "How Fusion Energy Is Finally Becoming Real",
+  "theme_color": "#C44B00",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Fusion Energy Is Finally Becoming Real",
+      "body": "After 70 years of research, the power of the stars is within our reach"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Fusion?",
+      "body": "Fusion occurs when two light atomic nuclei — typically hydrogen isotopes — merge to form a heavier nucleus, releasing enormous energy. It's the same reaction that powers the Sun, and one small cup of fuel could power a home for centuries."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 70-Year Quest",
+      "body": "Scientists have chased fusion since the 1950s. The old joke was that fusion is always '30 years away.' But breakthroughs in plasma physics, superconducting magnets, and AI-driven control systems have finally changed that calculus."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "NIF's Historic Ignition",
+      "body": "In December 2022, the National Ignition Facility achieved 'ignition' — the fusion reaction produced more energy than the laser energy delivered to the fuel. It was the first time in history this milestone was reached, proving the physics works."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Tokamak Approach",
+      "body": "Most fusion reactors use a donut-shaped chamber called a tokamak, which holds 100-million-degree plasma in place using powerful magnetic fields. ITER, a 35-nation project in France, is the world's largest tokamak — currently under final assembly."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Private Companies Race Ahead",
+      "body": "Over $6 billion in private capital has poured into fusion startups. Commonwealth Fusion Systems aims to fire up its compact SPARC reactor using revolutionary high-temperature superconducting magnets. TAE Technologies and Helion Energy are also closing in on net energy gain."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Why Fusion Beats Fission",
+      "body": "Unlike nuclear fission, fusion produces no long-lived radioactive waste, cannot cause a runaway meltdown, and its fuel — deuterium from seawater — is virtually limitless. It's the safest and cleanest form of nuclear energy by a wide margin."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Remaining Challenges",
+      "body": "Sustaining plasma long enough to generate continuous power, handling extreme neutron bombardment on reactor walls, and making tritium fuel on-site are the key remaining hurdles. Engineers are attacking each problem with new materials and smarter designs."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "When Can We Expect Fusion Power?",
+      "body": "Multiple credible timelines now point to pilot fusion power plants in the 2030s. Commonwealth Fusion and Helion both target demonstration reactors this decade. Commercial grid-scale fusion electricity could follow in the 2040s — within many people's lifetimes."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Star in a Bottle",
+      "body": "Fusion energy would be transformative — abundant, clean, and safe. The science is proven. The engineering is advancing fast. The era of fusion power is not a dream anymore; it's an engineering sprint."
+    }
+  ]
+}
