@@ -67,8 +67,9 @@ function buildSlideHTML(slide, themeColor, totalSlides, css) {
   if (slide.type === "title") {
     content = `
       <div class="title-slide">
-        <div class="accent-line"></div>
+        <div class="tag">CARD NEWS</div>
         <h1>${heading}</h1>
+        <div class="divider"></div>
         <p>${body}</p>
         <div class="indicator">${num} / ${total}</div>
       </div>`;
@@ -76,17 +77,17 @@ function buildSlideHTML(slide, themeColor, totalSlides, css) {
     content = `
       <div class="closing-slide">
         <h1>${heading}</h1>
+        <div class="divider"></div>
         <p>${body}</p>
         <div class="indicator">${num} / ${total}</div>
       </div>`;
   } else {
     content = `
       <div class="content-slide">
-        <div class="card">
-          <span class="label">${num}</span>
-          <h1>${heading}</h1>
-          <p>${body}</p>
-        </div>
+        <div class="num">${num}</div>
+        <h1>${heading}</h1>
+        <div class="divider"></div>
+        <p>${body}</p>
         <div class="indicator">${num} / ${total}</div>
       </div>`;
   }
