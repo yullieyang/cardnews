@@ -1,0 +1,66 @@
+{
+  "title": "The Rise of Humanoid Robots in 2026",
+  "theme_color": "#1a237e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Rise of Humanoid Robots",
+      "body": "From science fiction to factory floors — 2026 is the year robots walk among us"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Why Now?",
+      "body": "Advances in AI, motor control, and battery tech have converged at exactly the right moment. What took decades of robotics research finally clicked with the rise of large neural networks trained on human motion data."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Tesla Optimus Takes the Lead",
+      "body": "Tesla's Optimus Gen 3 can sort parts, carry payloads, and navigate dynamic environments — all at a projected price under $20,000. Thousands are already working inside Tesla's own factories, proving the concept at scale."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Figure AI & The Race to Deploy",
+      "body": "Startup Figure AI partnered with BMW and Amazon to deploy hundreds of robots in warehouses and assembly lines. Their robots learn new tasks in hours using AI-generated training data, not weeks of manual programming."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How They Actually Move",
+      "body": "Modern humanoids combine reinforcement learning with real-time sensor fusion. Cameras, LiDAR, and force sensors feed a neural network that adjusts each joint 1,000 times per second — letting robots catch themselves mid-stumble."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Jobs They're Taking On",
+      "body": "Today's humanoids excel at the 3D jobs: Dirty, Dangerous, and Dull. Think loading heavy pallets, working in extreme heat, or doing repetitive pick-and-place tasks humans find mind-numbing and physically taxing."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "What They Still Can't Do",
+      "body": "Fine motor dexterity, creative problem-solving, and unpredictable environments remain hard. A robot that masters a warehouse can still be stumped by a fallen cardboard box blocking its usual path."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The $38 Billion Market Ahead",
+      "body": "Goldman Sachs projects the humanoid robot market will hit $38 billion by 2035. China, South Korea, and the US are all racing to dominate — with government-backed programs treating humanoid robotics as a national priority."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Ethical Questions We Can't Ignore",
+      "body": "Who is liable when a robot injures a worker? How do we retrain displaced labor? As deployment accelerates, policymakers, ethicists, and companies are scrambling to write the rules before incidents force their hand."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Robot Decade Has Begun",
+      "body": "Humanoid robots won't replace humanity — but they will reshape how work gets done. Understanding this shift now puts you ahead of the curve. The question isn't if they'll be everywhere, but how fast."
+    }
+  ]
+}
