@@ -1,0 +1,66 @@
+{
+  "title": "How Your Gut Microbiome Controls Your Health",
+  "theme_color": "#1b4d3e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Your Gut: The Hidden Command Center",
+      "body": "38 trillion bacteria live inside you — and they're running more of your body than you think"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is the Gut Microbiome?",
+      "body": "Your gut microbiome is a vast community of bacteria, viruses, fungi, and other microbes living in your digestive tract. Together they weigh around 2 kg — roughly the weight of your brain — and outnumber your own cells."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Gut-Brain Connection",
+      "body": "Your gut and brain talk constantly via the vagus nerve — a direct neural highway. Gut bacteria produce over 90% of the body's serotonin, the mood-regulating neurotransmitter. An unhealthy microbiome is linked to depression and anxiety."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Immunity Starts in Your Gut",
+      "body": "About 70% of your immune system lives in your gut lining. Beneficial microbes train immune cells to tell friend from foe, reducing inflammation. Disrupted microbiomes are associated with autoimmune conditions like Crohn's disease and allergies."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How It Controls Your Weight",
+      "body": "Gut bacteria influence how many calories you extract from food and which hunger hormones your body releases. Studies show transplanting gut bacteria from obese mice into lean mice causes rapid weight gain — even without changing their diet."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "What Kills Your Microbiome",
+      "body": "Antibiotics wipe out beneficial bacteria along with harmful ones. A single course can alter your microbiome for up to a year. Ultra-processed food, chronic stress, poor sleep, and over-sanitizing also strip away microbial diversity."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Foods That Feed Good Bacteria",
+      "body": "Fiber-rich foods (legumes, oats, vegetables) act as prebiotic fuel for beneficial microbes. Fermented foods like yogurt, kefir, kimchi, and sauerkraut directly introduce live bacteria. Diversity in diet equals diversity in microbiome."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Fecal Transplants: The New Frontier",
+      "body": "Fecal microbiota transplants (FMT) — transferring a healthy donor's gut bacteria into a patient — can cure recurrent C. difficile infections in over 90% of cases. Trials are now testing FMT for obesity, autism, and cancer treatment."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Your Microbiome Is Unique to You",
+      "body": "Like a fingerprint, no two microbiomes are exactly alike. It's shaped by your birth method, childhood diet, geography, medications, and even your pets. Identical twins share DNA but have meaningfully different microbiomes."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Tend Your Inner Garden",
+      "body": "Your gut microbiome is a living ecosystem that you shape every day through food, sleep, and lifestyle choices. Take care of it, and it will take care of you — from your mood to your immune system."
+    }
+  ]
+}
