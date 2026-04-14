@@ -1,0 +1,66 @@
+{
+  "title": "How Quantum Computers Solve Problems Humans Can't",
+  "theme_color": "#5B2D8E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Quantum Computers Solve Problems Humans Can't",
+      "body": "The strange physics of qubits is unlocking computational power beyond anything classical machines can achieve"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Classical Bits vs. Qubits",
+      "body": "A classical computer stores data as bits — either 0 or 1. A quantum bit (qubit) can be both 0 and 1 simultaneously, thanks to a quantum property called superposition. This isn't just a trick — it fundamentally changes how computation works."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Superposition: Many Answers at Once",
+      "body": "Because qubits exist in multiple states at the same time, a quantum computer can explore countless possible solutions in parallel. Where a classical computer tries paths one by one, a quantum machine evaluates them all at once — like reading every branch of a maze simultaneously."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Entanglement: Instant Coordination",
+      "body": "Two qubits can become 'entangled' — meaning the state of one instantly determines the state of the other, no matter the distance. This lets quantum computers coordinate information across qubits without sending signals, enabling massive parallel processing with far fewer operations."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Quantum Interference: Canceling Wrong Answers",
+      "body": "Interference is the trick that makes quantum computing useful. Quantum algorithms amplify the probability of correct answers and cancel out incorrect ones — like noise-canceling headphones for computation. Without this, superposition alone would just give random results."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Breaking Encryption (and Protecting It)",
+      "body": "RSA encryption — which secures most of the internet — relies on how hard it is to factor huge numbers. Shor's Algorithm, running on a sufficiently large quantum computer, could crack RSA in hours instead of billions of years. This is driving a global push for quantum-safe cryptography."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Drug Discovery at Quantum Speed",
+      "body": "Simulating how molecules interact is computationally brutal for classical machines. Quantum computers model quantum chemistry naturally, potentially revealing new drugs, catalysts, and materials in days rather than decades. Pharmaceutical companies are already partnering with quantum hardware firms."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Optimization: Solving the Unsolvable",
+      "body": "Logistics, finance, and AI training all involve optimization problems with billions of variables. Quantum algorithms like QAOA (Quantum Approximate Optimization Algorithm) can find near-optimal solutions far faster than any classical approach, saving enormous time and resources."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Challenge: Keeping Qubits Stable",
+      "body": "Qubits are incredibly fragile — heat, vibration, or even a stray photon can destroy a quantum state (called 'decoherence'). Today's quantum computers operate near absolute zero and still require massive error correction. Scaling up while maintaining stability is the field's central engineering challenge."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Quantum Era Is Just Beginning",
+      "body": "Quantum computing won't replace classical computers — it will supercharge them for the problems they can't handle. As hardware matures, breakthroughs in medicine, security, climate modeling, and AI are on the horizon. The era of quantum advantage is no longer science fiction."
+    }
+  ]
+}
