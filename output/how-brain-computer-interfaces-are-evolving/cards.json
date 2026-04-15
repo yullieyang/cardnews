@@ -1,0 +1,66 @@
+{
+  "title": "How Brain-Computer Interfaces Are Evolving",
+  "theme_color": "#5B21B6",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Brain-Computer Interfaces",
+      "body": "How technology is learning to read — and speak — the language of your mind"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a BCI?",
+      "body": "A brain-computer interface is a direct communication pathway between the brain and an external device. It records electrical signals from neurons and translates them into commands a computer can understand — no muscles required."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Two Approaches: Invasive vs. Non-Invasive",
+      "body": "Invasive BCIs implant electrodes directly into brain tissue for high-resolution signals. Non-invasive BCIs, like EEG headsets, sit on the scalp and are safer but noisier. Each trade-off shapes what applications are possible."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Neuralink and the N1 Chip",
+      "body": "Neuralink's N1 implant uses 1,024 electrodes on ultra-thin threads inserted by a surgical robot. In 2024, the first human patient moved a cursor and played chess purely by thinking. By 2026, multiple participants are controlling computers and robotic arms."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Restoring Lost Functions",
+      "body": "BCIs are already changing lives. Paralyzed patients can type, speak through speech synthesizers, and control wheelchairs. BrainGate researchers restored a patient's ability to communicate after a stroke left them unable to speak or move."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Treating Neurological Disorders",
+      "body": "Deep brain stimulation BCIs have long managed Parkinson's tremors. Next-generation closed-loop systems detect abnormal brain activity in real time and deliver targeted pulses to treat epilepsy, depression, and OCD with far fewer side effects."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Memory Augmentation Frontier",
+      "body": "DARPA's REMIND program is testing devices that record the brain patterns behind a memory and replay them to boost recall. Early trials in patients with traumatic brain injuries showed up to 37% improvement in memory encoding."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Ethical Minefield",
+      "body": "Who owns your neural data? Can employers or insurers demand access? BCIs raise urgent questions about mental privacy, consent, and cognitive inequality. Neuroethicists are calling for new laws specifically protecting 'brain data' as a fundamental right."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What's Next: Wireless and Bidirectional",
+      "body": "Emerging BCIs are fully wireless, rechargeable through the skin, and bidirectional — they can both read from and write to the brain. This opens the door to sensory restoration: letting users feel texture through a prosthetic hand."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Mind-Machine Merge Is Here",
+      "body": "BCIs are moving from sci-fi to clinical reality. The coming decade will test not just our engineering, but our values — as we decide how far we want technology to reach into the most private space we have: our own minds."
+    }
+  ]
+}
