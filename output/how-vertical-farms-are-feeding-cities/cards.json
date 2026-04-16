@@ -1,0 +1,66 @@
+{
+  "title": "How Vertical Farms Are Feeding Cities",
+  "theme_color": "#2e7d32",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Vertical Farms Are Feeding Cities",
+      "body": "A revolution in indoor agriculture is growing food in skyscrapers — closer to the people who eat it"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Vertical Farm?",
+      "body": "Vertical farms stack crops in multiple layers inside climate-controlled buildings. LED lights replace sunlight, and hydroponic or aeroponic systems deliver nutrients directly to roots — no soil needed."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "From Warehouse to Dinner Table",
+      "body": "Vertical farms are built inside warehouses, shipping containers, and even old factories in the heart of cities. Produce can reach grocery shelves within hours of harvest, dramatically cutting food miles."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Using 95% Less Water",
+      "body": "Closed-loop water systems recirculate moisture that plants transpire, using up to 95% less water than traditional field farming. This makes vertical farming viable even in drought-prone or arid regions."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Year-Round Harvests",
+      "body": "Because temperature, humidity, and light are fully controlled, vertical farms produce crops 365 days a year regardless of weather or season. Many facilities achieve 15–20 harvests annually, versus 1–2 in the field."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Zero Pesticides Required",
+      "body": "Sealed growing environments keep insects and pathogens out, eliminating the need for chemical pesticides. This makes vertically farmed produce cleaner and safer while reducing environmental runoff."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Energy Challenge",
+      "body": "The biggest hurdle is electricity: powerful LEDs and HVAC systems consume significant energy. Leading farms are pairing with renewable energy sources and fine-tuning light spectra to cut costs by 30–50%."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "What Grows Best Indoors?",
+      "body": "Leafy greens (lettuce, spinach, kale), herbs, strawberries, and microgreens thrive in vertical farms. Researchers are now cracking taller crops like tomatoes and peppers, expanding the menu further."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "A Growing Global Industry",
+      "body": "The vertical farming market is projected to exceed $30 billion by 2030. Major players in the US, Japan, UAE, and Europe are scaling up, while grocery chains are installing micro-farms directly inside stores."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Future of Food Is Looking Up",
+      "body": "Vertical farms won't replace all agriculture — but they're set to transform how cities feed themselves. As technology matures, fresher, cleaner, and more sustainable food grown right next door is becoming a reality."
+    }
+  ]
+}
