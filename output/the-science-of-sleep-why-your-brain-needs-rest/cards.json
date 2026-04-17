@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Sleep: Why Your Brain Needs Rest",
+  "theme_color": "#3B5BDB",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Sleep",
+      "body": "Why your brain desperately needs rest — and what happens when it doesn't get it"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Sleep Is Not Passive",
+      "body": "Your brain is highly active during sleep. It cycles through distinct stages — light sleep, deep sleep, and REM — each serving a critical biological function."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 90-Minute Cycle",
+      "body": "Sleep happens in roughly 90-minute cycles, typically 4–6 per night. Early cycles are dominated by deep sleep; later cycles have more REM. Missing cycles disrupts recovery."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Deep Sleep: Body Repair Mode",
+      "body": "During deep (slow-wave) sleep, the body releases growth hormone, repairs tissues, and strengthens the immune system. This is the most physically restorative stage of sleep."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "REM: Memory & Emotion",
+      "body": "REM sleep is when the brain consolidates memories and processes emotions. Dreams occur here. Cutting REM short impairs learning, creativity, and emotional regulation."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Glymphatic System",
+      "body": "While you sleep, a brain-cleaning system called the glymphatic system flushes out toxic waste — including amyloid-beta, a protein linked to Alzheimer's disease. Sleep is literally brain detox."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "What Happens When You're Sleep-Deprived",
+      "body": "Even one night of poor sleep raises cortisol, impairs decision-making, and slows reaction time. Chronic sleep loss is linked to obesity, diabetes, cardiovascular disease, and depression."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Circadian Rhythm: Your Internal Clock",
+      "body": "A 24-hour biological clock regulates your sleep-wake cycle using light cues. Blue light from screens at night suppresses melatonin, tricking the brain into staying alert."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "How Much Sleep Do You Actually Need?",
+      "body": "Adults need 7–9 hours per night; teenagers need 8–10. Only about 1–3% of people are true 'short sleepers' by genetics — most people who claim to thrive on 5 hours are simply adapted to feeling tired."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Sleep Is a Superpower",
+      "body": "Prioritizing sleep is one of the highest-leverage health habits you can build. Keep a consistent schedule, limit screens before bed, and protect your 7–9 hours — your brain will thank you."
+    }
+  ]
+}
