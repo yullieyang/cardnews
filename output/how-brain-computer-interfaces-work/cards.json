@@ -1,0 +1,66 @@
+{
+  "title": "How Brain-Computer Interfaces Work",
+  "theme_color": "#5B2D8E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Brain-Computer Interfaces Work",
+      "body": "The technology that lets your thoughts control machines — and how close we are to mainstream use"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a BCI?",
+      "body": "A brain-computer interface (BCI) is a device that reads electrical signals from the brain and translates them into commands for external systems. It creates a direct communication channel between neurons and computers, bypassing the body's normal motor pathways."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "How the Brain Communicates",
+      "body": "Neurons fire electrochemical signals called action potentials. When you think about moving your hand, millions of neurons in the motor cortex fire in coordinated patterns. BCIs detect these patterns — either from the scalp or from electrodes placed directly on or inside the brain."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Non-Invasive vs. Invasive BCIs",
+      "body": "EEG headsets sit on the scalp and are safe but low-resolution, picking up broad brain activity. Implanted electrodes (like Neuralink's chip) sit inside the brain and capture high-fidelity signals from individual neurons — enabling much finer control at the cost of surgery."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Decoding Thought into Action",
+      "body": "Raw brain signals are fed into machine-learning algorithms that learn to recognize patterns linked to specific intentions. Over time the system is trained: the user imagines a movement, the AI maps the pattern, and the correct command is sent to a computer, prosthetic, or robot."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Real-World Applications Today",
+      "body": "Paralyzed patients can now type using only thought, at speeds approaching normal keyboard use. BCIs also restore arm movement in spinal-injury patients and help people with ALS communicate. These aren't science fiction — clinical trials are already delivering results."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Neuralink Milestone",
+      "body": "In 2024, Neuralink implanted its N1 chip in the first human patient, Noland Arbaugh, who became quadriplegic after a diving accident. He used thought alone to play chess and browse the internet. It marked a landmark moment for high-bandwidth invasive BCI in humans."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Key Technical Challenges",
+      "body": "BCIs face three hard problems: electrode longevity (brain tissue reacts and degrades signals over months), data bandwidth (the brain generates vastly more data than current implants can transmit), and safety (wireless implants must operate without generating heat or causing infection)."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Ethics and Privacy Concerns",
+      "body": "If a device can read intentions, who owns that data? Employers, insurers, and governments could theoretically access neural information. Researchers are already calling for 'neurorights' — legal protections for mental privacy, cognitive liberty, and protection against manipulation through BCIs."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Mind-Machine Future",
+      "body": "BCIs are moving from lab curiosity to life-changing technology. Within this decade, they could restore lost senses, treat neurological disorders, and redefine how humans interact with the digital world. The question is no longer if — but how carefully we design what comes next."
+    }
+  ]
+}
