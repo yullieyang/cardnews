@@ -1,0 +1,66 @@
+{
+  "title": "The Race to Mine the Moon",
+  "theme_color": "#1a3a6b",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Race to Mine the Moon",
+      "body": "Nations and corporations are competing to harvest the Moon's vast mineral wealth — and the rules of this new space rush are still being written."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What's Actually Up There?",
+      "body": "The Moon holds billions of tonnes of helium-3, iron, aluminum, titanium, and rare earth elements. Its permanently shadowed craters near the poles also contain water ice — perhaps the most valuable resource of all for fueling future space travel."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Water Ice Is the Key",
+      "body": "Water can be split into hydrogen and oxygen, making rocket propellant. A Moon-based fuel depot would slash the cost of deep-space missions dramatically. Whoever controls lunar water controls the solar system's first gas station."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Helium-3 Promise",
+      "body": "Solar winds have deposited an estimated one million tonnes of helium-3 on the Moon over billions of years. This rare isotope could theoretically power clean fusion reactors with almost no radioactive waste — enough to meet Earth's energy needs for centuries."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Players Racing Ahead",
+      "body": "NASA's Artemis program, China's Chang'e missions, and private firms like Astrobotic and ispace are all targeting the lunar south pole. By 2026, multiple nations have successfully soft-landed robotic prospectors near the region's ice deposits."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Legal Grey Zone",
+      "body": "The 1967 Outer Space Treaty says no nation can claim the Moon, but it says nothing about extracting resources. The US 2015 Space Act and the Artemis Accords assert that private companies can own what they mine — a position China and Russia reject."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "How Mining Would Actually Work",
+      "body": "Proposed methods include robotic excavators harvesting regolith, solar-powered electrolysis plants to split water ice, and 3D-printing infrastructure directly from lunar soil. The biggest challenge isn't finding the resources — it's surviving the Moon's extreme -173°C nights."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Economic Potential",
+      "body": "Goldman Sachs estimates the asteroid and lunar mining market could exceed $1 trillion within decades. Even conservative estimates suggest Moon-derived propellant alone could make deep-space exploration commercially viable within the 2030s."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Risks: A New Space Arms Race?",
+      "body": "Without binding international agreements, the lunar south pole risks becoming a flashpoint. The best crater-rim sites for solar power and ice access are limited. First-mover nations could establish facts on the ground that others must simply accept."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Moon Is Open for Business",
+      "body": "The next decade will define who benefits from lunar resources and on what terms. Whether this becomes humanity's greatest collaborative project — or its first off-world conflict — depends on the rules we write right now."
+    }
+  ]
+}
