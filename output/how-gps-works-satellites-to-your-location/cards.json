@@ -1,0 +1,66 @@
+{
+  "title": "How GPS Works: From Satellites to Your Location",
+  "theme_color": "#1a6fc4",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How GPS Works",
+      "body": "From 20,000 km Above Earth to the Dot on Your Map"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "A Constellation in the Sky",
+      "body": "The GPS system uses 31 active satellites orbiting Earth at ~20,200 km altitude. They're arranged so that at least 4 satellites are visible from almost any point on the planet at any time."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Atomic Clocks Keep Time",
+      "body": "Each satellite carries 3–4 atomic clocks accurate to one second every 300 million years. This extreme precision is essential — a tiny timing error translates to hundreds of meters of location error on the ground."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Broadcasting Your Position",
+      "body": "Every satellite continuously broadcasts a radio signal containing its exact location and the precise time the signal was sent. Your GPS receiver listens for these signals traveling at the speed of light."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Math of Trilateration",
+      "body": "Your device measures how long each signal took to arrive and multiplies by the speed of light to get distance. With 3 satellites, it narrows your position to a point; a 4th satellite eliminates clock error in the receiver."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Einstein's Relativity Matters",
+      "body": "Satellites move fast and sit in weaker gravity — both effects alter time per Einstein's theories. Without correcting for relativity, GPS positions would drift by up to 10 km per day. The system accounts for this automatically."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Signals Through the Atmosphere",
+      "body": "Radio signals slow slightly as they pass through the ionosphere and troposphere, introducing errors. Modern GPS receivers use atmospheric models and data from ground stations to correct for these delays."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Assisted GPS & Modern Phones",
+      "body": "Smartphones use A-GPS, downloading satellite almanac data over Wi-Fi or cell networks to get a fix in seconds instead of minutes. They also combine GPS with cell tower and Wi-Fi signals for accuracy indoors."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Beyond Navigation",
+      "body": "GPS powers more than maps — it synchronizes global financial networks, timestamps internet traffic, guides autonomous vehicles, enables precision farming, and coordinates disaster response in remote areas."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Signal Worth Following",
+      "body": "Next time your phone pinpoints you instantly, remember: 31 satellites, atomic clocks, Einstein's physics, and decades of engineering are working together — all to put that dot exactly where you are."
+    }
+  ]
+}
