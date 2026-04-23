@@ -1,0 +1,66 @@
+{
+  "title": "The Rise of Humanoid Robots",
+  "theme_color": "#1a237e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Rise of Humanoid Robots",
+      "body": "From science fiction to factory floors — the machines that walk like us are finally here"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Why Human-Shaped?",
+      "body": "Our world is built for human bodies — door handles, stairs, tools. A humanoid robot can operate in existing spaces without costly redesigns, making it far more versatile than purpose-built industrial arms."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Hardware Breakthrough",
+      "body": "Advances in electric actuators, lightweight carbon-fiber frames, and compact battery packs have finally made human-sized robots practical. Modern humanoids can walk, run, and recover from stumbles in real time."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "AI as the Brain",
+      "body": "Large language models and vision AI give robots the ability to understand spoken instructions, interpret their environment, and adapt to unexpected situations — a leap beyond hard-coded automation."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Who's Building Them?",
+      "body": "Tesla (Optimus), Figure AI, Boston Dynamics (Atlas), Agility Robotics (Digit), and dozens of startups are racing to ship commercial humanoids. China's UBTECH and Unitree are close behind, fueling a global competition."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "First Jobs on the List",
+      "body": "Early deployments focus on repetitive, physically demanding tasks: moving boxes in warehouses, assembling car parts, and sorting packages. BMW and Amazon are already running pilot programs with humanoid workers."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Dexterity Problem",
+      "body": "Hands remain the hardest challenge. Picking up a grape without crushing it requires sensing, force control, and learned intuition that engineers are still working to crack at scale and speed."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Cost vs. Human Labor",
+      "body": "Current humanoid robots cost $20,000–$150,000 each. Analysts predict prices could drop below $10,000 by 2030 as production scales, potentially making them cheaper per task than minimum-wage workers in many markets."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Ethical & Social Questions",
+      "body": "Who owns the data these robots collect in our homes and workplaces? How do we retrain displaced workers? And who is liable when a robot causes an accident? Society is only beginning to debate the answers."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A New Kind of Colleague",
+      "body": "Humanoid robots won't replace humanity — but they will redefine what work means. The decisions we make now about safety, fairness, and oversight will shape whether this revolution benefits everyone."
+    }
+  ]
+}
