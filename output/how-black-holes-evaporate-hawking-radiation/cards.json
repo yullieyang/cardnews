@@ -1,0 +1,66 @@
+{
+  "title": "How Black Holes Evaporate: Hawking Radiation Explained",
+  "theme_color": "#1a0a4e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Black Holes Evaporate",
+      "body": "The quantum secret that makes even the universe's darkest objects slowly disappear"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Black Holes Aren't Forever",
+      "body": "Classical physics said black holes only grow — nothing escapes their gravity. In 1974, Stephen Hawking overturned this idea, showing that black holes slowly lose mass and eventually vanish entirely."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Quantum Vacuum Isn't Empty",
+      "body": "Quantum mechanics reveals that 'empty' space is actually filled with pairs of virtual particles constantly popping in and out of existence. This fleeting activity is the key to Hawking's discovery."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Particle Pairs at the Event Horizon",
+      "body": "Near a black hole's event horizon, a virtual particle pair can be split apart. One particle falls inward while the other escapes as real radiation — energy the black hole must pay for from its own mass."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Temperature from Gravity",
+      "body": "Hawking showed that black holes radiate like a hot object — they have a temperature. The smaller the black hole, the hotter it is. A stellar-mass black hole is far colder than the cosmic microwave background, making detection nearly impossible today."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Evaporation Timeline",
+      "body": "As a black hole loses mass it heats up, radiating faster and faster. A black hole the mass of the Sun would take 10⁶⁷ years to fully evaporate — far longer than the current age of the universe (13.8 billion years)."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Primordial Black Holes & Explosions",
+      "body": "Tiny 'primordial' black holes formed in the Big Bang could have evaporated by now. In their final seconds they release an enormous burst of high-energy gamma rays — astrophysicists are actively hunting for these flashes."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Information Paradox",
+      "body": "If a black hole evaporates completely, what happens to the information about everything it swallowed? Quantum mechanics says information can't be destroyed. This unresolved puzzle — the black hole information paradox — drives cutting-edge physics research today."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Where Quantum Meets Gravity",
+      "body": "Hawking radiation sits at the boundary of two great theories: quantum mechanics and general relativity. Understanding it fully may require a complete theory of quantum gravity — the holy grail of modern physics."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Universe Always Finds a Way",
+      "body": "Even the most inescapable objects in the cosmos slowly surrender to quantum physics. Hawking radiation reminds us that reality at its deepest level is stranger — and more beautiful — than we imagined."
+    }
+  ]
+}
