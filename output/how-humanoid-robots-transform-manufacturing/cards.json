@@ -1,0 +1,66 @@
+{
+  "title": "How Humanoid Robots Are Transforming Manufacturing",
+  "theme_color": "#1a237e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Rise of the Robot Workforce",
+      "body": "How humanoid robots are stepping onto factory floors — and reshaping the future of work"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "From Sci-Fi to Shop Floor",
+      "body": "Just a few years ago, walking humanoid robots existed only in labs. By 2026, companies like Tesla, Figure AI, and Agility Robotics are deploying them in real factories, performing tasks once thought exclusive to humans."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Humanoid Shape Matters",
+      "body": "Most factories were designed for human bodies. Humanoid robots can use the same tools, walk the same aisles, and operate the same equipment — no expensive factory redesign required. That's a massive practical advantage over traditional industrial arms."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "What They Can Do Today",
+      "body": "Current humanoid robots excel at repetitive, physically demanding tasks: picking and sorting parts, loading shelves, and light assembly. Tesla's Optimus Gen 2 can sort small objects with dexterous hands at speeds approaching human workers."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The AI Brain Behind the Body",
+      "body": "These robots are powered by large neural networks trained on video of human workers. They learn by watching — a technique called imitation learning — letting them adapt to new tasks in hours rather than weeks of manual programming."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Economics Are Shifting Fast",
+      "body": "Early humanoid robots cost $200,000+. Falling hardware costs and mass production are pushing prices toward $30,000–$50,000 by the late 2020s. At that price point, the ROI for manufacturers becomes compelling within 2–3 years of deployment."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Safety: Sharing Space with Humans",
+      "body": "Unlike traditional industrial robots caged behind barriers, humanoid robots must work safely alongside people. They use force-sensitive joints, real-time collision detection, and conservative motion planning to avoid injuring co-workers."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Labor Gap They're Filling",
+      "body": "Manufacturing faces a chronic worker shortage — the U.S. alone had 600,000+ unfilled factory jobs in 2025. Humanoid robots are increasingly seen not as replacements, but as a way to fill roles that human workers don't want or can't fill."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Challenges Still Ahead",
+      "body": "Reliability, battery life (most run 4–6 hours), and graceful failure handling remain unsolved. A robot that drops a component or stumbles can halt an entire production line. Getting to 99.9% uptime is the critical engineering milestone."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Factory of Tomorrow, Today",
+      "body": "Humanoid robots won't replace the human workforce overnight — but they're already changing what's possible on the factory floor. The companies that learn to work alongside them now will define manufacturing for the next decade."
+    }
+  ]
+}
