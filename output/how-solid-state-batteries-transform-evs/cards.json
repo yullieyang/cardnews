@@ -1,0 +1,66 @@
+{
+  "title": "How Solid-State Batteries Will Transform Electric Vehicles",
+  "theme_color": "#1a6b3c",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Solid-State Batteries",
+      "body": "The breakthrough that will finally make EVs better than gas cars in every way"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What's Wrong with Today's Batteries?",
+      "body": "Current lithium-ion batteries use a liquid electrolyte that is flammable, degrades over time, and limits how fast the battery can safely charge. These trade-offs cap range, lifespan, and safety."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Solid-State Difference",
+      "body": "Solid-state batteries replace the liquid electrolyte with a thin ceramic or polymer solid. This removes the fire risk entirely and allows a much denser packing of energy — more power in the same space."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Double the Range",
+      "body": "Solid-state cells can store roughly twice the energy per kilogram compared to today's best lithium-ion packs. A 400-mile EV today could realistically reach 700–800 miles on a single charge."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "10-Minute Fast Charging",
+      "body": "Liquid electrolytes limit charge rates because ions move slowly and generate heat. A solid electrolyte can handle far higher current, enabling a full charge in under 10 minutes — comparable to a gas station stop."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Longer Lifespan",
+      "body": "Lithium-ion batteries degrade because dendrites — tiny metal spikes — grow through the liquid over charge cycles. A solid barrier physically blocks dendrites, giving solid-state cells lifespans exceeding 1,000,000 miles."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Safety: No More Battery Fires",
+      "body": "Thermal runaway — the chain reaction that causes EV battery fires — requires a flammable liquid to ignite. Remove the liquid and the risk vanishes. Solid-state batteries can even be cut or punctured without catching fire."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Who's Closest to Market?",
+      "body": "Toyota, QuantumScape, Solid Power, and CATL are all racing to scale production. Toyota has announced solid-state EVs for 2027–2028. QuantumScape is supplying trial cells to Volkswagen Group right now."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Remaining Hurdles",
+      "body": "Manufacturing at scale is the key challenge — solid electrolyte layers must be atom-thin and crack-free across billions of cells. Cost is still 3–5× higher than lithium-ion, but analysts expect parity by 2030."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The EV Tipping Point Is Near",
+      "body": "Solid-state batteries remove the last major objections to EVs: range anxiety, long charge times, and safety concerns. When they hit mass market around 2028–2030, the internal combustion engine era will effectively be over."
+    }
+  ]
+}
