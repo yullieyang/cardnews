@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Sleep Cycles",
+  "theme_color": "#3B4FA8",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Sleep Cycles",
+      "body": "Why 8 hours isn't always enough — and what really happens when you sleep"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Sleep Isn't One Long Nap",
+      "body": "Sleep is divided into repeating 90-minute cycles. Each night you go through 4–6 of these cycles, each containing distinct stages with very different functions for your brain and body."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Stage 1 & 2: Light Sleep",
+      "body": "You drift off and your heart rate slows. Stage 2 brings sleep spindles — brief bursts of brain activity that help consolidate memories and protect sleep from disturbances."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Stage 3: Deep Sleep (Slow-Wave)",
+      "body": "This is your body's repair mode. Growth hormone is released, tissues are rebuilt, and your immune system is strengthened. It's hardest to wake someone from deep sleep — and most of it happens in the first half of the night."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "REM Sleep: The Dream Stage",
+      "body": "Rapid Eye Movement sleep is when vivid dreams occur. Your brain is nearly as active as when awake, processing emotions, consolidating long-term memories, and boosting creativity. REM dominates the second half of the night."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Why Timing Matters More Than Duration",
+      "body": "Waking in the middle of deep sleep causes grogginess called sleep inertia. Waking at the end of a 90-minute cycle — when sleep is lightest — leaves you feeling refreshed. Smart alarms use this principle."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Role of Adenosine & Circadian Rhythm",
+      "body": "Two systems govern sleepiness. Adenosine builds up in the brain the longer you're awake (caffeine blocks it). Your circadian clock — reset by morning light — determines when you feel alert or drowsy."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "What Sleep Deprivation Really Does",
+      "body": "Even one night of poor sleep impairs judgment, reaction time, and emotional regulation as severely as alcohol intoxication. Chronic deprivation raises risk of heart disease, diabetes, obesity, and cognitive decline."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Tips to Optimize Your Cycles",
+      "body": "Keep a consistent sleep/wake schedule, even on weekends. Get bright light in the morning and dim lights at night. Avoid caffeine after 2 PM and alcohol close to bedtime — it suppresses REM sleep."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Sleep Smarter, Not Just Longer",
+      "body": "Quality sleep architecture — cycling through all stages — matters as much as hours. Prioritize consistent schedules and sleep hygiene to wake up genuinely restored every day."
+    }
+  ]
+}
