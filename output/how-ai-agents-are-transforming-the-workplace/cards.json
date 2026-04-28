@@ -1,0 +1,66 @@
+{
+  "title": "How AI Agents Are Transforming the Modern Workplace",
+  "theme_color": "#2563EB",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "AI Agents at Work",
+      "body": "How autonomous AI systems are reshaping jobs, workflows, and the future of the office"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is an AI Agent?",
+      "body": "An AI agent is software that perceives its environment, makes decisions, and takes actions to achieve a goal — without constant human input. Unlike simple chatbots, agents can plan multi-step tasks and use tools like web search, code execution, and email."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "From Assistant to Colleague",
+      "body": "Early AI tools responded to single prompts. Modern agents handle entire workflows: researching a topic, drafting a report, sending it for review, and scheduling follow-ups — all autonomously. The shift is from answering questions to completing projects."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Tools Agents Use",
+      "body": "AI agents connect to the internet, read files, run code, call APIs, and control software interfaces. This ability to use external tools is what separates true agents from language models — they act in the world, not just describe it."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Multi-Agent Teams",
+      "body": "Companies are now deploying networks of specialized agents that collaborate: one agent gathers data, another analyzes it, a third writes the summary. These multi-agent pipelines can complete in minutes what used to take a team days."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Jobs Most Affected",
+      "body": "Roles heavy in information processing — data entry, legal review, customer support, financial analysis, and basic coding — are seeing the most disruption. Agents excel at high-volume, repetitive cognitive tasks that are rule-based or follow clear patterns."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Where Humans Still Lead",
+      "body": "Creative strategy, ethical judgment, emotional intelligence, and managing ambiguous situations remain deeply human strengths. The most effective workplaces pair human oversight with agent execution — humans set goals; agents handle the groundwork."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Risks of Autonomous AI",
+      "body": "Agents can make mistakes, hallucinate facts, or take unintended actions when given broad permissions. Organizations must invest in guardrails, audit trails, and human-in-the-loop checkpoints — especially for decisions with legal or financial consequences."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Adoption Is Accelerating",
+      "body": "By 2026, over 40% of Fortune 500 companies have deployed AI agents in at least one business unit. Adoption is fastest in software development, finance, and legal services — sectors where productivity gains are measurable and immediate."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Agent Economy Is Here",
+      "body": "AI agents aren't replacing human ingenuity — they're amplifying it. The winners will be those who learn to direct, audit, and collaborate with these new digital colleagues. The future of work is human strategy backed by machine execution."
+    }
+  ]
+}
