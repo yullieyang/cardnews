@@ -1,0 +1,66 @@
+{
+  "title": "How Quantum Computing Is Breaking Modern Encryption",
+  "theme_color": "#1a237e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Quantum Computing vs. Encryption",
+      "body": "How the next computing revolution threatens the security of everything online"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Encryption Keeps the Internet Safe",
+      "body": "Most online security relies on RSA and ECC encryption. These work because factoring huge numbers or solving elliptic curve problems takes classical computers thousands of years — making brute-force attacks practically impossible."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "What Makes Quantum Computers Different",
+      "body": "Unlike classical bits (0 or 1), quantum bits (qubits) exist in superposition — simultaneously 0 and 1. This lets quantum computers explore many solutions at once, giving them exponential speedups on specific problems."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Shor's Algorithm: The Encryption Killer",
+      "body": "In 1994, mathematician Peter Shor devised an algorithm that lets a quantum computer factor large numbers exponentially faster than any classical method. A sufficiently large quantum computer running Shor's algorithm could crack RSA encryption in hours."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How Far Away Is the Threat?",
+      "body": "Today's quantum computers are too small and error-prone to break real encryption. Experts estimate a cryptographically relevant quantum computer — needing millions of stable qubits — is roughly 10–15 years away, though timelines are uncertain."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "'Harvest Now, Decrypt Later' Attacks",
+      "body": "Nation-states are already collecting encrypted data today with plans to decrypt it once quantum computers mature. Sensitive government, financial, and medical records stolen now could be exposed in the future — making the threat urgent even before quantum computers arrive."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Post-Quantum Cryptography to the Rescue",
+      "body": "NIST finalized its first post-quantum cryptography standards in 2024, including CRYSTALS-Kyber and CRYSTALS-Dilithium. These algorithms are designed to resist both classical and quantum attacks, based on hard lattice math problems."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Big Tech Is Already Migrating",
+      "body": "Google, Apple, and Signal have begun integrating post-quantum algorithms into their products. Google Chrome now uses a hybrid classical/post-quantum key exchange. The migration of global internet infrastructure will take years but is already underway."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Quantum Key Distribution: Unbreakable by Physics",
+      "body": "QKD uses quantum mechanics itself to share encryption keys — any eavesdropper disturbs the quantum state and is immediately detected. China's Micius satellite has demonstrated QKD over 1,200 km, pointing toward a quantum-secure internet."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Clock Is Ticking",
+      "body": "Quantum computing promises to upend encryption as we know it. The good news: the cryptographic community is ready. Transitioning to post-quantum standards now — before quantum computers arrive — is the key to staying secure in the quantum era."
+    }
+  ]
+}
