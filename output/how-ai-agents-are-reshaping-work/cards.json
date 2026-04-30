@@ -1,0 +1,66 @@
+{
+  "title": "How Autonomous AI Agents Are Reshaping Work",
+  "theme_color": "#3B4FD4",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "AI Agents Are Reshaping Work",
+      "body": "How autonomous systems are transforming jobs, workflows, and the future of productivity in 2026"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is an AI Agent?",
+      "body": "An AI agent is software that perceives its environment, makes decisions, and takes actions to achieve goals — without constant human input. Unlike chatbots that simply respond, agents plan, use tools, and execute multi-step tasks autonomously."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "From Assistant to Colleague",
+      "body": "In 2024, AI tools answered questions. By 2026, AI agents book meetings, write and deploy code, file expenses, and coordinate with other agents. The shift is from 'AI that helps you work' to 'AI that works alongside you.'"
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Industries Being Transformed First",
+      "body": "Software engineering, legal research, finance, and customer support are seeing the fastest adoption. AI agents can review thousands of contracts in hours, monitor markets in real time, and resolve support tickets end-to-end without human handoff."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Multi-Agent Systems: Teamwork at Machine Speed",
+      "body": "Modern deployments use networks of specialized agents — one researches, one writes, one reviews, one publishes. These pipelines complete in minutes what previously took days, and they run 24/7 without fatigue or breaks."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "New Jobs AI Agents Are Creating",
+      "body": "Demand is surging for AI trainers, prompt engineers, agent workflow designers, and 'human-in-the-loop' supervisors. Contrary to fears of pure replacement, the biggest shortage in 2026 is people who know how to direct and audit AI systems effectively."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Trust Problem",
+      "body": "Giving an AI agent access to email, code repos, and financial systems raises serious risks. Prompt injection attacks, hallucinated actions, and runaway automation have caused costly mistakes. Organizations are learning that trust must be built incrementally, with strong guardrails."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "How Workers Are Adapting",
+      "body": "The most successful professionals in 2026 treat AI agents like junior team members — delegating clearly, reviewing outputs critically, and focusing their own energy on strategy and judgment. Upskilling in 'agent literacy' has become as essential as spreadsheet skills once were."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Regulation Is Racing to Catch Up",
+      "body": "The EU AI Act, U.S. executive orders, and emerging ISO standards are beginning to define liability when an agent makes a mistake. Who is responsible — the user, the company, or the model maker? These legal questions are still being settled in real time."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Agent Era Has Begun",
+      "body": "AI agents won't replace human ambition — they'll amplify it. The key is learning to collaborate with them wisely: setting clear goals, maintaining oversight, and staying the decision-maker. The future of work is human judgment, powered by machine speed."
+    }
+  ]
+}
