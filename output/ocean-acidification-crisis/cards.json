@@ -1,0 +1,66 @@
+{
+  "title": "Ocean Acidification: The Silent Crisis Beneath the Waves",
+  "theme_color": "#0a6e8a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Ocean Acidification",
+      "body": "The Silent Crisis Beneath the Waves"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Ocean Acidification?",
+      "body": "When CO₂ from burning fossil fuels dissolves in seawater, it forms carbonic acid. Since the Industrial Revolution, ocean pH has dropped from 8.2 to 8.1 — a 26% increase in acidity. That small number hides a massive chemical shift."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Chemistry Behind It",
+      "body": "CO₂ + H₂O → H₂CO₃ (carbonic acid), which splits into hydrogen ions and bicarbonate. More hydrogen ions mean lower pH and higher acidity. These ions also bind with carbonate, reducing the supply that marine life needs to build shells."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Coral Reefs Under Attack",
+      "body": "Coral skeletons are made of calcium carbonate. As seas acidify, corals dissolve faster than they can grow. Scientists project that at current rates, most coral reefs will be severely degraded by 2050, threatening 25% of all marine species."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Shellfish and the Food Chain",
+      "body": "Oysters, mussels, clams, and pteropods (tiny sea snails) struggle to form shells in acidic water. Baby oysters in the Pacific Northwest have already experienced mass die-offs. These creatures form the base of food chains that feed billions of people."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Fish Behavior Changes",
+      "body": "Acidic water disrupts fish sensory systems and brain chemistry. Studies show clownfish lose the ability to detect predator smells, and some fish become disoriented and reckless. Ocean acidification doesn't just dissolve shells — it rewires behavior."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Arctic Is Worst Hit",
+      "body": "Cold water absorbs CO₂ more efficiently than warm water. Arctic and Antarctic oceans are acidifying twice as fast as tropical seas. By 2030, parts of the Arctic Ocean may become corrosive enough to dissolve pteropod shells year-round."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Economic Consequences",
+      "body": "The global seafood industry is worth over $400 billion annually. Ocean acidification threatens fishing economies from Maine's lobster coast to Southeast Asian shrimp farms. Tourism tied to coral reefs — worth $36 billion/year — is also at risk."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Can We Fix It?",
+      "body": "Cutting CO₂ emissions remains the only lasting solution — oceans follow the atmosphere. Short-term strategies include seaweed farming (which absorbs CO₂ locally), protecting seagrass beds, and alkalinity enhancement experiments in coastal waters."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Ocean Can't Wait",
+      "body": "Acidification is happening 10x faster than any ocean chemistry shift in 50 million years. Every fraction of a degree and every ton of CO₂ matters. The choices made this decade will determine the ocean's future — and ours."
+    }
+  ]
+}
