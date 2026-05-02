@@ -1,0 +1,66 @@
+{
+  "title": "Solid-State Batteries: Revolutionizing Electric Vehicles",
+  "theme_color": "#1a6ebd",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Solid-State Batteries",
+      "body": "The breakthrough technology set to transform electric vehicles — longer range, faster charging, and safer rides"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Solid-State Battery?",
+      "body": "Unlike today's lithium-ion batteries that use a liquid electrolyte, solid-state batteries replace it with a solid ceramic or glass material. This seemingly simple swap unlocks dramatically better performance across every key metric."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Problem with Liquid Electrolytes",
+      "body": "Liquid electrolytes are flammable, can leak, and degrade over time — creating fire risk and limiting how densely energy can be packed. They also require bulky thermal management systems, adding weight and cost to every EV on the road today."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Double the Range",
+      "body": "Solid-state cells can store roughly twice the energy in the same physical space, pushing EV range beyond 600 miles on a single charge. This effectively eliminates range anxiety — the #1 barrier to EV adoption worldwide."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "10-Minute Charging",
+      "body": "Solid electrolytes tolerate far higher charge rates without degrading. Lab prototypes have demonstrated 10–15 minute full charges — comparable to a gas-station fill-up. That changes the daily calculus of owning an electric vehicle entirely."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "No More Fire Risk",
+      "body": "Because there's no flammable liquid inside, solid-state batteries are inherently safer. They won't undergo thermal runaway — the chain reaction that causes lithium-ion batteries to catch fire in crashes or during overcharging events."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Who's Leading the Race?",
+      "body": "Toyota aims to launch a solid-state EV by 2027–2028. Samsung SDI and QuantumScape are supplying early cells to automakers. China's CATL and BYD are investing billions to scale production. The race is global and intensely competitive."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Manufacturing Challenge",
+      "body": "Making solid electrolyte layers thin and defect-free at gigafactory scale is extraordinarily difficult. Current production yields are low and costs remain high — but every year of R&D is closing the gap toward mass-market viability."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Beyond Cars: Other Applications",
+      "body": "Solid-state tech will also transform smartphones, medical implants, aircraft, and grid energy storage. The same properties — high density, safety, and longevity — make them attractive across any industry that runs on batteries."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Electric Future, Fully Charged",
+      "body": "Solid-state batteries aren't just an incremental upgrade — they're a fundamental redesign of stored energy. As manufacturing scales up, the 2030s could see affordable EVs that outlast any gas car and charge in the time it takes to grab a coffee."
+    }
+  ]
+}
