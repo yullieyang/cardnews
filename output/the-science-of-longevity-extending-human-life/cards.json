@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Longevity: Breakthroughs in Extending Human Life",
+  "theme_color": "#1a6b5a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Longevity",
+      "body": "Breakthroughs That Could Add Decades to Your Life"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Why We Age",
+      "body": "Aging is driven by nine hallmarks: DNA damage, telomere shortening, cellular senescence, and more. Each acts like a slow leak in the machinery of life. Scientists now have tools to address them directly."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Senolytics: Clearing Zombie Cells",
+      "body": "Senescent cells stop dividing but refuse to die — they secrete toxic signals that accelerate aging. Senolytic drugs like dasatinib and quercetin selectively kill these 'zombie cells,' reversing tissue damage in animal studies."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Rapamycin: The Longevity Drug",
+      "body": "Originally an immunosuppressant, rapamycin inhibits mTOR — a cellular growth sensor. Taken intermittently, it extends lifespan in every organism tested, from yeast to mice. Human trials are now underway."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Epigenetic Reprogramming",
+      "body": "Nobel laureate Shinya Yamanaka showed four genes can reset a cell's biological age. Partial reprogramming in mice reverses vision loss and muscle decline. Startups like Altos Labs are racing to apply this to humans."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "NAD+ and Cellular Energy",
+      "body": "NAD+ is a molecule essential for DNA repair and energy metabolism — its levels plummet with age. Supplements like NMN and NR aim to restore NAD+. Early trials show improvements in muscle function and metabolic health."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Young Blood and GDF11",
+      "body": "Parabiosis experiments linking young and old mice rejuvenated organs in the older animals. Researchers identified proteins like GDF11 as key signals. Clinical trials using young plasma or individual proteins are ongoing."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Role of the Microbiome",
+      "body": "Centenarians share unusually diverse gut microbiomes. Transferring gut bacteria from young mice to old mice improved cognition and immune function. Fecal transplants targeting longevity-promoting strains are in early trials."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "AI Accelerating the Search",
+      "body": "AI models now predict biological age from blood tests, retinal scans, and even voice. DeepMind's AlphaFold resolved protein structures critical to aging research. Machine learning is cutting decades off the drug discovery timeline."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Longer, Healthier Future",
+      "body": "The goal isn't just more years — it's more healthy years. With senolytics, reprogramming, and AI-driven discovery converging, extending the human healthspan by decades may arrive within our lifetime."
+    }
+  ]
+}
