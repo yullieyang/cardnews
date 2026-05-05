@@ -1,0 +1,66 @@
+{
+  "title": "mRNA Cancer Vaccines: Fighting Tumors with Your Own DNA",
+  "theme_color": "#1A5276",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "mRNA Cancer Vaccines",
+      "body": "How a pandemic-era breakthrough is now being turned against one of humanity's oldest enemies: cancer"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "From COVID to Cancer",
+      "body": "The mRNA vaccines that defeated COVID-19 proved the technology works in humans. Researchers immediately pivoted: could the same platform teach the immune system to hunt tumor cells? The answer, it turns out, is yes."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "What Makes Cancer Hard to Vaccinate Against",
+      "body": "Unlike viruses, cancer cells arise from your own body. They disguise themselves as 'self,' evading immune detection. Traditional vaccines target foreign pathogens — cancer required an entirely new approach."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Neoantigen Strategy",
+      "body": "Tumors accumulate unique mutations that produce altered proteins called neoantigens — molecular flags that mark them as abnormal. mRNA vaccines are designed to display these flags, training T-cells to recognize and destroy cells bearing them."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Personalized to Each Patient",
+      "body": "Doctors biopsy the patient's tumor and sequence its DNA. An algorithm selects the strongest neoantigen targets, and a custom mRNA vaccine is synthesized in about six weeks. Every dose is unique — built from the patient's own cancer blueprint."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Melanoma Breakthrough",
+      "body": "A 2023 Moderna/Merck Phase 2 trial showed a personalized mRNA vaccine combined with Keytruda reduced the risk of melanoma recurrence by 49% versus immunotherapy alone. It was the first randomized trial to prove mRNA vaccines can fight solid tumors."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Taking On Pancreatic Cancer",
+      "body": "Pancreatic cancer has a five-year survival rate under 12%. In 2023, a Memorial Sloan Kettering trial showed personalized mRNA vaccines triggered strong T-cell responses in half of patients — and those responders went longer without relapse."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Supercharged by Combination Therapy",
+      "body": "mRNA vaccines work even better alongside checkpoint inhibitors like Keytruda, which 'take the brakes off' immune cells. The combination creates a one-two punch: the vaccine identifies targets, and the inhibitor keeps T-cells attacking aggressively."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Challenges Ahead",
+      "body": "Personalized manufacturing is expensive and slow — currently around six weeks per patient. Scaling production, reducing cost, and extending the approach to more cancer types (lung, colorectal, breast) are the major hurdles researchers are racing to solve."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A New Era of Cancer Treatment",
+      "body": "Phase 3 trials for melanoma are underway, with results expected by 2026. If they hold, mRNA cancer vaccines could become a standard therapy — turning each patient's unique tumor mutations into the very weapon used to destroy it."
+    }
+  ]
+}
