@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Sleep Cycles",
+  "theme_color": "#3B4A8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Sleep Cycles",
+      "body": "Why 8 hours isn't enough — and what your brain actually needs at night"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Sleep Is Not One Thing",
+      "body": "Sleep isn't a single uniform state. Your brain cycles through distinct stages throughout the night, each serving a different biological purpose. Missing any stage has real consequences."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 90-Minute Cycle",
+      "body": "Each sleep cycle lasts roughly 90 minutes and contains four stages: N1 (light sleep), N2 (onset sleep), N3 (deep sleep), and REM. A full night typically means 4–6 complete cycles."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "N3: Deep Sleep Repairs the Body",
+      "body": "Slow-wave deep sleep (N3) is when your body releases growth hormone, repairs tissue, and consolidates physical memories. It dominates the first half of the night — cutting sleep short robs you of it."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "REM: The Brain's Night Shift",
+      "body": "REM (Rapid Eye Movement) sleep is when your brain processes emotions, consolidates learning, and runs creative problem-solving. REM cycles get longer toward morning — sleeping in matters."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Why Timing Beats Duration",
+      "body": "Waking mid-cycle — especially out of N3 or REM — causes sleep inertia, that groggy, disoriented feeling. Apps and smart alarms that track movement try to wake you at the end of a cycle instead."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Glymphatic System Cleans at Night",
+      "body": "During deep sleep, the brain's glymphatic system activates, flushing out metabolic waste including amyloid-beta — a protein linked to Alzheimer's. Chronic poor sleep literally lets toxins accumulate."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Alcohol & Screens Hijack Your Cycles",
+      "body": "Alcohol suppresses REM sleep, leaving you emotionally raw the next day. Blue light from screens delays melatonin release by up to 3 hours, pushing back the start of your entire sleep architecture."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Napping: Use It Wisely",
+      "body": "A 20-minute nap boosts alertness without entering deep sleep (avoiding grogginess). A 90-minute nap completes one full cycle and meaningfully restores cognitive performance. Avoid napping after 3pm."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Sleep Smarter, Not Just Longer",
+      "body": "Quality sleep means completing full 90-minute cycles, protecting deep sleep and REM, and waking at the right moment. Consistent sleep and wake times are the single most powerful habit for better rest."
+    }
+  ]
+}
