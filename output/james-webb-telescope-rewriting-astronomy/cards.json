@@ -1,0 +1,66 @@
+{
+  "title": "How the James Webb Space Telescope Is Rewriting Astronomy",
+  "theme_color": "#1b2a6b",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "James Webb Space Telescope",
+      "body": "The most powerful observatory ever built — and what it's showing us about the universe"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "A Telescope 100× More Powerful Than Hubble",
+      "body": "JWST's 6.5-meter gold-plated mirror collects about 100 times more light than Hubble. It sees in infrared, which cuts through dust clouds that blocked visible-light telescopes entirely. This lets us peer deeper into space — and further back in time — than ever before."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Seeing the Universe's First Galaxies",
+      "body": "JWST has imaged galaxies that formed just 300–400 million years after the Big Bang — far earlier than scientists expected. Some are surprisingly large and structured, forcing astronomers to rethink how quickly galaxies can assemble from primordial gas."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Detecting Chemicals on Alien Worlds",
+      "body": "When a planet passes in front of its star, JWST reads the starlight filtered through its atmosphere. This technique, called transmission spectroscopy, has already identified water vapor, carbon dioxide, and methane on exoplanets — ingredients relevant to the search for life."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "A Possible Biosignature on K2-18b",
+      "body": "In 2023, JWST detected a tentative signal of dimethyl sulfide on exoplanet K2-18b — a molecule that, on Earth, is produced only by living organisms. Scientists are cautious, but it's the closest we've come to a potential biosignature outside our solar system."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Unveiling Star Birth in Stunning Detail",
+      "body": "JWST's infrared vision pierces the dense nebulae where stars are born. Its image of the Carina Nebula revealed hundreds of previously hidden young stars and protostars embedded in towering pillars of gas — a nursery of suns that was invisible to prior telescopes."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Challenging the Standard Model of Cosmology",
+      "body": "JWST measurements of the universe's expansion rate conflict with predictions from the standard cosmological model. This tension — called the Hubble Tension — has grown sharper with JWST data, hinting that our fundamental model of the cosmos may be incomplete."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "A $10 Billion Engineering Marvel",
+      "body": "JWST took 25 years and $10 billion to build, involving 20 countries. Its mirror unfolds in space like origami, and it operates at –233°C (40 Kelvin) to detect faint infrared heat. It was placed 1.5 million km from Earth at the L2 Lagrange point — too far to repair."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Years of Discovery Ahead",
+      "body": "JWST launched with enough fuel for a 20-year mission. Scientists have already found more than expected in its first two years. Upcoming observations will probe dark matter's distribution, map ancient galaxy clusters, and continue the search for habitable worlds."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Every Image Is a New Revelation",
+      "body": "JWST isn't just taking pretty pictures — it's dismantling old assumptions and asking new questions about how the universe began, how stars live and die, and whether life exists beyond Earth. The golden mirror has only just begun."
+    }
+  ]
+}
