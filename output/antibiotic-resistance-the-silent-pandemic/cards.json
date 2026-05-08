@@ -1,0 +1,66 @@
+{
+  "title": "Antibiotic Resistance: The Silent Pandemic",
+  "theme_color": "#b71c1c",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Antibiotic Resistance: The Silent Pandemic",
+      "body": "The bacteria fighting back against our best medicines — and why it may be the biggest health crisis of the century"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Antibiotic Resistance?",
+      "body": "When bacteria are exposed to antibiotics repeatedly, some survive and pass on resistance traits to offspring. Over time, entire populations of bacteria can become immune to drugs that once killed them easily — rendering standard treatments useless."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Scale of the Problem",
+      "body": "Antibiotic-resistant infections already kill over 1.27 million people directly each year — more than HIV/AIDS or malaria. The UN warns that by 2050, drug-resistant infections could claim 10 million lives annually without urgent action."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How We Created This Crisis",
+      "body": "Decades of over-prescribing antibiotics for viral infections (which they can't treat), widespread use in livestock farming, and patients stopping courses early have all turbocharged bacterial evolution toward resistance."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Superbugs",
+      "body": "MRSA, CRE, and drug-resistant tuberculosis are among the most dangerous superbugs today. Some strains are pan-resistant — no known antibiotic can touch them. These infections spread easily in hospitals and the community alike."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Why New Antibiotics Are Rare",
+      "body": "Developing a new antibiotic costs over $1 billion and takes 10–15 years. But the drug is used sparingly to preserve its effectiveness, making it a poor investment for pharmaceutical companies. The pipeline has nearly dried up."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Phage Therapy: An Ancient Solution",
+      "body": "Bacteriophages are viruses that infect and kill bacteria. First discovered over a century ago, they're seeing a revival as a precision alternative to antibiotics — targeting only harmful bacteria without disturbing the body's microbiome."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "AI Accelerating Drug Discovery",
+      "body": "Machine learning models are scanning billions of molecular combinations to identify novel antimicrobial compounds. In 2024, AI tools discovered several promising candidates in weeks — work that would have taken years using traditional methods."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What Individuals Can Do",
+      "body": "Never demand antibiotics for colds or flu. Always complete the full prescribed course. Avoid antibiotics in food when possible. Wash hands regularly. These small habits collectively slow the spread of resistant strains."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Act Before It's Too Late",
+      "body": "We have a narrow window to reverse course. With smarter prescribing, new incentives for drug development, and global cooperation, antibiotic resistance is a crisis we can slow — but only if we start treating it like one."
+    }
+  ]
+}
