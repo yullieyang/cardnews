@@ -1,1 +1,66 @@
-ewogICJ0aXRsZSI6ICJOZXVyb3BsYXN0aWNpdHk6IEhvdyBZb3VyIEJyYWluIFJld2lyZXMgSXRzZWxmIiwKICAidGhlbWVfY29sb3IiOiAiIzZhMWI5YSIsCiAgInNsaWRlcyI6IFsKICAgIHsKICAgICAgInNsaWRlX251bWJlciI6IDEsCiAgICAgICJ0eXBlIjogInRpdGxlIiwKICAgICAgImhlYWRpbmciOiAiTmV1cm9wbGFzdGljaXR5IiwKICAgICAgImJvZHkiOiAiSG93IFlvdXIgQnJhaW4gUmV3aXJlcyBJdHNlbGYg4oCUIGFuZCBXaHkgVGhhdCBDaGFuZ2VzIEV2ZXJ5dGhpbmciCiAgICB9LAogICAgewogICAgICAic2xpZGVfbnVtYmVyIjogMiwKICAgICAgInR5cGUiOiAiY29udGVudCIsCiAgICAgICJoZWFkaW5nIjogIlRoZSBPbGQgTXl0aDogRml4ZWQgYXQgQmlydGgiLAogICAgICAiYm9keSI6ICJGb3IgbW9zdCBvZiB0aGUgMjB0aCBjZW50dXJ5LCBzY2llbnRpc3RzIGJlbGlldmVkIHRoZSBhZHVsdCBicmFpbiB3YXMgaGFyZHdpcmVkIOKAlCBuZXVyb25zIGdyZXcgb25seSBpbiBjaGlsZGhvb2QgYW5kIG9uY2UgbG9zdCwgd2VyZSBnb25lIGZvcmV2ZXIuIFRoYXQgYXNzdW1wdGlvbiB0dXJuZWQgb3V0IHRvIGJlIGNvbXBsZXRlbHkgd3JvbmcuIgogICAgfSwKICAgIHsKICAgICAgInNsaWRlX251bWJlciI6IDMsCiAgICAgICJ0eXBlIjogImNvbnRlbnQiLAogICAgICAiaGVhZGluZyI6ICJXaGF0IE5ldXJvcGxhc3RpY2l0eSBBY3R1YWxseSBNZWFucyIsCiAgICAgICJib2R5IjogIk5ldXJvcGxhc3RpY2l0eSBpcyB0aGUgYnJhaW4ncyBhYmlsaXR5IHRvIGNoYW5nZSBpdHMgc3RydWN0dXJlIGFuZCBmdW5jdGlvbiBpbiByZXNwb25zZSB0byBleHBlcmllbmNlLiBOZXcgbmV1cmFsIGNvbm5lY3Rpb25zIGZvcm0sIGV4aXN0aW5nIG9uZXMgc3RyZW5ndGhlbiBvciB3ZWFrZW4sIGFuZCBpbiBzb21lIHJlZ2lvbnMsIGVudGlyZWx5IG5ldyBuZXVyb25zIGdyb3cgdGhyb3VnaG91dCBsaWZlLiIKICAgIH0sCiAgICB7CiAgICAgICJzbGlkZV9udW1iZXIiOiA0LAogICAgICAidHlwZSI6ICJjb250ZW50IiwKICAgICAgImhlYWRpbmciOiAiTmV1cm9ucyBUaGF0IEZpcmUgVG9nZXRoZXIsIFdpcmUgVG9nZXRoZXIiLAogICAgICAiYm9keSI6ICJFdmVyeSB0aW1lIHlvdSByZXBlYXQgYW4gYWN0aW9uIG9yIHRob3VnaHQsIHRoZSBzeW5hcHRpYyBjb25uZWN0aW9ucyBpbnZvbHZlZCBnZXQgc3Ryb25nZXIg4oCUIGxpa2UgYSBwYXRoIHdvcm4gaW50byBncmFzcy4gVGhpcyBpcyBIZWJiJ3MgUnVsZSwgY29pbmVkIGluIDE5NDksIGFuZCBpdCdzIHRoZSBjb3JlIG1lY2hhbmlzbSBiZWhpbmQgYWxsIGxlYXJuaW5nIGFuZCBoYWJpdCBmb3JtYXRpb24uIgogICAgfSwKICAgIHsKICAgICAgInNsaWRlX251bWJlciI6IDUsCiAgICAgICJ0eXBlIjogImNvbnRlbnQiLAogICAgICAiaGVhZGluZyI6ICJUaGUgQnJhaW4gQWZ0ZXIgSW5qdXJ5IiwKICAgICAgImJvZHkiOiAiU3Ryb2tlIHBhdGllbnRzIHdobyBsb3NlIHNwZWVjaCBvciBtb3ZlbWVudCBjYW4gcmVjb3ZlciBmdW5jdGlvbiBhcyBuZWlnaGJvcmluZyBicmFpbiByZWdpb25zIHRha2Ugb3ZlciBsb3N0IGR1dGllcy4gVGhpcyByZW9yZ2FuaXphdGlvbiBjYW4gaGFwcGVuIGV2ZW4geWVhcnMgYWZ0ZXIgaW5qdXJ5IOKAlCBwcm9vZiB0aGF0IHRoZSBhZHVsdCBicmFpbiBuZXZlciBzdG9wcyBhZGFwdGluZy4iCiAgICB9LAogICAgewogICAgICAic2xpZGVfbnVtYmVyIjogNiwKICAgICAgInR5cGUiOiAiY29udGVudCIsCiAgICAgICJoZWFkaW5nIjogIlNsZWVwIElzIFdoZW4gUmV3aXJpbmcgSGFwcGVucyIsCiAgICAgICJib2R5IjogIkR1cmluZyBkZWVwIHNsZWVwLCB0aGUgYnJhaW4gY29uc29saWRhdGVzIG1lbW9yaWVzIGJ5IHJlcGxheWluZyB0aGUgZGF5J3MgZXhwZXJpZW5jZXMgYW5kIHBydW5pbmcgd2VhayBjb25uZWN0aW9ucy4gU2tpbXBpbmcgb24gc2xlZXAgZG9lc24ndCBqdXN0IG1ha2UgeW91IHRpcmVkIOKAlCBpdCBhY3RpdmVseSBpbnRlcmZlcmVzIHdpdGggeW91ciBicmFpbidzIGFiaWxpdHkgdG8gbGVhcm4gYW5kIHJld2lyZS4iCiAgICB9LAogICAgewogICAgICAic2xpZGVfbnVtYmVyIjogNywKICAgICAgInR5cGUiOiAiY29udGVudCIsCiAgICAgICJoZWFkaW5nIjogIkV4ZXJjaXNlOiBUaGUgQnJhaW4ncyBCZXN0IERydWciLAogICAgICAiYm9keSI6ICJBZXJvYmljIGV4ZXJjaXNlIHRyaWdnZXJzIHJlbGVhc2Ugb2YgQkRORiAoYnJhaW4tZGVyaXZlZCBuZXVyb3Ryb3BoaWMgZmFjdG9yKSDigJQgYSBwcm90ZWluIHRoYXQgYWN0cyBsaWtlIGZlcnRpbGl6ZXIgZm9yIG5ldXJvbnMuIFJlZ3VsYXIgZXhlcmNpc2UgbWVhc3VyYWJseSBncm93cyB0aGUgaGlwcG9jYW1wdXMsIHRoZSBicmFpbiByZWdpb24gY2VudHJhbCB0byBtZW1vcnkgYW5kIGxlYXJuaW5nLiIKICAgIH0sCiAgICB7CiAgICAgICJzbGlkZV9udW1iZXIiOiA4LAogICAgICAidHlwZSI6ICJjb250ZW50IiwKICAgICAgImhlYWRpbmciOiAiTWVkaXRhdGlvbiBDaGFuZ2VzIEJyYWluIFN0cnVjdHVyZSIsCiAgICAgICJib2R5IjogIk1SSSBzdHVkaWVzIG9mIGxvbmctdGVybSBtZWRpdGF0b3JzIHNob3cgdGhpY2tlciBjb3J0aWNhbCByZWdpb25zIHRpZWQgdG8gYXR0ZW50aW9uIGFuZCBzZWxmLWF3YXJlbmVzcy4gRXZlbiBhbiA4LXdlZWsgbWluZGZ1bG5lc3MgcHJvZ3JhbSBwcm9kdWNlcyBtZWFzdXJhYmxlIHN0cnVjdHVyYWwgY2hhbmdlcyDigJQgdGhlIGJyYWluIGxpdGVyYWxseSByZXNoYXBlcyBhcm91bmQgd2hhdCB5b3UgcHJhY3RpY2UuIgogICAgfSwKICAgIHsKICAgICAgInNsaWRlX251bWJlciI6IDksCiAgICAgICJ0eXBlIjogImNvbnRlbnQiLAogICAgICAiaGVhZGluZyI6ICJUaGUgRGFyayBTaWRlOiBCYWQgSGFiaXRzIFdpcmUgSW4gVG9vIiwKICAgICAgImJvZHkiOiAiTmV1cm9wbGFzdGljaXR5IGlzIG5ldXRyYWwg4oCUIGl0IHJlaW5mb3JjZXMgd2hhdGV2ZXIgeW91IHJlcGVhdC4gQWRkaWN0aW9uIGhpamFja3MgdGhpcyBzeXN0ZW0sIGNhcnZpbmcgZGVlcCBncm9vdmVzIGZvciBjcmF2aW5nLiBDaHJvbmljIHN0cmVzcyBzaHJpbmtzIHRoZSBwcmVmcm9udGFsIGNvcnRleC4gV2hhdCB5b3UgZmVlZCB5b3VyIGJyYWluIGdyb3dzIHN0cm9uZ2VyLCBmb3IgYmV0dGVyIG9yIHdvcnNlLiIKICAgIH0sCiAgICB7CiAgICAgICJzbGlkZV9udW1iZXIiOiAxMCwKICAgICAgInR5cGUiOiAiY2xvc2luZyIsCiAgICAgICJoZWFkaW5nIjogIllvdSBBcmUgQWx3YXlzIFVuZGVyIENvbnN0cnVjdGlvbiIsCiAgICAgICJib2R5IjogIllvdXIgYnJhaW4gaXMgbm90IGZpeGVkIOKAlCBpdCBpcyBzaGFwZWQgYnkgZXZlcnkgdGhvdWdodCwgaGFiaXQsIGFuZCBleHBlcmllbmNlIHlvdSByZXBlYXQuIFRoYXQgaXMgYm90aCBhIHNjaWVudGlmaWMgZmFjdCBhbmQgYW4gaW52aXRhdGlvbjogdGhlIGJyYWluIHlvdSBoYXZlIHRvZGF5IGlzIG5vdCB0aGUgb25seSBicmFpbiB5b3UgY2FuIGhhdmUuIgogICAgfQogIF0KfQo=
+{
+  "title": "Neuroplasticity: How Your Brain Rewires Itself",
+  "theme_color": "#6a1b9a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Neuroplasticity",
+      "body": "How Your Brain Rewires Itself — and Why That Changes Everything"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Old Myth: Fixed at Birth",
+      "body": "For most of the 20th century, scientists believed the adult brain was hardwired — neurons grew only in childhood and once lost, were gone forever. That assumption turned out to be completely wrong."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "What Neuroplasticity Actually Means",
+      "body": "Neuroplasticity is the brain's ability to change its structure and function in response to experience. New neural connections form, existing ones strengthen or weaken, and in some regions, entirely new neurons grow throughout life."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Neurons That Fire Together, Wire Together",
+      "body": "Every time you repeat an action or thought, the synaptic connections involved get stronger — like a path worn into grass. This is Hebb's Rule, coined in 1949, and it's the core mechanism behind all learning and habit formation."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Brain After Injury",
+      "body": "Stroke patients who lose speech or movement can recover function as neighboring brain regions take over lost duties. This reorganization can happen even years after injury — proof that the adult brain never stops adapting."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Sleep Is When Rewiring Happens",
+      "body": "During deep sleep, the brain consolidates memories by replaying the day's experiences and pruning weak connections. Skimping on sleep doesn't just make you tired — it actively interferes with your brain's ability to learn and rewire."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Exercise: The Brain's Best Drug",
+      "body": "Aerobic exercise triggers release of BDNF (brain-derived neurotrophic factor) — a protein that acts like fertilizer for neurons. Regular exercise measurably grows the hippocampus, the brain region central to memory and learning."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Meditation Changes Brain Structure",
+      "body": "MRI studies of long-term meditators show thicker cortical regions tied to attention and self-awareness. Even an 8-week mindfulness program produces measurable structural changes — the brain literally reshapes around what you practice."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Dark Side: Bad Habits Wire In Too",
+      "body": "Neuroplasticity is neutral — it reinforces whatever you repeat. Addiction hijacks this system, carving deep grooves for craving. Chronic stress shrinks the prefrontal cortex. What you feed your brain grows stronger, for better or worse."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "You Are Always Under Construction",
+      "body": "Your brain is not fixed — it is shaped by every thought, habit, and experience you repeat. That is both a scientific fact and an invitation: the brain you have today is not the only brain you can have."
+    }
+  ]
+}
