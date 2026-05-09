@@ -1,0 +1,66 @@
+{
+  "title": "Neuroplasticity: How Your Brain Rewires Itself",
+  "theme_color": "#6a1b9a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Neuroplasticity",
+      "body": "How Your Brain Rewires Itself — and Why That Changes Everything"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Old Myth: Fixed at Birth",
+      "body": "For most of the 20th century, scientists believed the adult brain was hardwired — neurons grew only in childhood and once lost, were gone forever. That assumption turned out to be completely wrong."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "What Neuroplasticity Actually Means",
+      "body": "Neuroplasticity is the brain's ability to change its structure and function in response to experience. New neural connections form, existing ones strengthen or weaken, and in some regions, entirely new neurons grow throughout life."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Neurons That Fire Together, Wire Together",
+      "body": "Every time you repeat an action or thought, the synaptic connections involved get stronger — like a path worn into grass. This is Hebb's Rule, coined in 1949, and it's the core mechanism behind all learning and habit formation."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Brain After Injury",
+      "body": "Stroke patients who lose speech or movement can recover function as neighboring brain regions take over lost duties. This reorganization can happen even years after injury — proof that the adult brain never stops adapting."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Sleep Is When Rewiring Happens",
+      "body": "During deep sleep, the brain consolidates memories by replaying the day's experiences and pruning weak connections. Skimping on sleep doesn't just make you tired — it actively interferes with your brain's ability to learn and rewire."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Exercise: The Brain's Best Drug",
+      "body": "Aerobic exercise triggers release of BDNF (brain-derived neurotrophic factor) — a protein that acts like fertilizer for neurons. Regular exercise measurably grows the hippocampus, the brain region central to memory and learning."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Meditation Changes Brain Structure",
+      "body": "MRI studies of long-term meditators show thicker cortical regions tied to attention and self-awareness. Even an 8-week mindfulness program produces measurable structural changes — the brain literally reshapes around what you practice."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Dark Side: Bad Habits Wire In Too",
+      "body": "Neuroplasticity is neutral — it reinforces whatever you repeat. Addiction hijacks this system, carving deep grooves for craving. Chronic stress shrinks the prefrontal cortex. What you feed your brain grows stronger, for better or worse."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "You Are Always Under Construction",
+      "body": "Your brain is not fixed — it is shaped by every thought, habit, and experience you repeat. That is both a scientific fact and an invitation: the brain you have today is not the only brain you can have."
+    }
+  ]
+}
