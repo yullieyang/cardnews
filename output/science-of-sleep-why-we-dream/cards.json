@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Sleep: Why We Dream",
+  "theme_color": "#3B4BA8",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Sleep: Why We Dream",
+      "body": "Every night your brain embarks on a mysterious journey. Here's what science knows."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Sleep Is Not Passive Rest",
+      "body": "While your body rests, your brain cycles through distinct stages roughly every 90 minutes. Far from shutting down, it consolidates memories, flushes toxins, and regulates hormones — all critical to staying healthy and sharp."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 4 Stages of Sleep",
+      "body": "Sleep falls into NREM (Stages 1–3) and REM phases. Light sleep (N1/N2) transitions you inward; deep slow-wave sleep (N3) restores the body; REM sleep activates the brain almost as if you're awake — and this is when dreams are most vivid."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "What Actually Happens During REM",
+      "body": "In REM sleep, the brain's emotional and visual centers fire intensely while the prefrontal cortex — responsible for logic — goes quiet. Your muscles are temporarily paralyzed to prevent you from acting out your dreams."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Why Do We Dream?",
+      "body": "No single theory is settled, but leading ideas include memory consolidation (replaying experiences to encode them), emotional processing (working through stress and trauma), and threat simulation (rehearsing responses to danger in a safe environment)."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Dreams & Memory",
+      "body": "Studies show that sleeping after learning a new skill dramatically improves retention. During REM, the hippocampus replays recent experiences and transfers them to long-term storage — essentially hitting 'save' on your day."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Lucid Dreaming: Taking the Wheel",
+      "body": "Lucid dreaming occurs when you become aware you're dreaming mid-dream. About 55% of people have experienced it at least once. Researchers at MIT have even demonstrated two-way communication with lucid dreamers using eye-movement signals."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Sleep Deprivation Is Serious",
+      "body": "Missing just one night of sleep spikes stress hormones and impairs judgment similarly to being drunk. Chronic sleep loss is linked to Alzheimer's, heart disease, and depression — in part because the brain can't clear toxic waste proteins without enough deep sleep."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Tips to Sleep (and Dream) Better",
+      "body": "Keep a consistent sleep schedule, avoid screens an hour before bed (blue light suppresses melatonin), keep your room cool and dark, and limit caffeine after 2 PM. A dream journal kept by your bed helps recall and explore your dreams."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Sleep Well, Live Better",
+      "body": "Sleep isn't lost time — it's your brain's most productive hours. Prioritize it like you would nutrition or exercise, and your waking life will thank you."
+    }
+  ]
+}
