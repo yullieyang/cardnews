@@ -1,0 +1,66 @@
+{
+  "title": "How CRISPR Gene Editing Is Transforming Medicine",
+  "theme_color": "#1a6b4a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How CRISPR Is Transforming Medicine",
+      "body": "The gene-editing revolution that's rewriting the future of human health"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is CRISPR?",
+      "body": "CRISPR-Cas9 is a molecular tool borrowed from bacterial immune systems. It acts like a GPS-guided pair of scissors, locating a precise DNA sequence and cutting it. Scientists can then disable a faulty gene or insert a corrected version."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "From Bacteria to Breakthrough",
+      "body": "Bacteria have used CRISPR to fight viruses for billions of years. In 2012, Jennifer Doudna and Emmanuelle Charpentier showed it could be reprogrammed to edit any genome — a discovery that earned them the 2020 Nobel Prize in Chemistry."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Curing Sickle Cell Disease",
+      "body": "In 2023, the FDA approved the first CRISPR therapy: Casgevy, for sickle cell disease and beta-thalassemia. By editing patients' own stem cells to produce fetal hemoglobin, it offers a functional cure for conditions that once meant a lifetime of pain crises."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Fighting Cancer with Edited T-Cells",
+      "body": "Researchers are engineering T-cells with CRISPR to better recognize and destroy tumors. Early trials show patients with previously untreatable cancers achieving remission. These 'living drugs' can hunt cancer cells throughout the body."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Targeting Inherited Disorders",
+      "body": "CRISPR holds promise for thousands of single-gene diseases — from Huntington's to muscular dystrophy. Clinical trials are underway for conditions affecting the liver, eye, and lungs, with some showing dramatic reductions in disease-causing proteins."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Delivery Challenge",
+      "body": "Getting CRISPR into the right cells is medicine's hardest puzzle. Scientists use lipid nanoparticles, viral vectors, and direct injection to ferry the editing machinery. Each delivery method suits different organs, and improving precision is a major research frontier."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Ethical Guardrails",
+      "body": "In 2018, scientist He Jiankui sparked global outrage by creating gene-edited babies — crossing a widely condemned line. The scientific community draws a firm distinction between somatic edits (affecting one person) and heritable edits that would alter the human germline forever."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Next Generation: Base & Prime Editing",
+      "body": "Newer tools like base editing and prime editing improve on CRISPR by making pinpoint changes without cutting both DNA strands — reducing errors. Prime editing has been called a 'search-and-replace' for the genome, expanding what's correctable."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A New Era of Medicine",
+      "body": "CRISPR has moved from a scientific curiosity to approved therapies in just over a decade. As costs fall and precision improves, gene editing may soon address diseases once considered untreatable — reshaping what it means to cure, not just treat."
+    }
+  ]
+}
