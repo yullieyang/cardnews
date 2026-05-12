@@ -1,0 +1,66 @@
+{
+  "title": "How Humanoid Robots Are Entering the Workforce",
+  "theme_color": "#1a6bbd",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Humanoid Robots Are Clocking In",
+      "body": "From factory floors to warehouses, humanoid robots are no longer science fiction — they're showing up for work."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Humanoid Robot?",
+      "body": "Humanoid robots are machines built to mimic the human form — two legs, two arms, and a torso. Unlike specialized industrial arms, they're designed to navigate and operate in spaces built for people, using the same tools and environments we do."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Who's Building Them?",
+      "body": "Major players include Tesla (Optimus), Figure AI, Boston Dynamics (Atlas), Agility Robotics (Digit), and Chinese firms like Unitree. Investment has surged past $3 billion globally since 2024, reflecting intense confidence in the technology's near-term viability."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Where Are They Being Deployed?",
+      "body": "Early deployments focus on repetitive, physically demanding tasks: moving boxes in warehouses, assembling parts on auto production lines, and stocking shelves. BMW, Amazon, and GXO Logistics are among the first companies running pilots at scale."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The AI Brain Behind the Body",
+      "body": "Modern humanoid robots are driven by large neural networks trained on video and sensor data — similar to how LLMs learn language. They can generalize to new tasks without per-task programming, dramatically reducing deployment time compared to traditional industrial robots."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Why Humanoid Over Specialized Robots?",
+      "body": "Existing infrastructure — shelving heights, conveyor widths, tool handles — was designed for human bodies. A humanoid can slot into those workflows with minimal modification. Specialized robots often require expensive facility redesigns, making humanoids more cost-effective at scale."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "How Safe Are They Around People?",
+      "body": "Safety is the top engineering challenge. Modern systems use force-limiting actuators, real-time collision detection, and redundant sensor arrays (LiDAR, cameras, tactile skin). Regulators in the US, EU, and South Korea are actively drafting co-worker safety standards."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "What's the Cost Today?",
+      "body": "Current humanoid robots cost $30,000–$150,000 per unit — comparable to a mid-range industrial arm but with far greater versatility. Analysts expect prices to fall below $20,000 by 2028 as manufacturing scales, making them viable for small and mid-size businesses."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Jobs: Threat or Shift?",
+      "body": "Economists largely expect humanoid robots to automate the most dangerous and ergonomically harmful tasks first — roles with high injury rates and chronic labor shortages. Historically, automation creates new job categories (robot trainers, fleet operators, ethicists) even as it displaces others."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Robot Colleague Is Real",
+      "body": "Humanoid robots are moving from labs to shop floors faster than most predicted. Understanding how they work — and where they're headed — is essential for anyone thinking about the future of work, technology, and society."
+    }
+  ]
+}
