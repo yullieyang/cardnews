@@ -1,66 +1,66 @@
 {
   "title": "The Science of Sleep: Why Your Brain Needs Rest",
-  "theme_color": "#3B5BDB",
+  "theme_color": "#3a0ca3",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "The Science of Sleep",
-      "body": "Why your brain desperately needs rest — and what happens when it doesn't get it"
+      "body": "Why your brain desperately needs those 8 hours — and what happens when it doesn't get them"
     },
     {
       "slide_number": 2,
       "type": "content",
       "heading": "Sleep Is Not Passive",
-      "body": "Your brain is highly active during sleep. It cycles through distinct stages — light sleep, deep sleep, and REM — each serving a critical biological function."
+      "body": "Your brain is far from idle during sleep. Neurons fire, memories consolidate, and critical repair processes run in overdrive. Sleep is one of the most active and complex states your body enters every night."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "The 90-Minute Cycle",
-      "body": "Sleep happens in roughly 90-minute cycles, typically 4–6 per night. Early cycles are dominated by deep sleep; later cycles have more REM. Missing cycles disrupts recovery."
+      "heading": "The Two Types of Sleep",
+      "body": "Sleep cycles through REM (Rapid Eye Movement) and non-REM stages roughly every 90 minutes. Non-REM handles deep physical restoration, while REM is when vivid dreaming and memory processing peak."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "Deep Sleep: Body Repair Mode",
-      "body": "During deep (slow-wave) sleep, the body releases growth hormone, repairs tissues, and strengthens the immune system. This is the most physically restorative stage of sleep."
+      "heading": "Memory Consolidation",
+      "body": "During sleep, the hippocampus replays the day's events and transfers key information to long-term storage in the cortex. This is why pulling an all-nighter before an exam often backfires — you lose the consolidation window."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "REM: Memory & Emotion",
-      "body": "REM sleep is when the brain consolidates memories and processes emotions. Dreams occur here. Cutting REM short impairs learning, creativity, and emotional regulation."
+      "heading": "The Brain's Cleaning Crew",
+      "body": "The glymphatic system — your brain's waste-clearance network — is nearly 10x more active during sleep. It flushes out toxic proteins, including beta-amyloid, a key culprit in Alzheimer's disease."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "The Glymphatic System",
-      "body": "While you sleep, a brain-cleaning system called the glymphatic system flushes out toxic waste — including amyloid-beta, a protein linked to Alzheimer's disease. Sleep is literally brain detox."
+      "heading": "Sleep and Emotional Regulation",
+      "body": "The amygdala, your brain's emotional alarm center, becomes 60% more reactive after just one night of poor sleep. Chronic sleep deprivation is strongly linked to anxiety, depression, and impaired decision-making."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "What Happens When You're Sleep-Deprived",
-      "body": "Even one night of poor sleep raises cortisol, impairs decision-making, and slows reaction time. Chronic sleep loss is linked to obesity, diabetes, cardiovascular disease, and depression."
+      "heading": "Circadian Rhythm: Your Inner Clock",
+      "body": "A tiny brain region called the suprachiasmatic nucleus tracks light exposure and regulates your 24-hour sleep-wake cycle. Disrupting it — through shift work or jet lag — raises risks of metabolic disease and cancer."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Circadian Rhythm: Your Internal Clock",
-      "body": "A 24-hour biological clock regulates your sleep-wake cycle using light cues. Blue light from screens at night suppresses melatonin, tricking the brain into staying alert."
+      "heading": "How Much Do You Really Need?",
+      "body": "Adults need 7–9 hours per night, teenagers need 8–10, and newborns up to 17. Genetics play a role — roughly 3% of people carry a gene mutation that lets them thrive on 6 hours. You're probably not one of them."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "How Much Sleep Do You Actually Need?",
-      "body": "Adults need 7–9 hours per night; teenagers need 8–10. Only about 1–3% of people are true 'short sleepers' by genetics — most people who claim to thrive on 5 hours are simply adapted to feeling tired."
+      "heading": "The Cost of Sleep Debt",
+      "body": "After 17 hours awake, cognitive impairment equals a blood alcohol level of 0.05%. After 24 hours, it hits 0.10% — legally drunk in most countries. Sleep debt cannot be fully paid back with a single weekend of catch-up sleep."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "Sleep Is a Superpower",
-      "body": "Prioritizing sleep is one of the highest-leverage health habits you can build. Keep a consistent schedule, limit screens before bed, and protect your 7–9 hours — your brain will thank you."
+      "heading": "Sleep Smarter Tonight",
+      "body": "Keep a consistent sleep schedule, dim lights an hour before bed, and keep your room cool. Your brain does its best work while you're unconscious — give it the time it needs."
     }
   ]
 }
