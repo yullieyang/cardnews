@@ -1,0 +1,66 @@
+{
+  "title": "Space-Based Solar Power: Beaming Energy From Orbit",
+  "theme_color": "#E8600A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Space-Based Solar Power",
+      "body": "Beaming clean energy from orbit to Earth — humanity's boldest energy idea is finally becoming real"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Big Idea",
+      "body": "Giant solar arrays in geostationary orbit collect sunlight 24/7 — no clouds, no night. The energy is converted to microwaves or laser beams and transmitted to receiving stations on Earth, where it becomes electricity."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Space? Sunlight Never Stops",
+      "body": "Satellites in geostationary orbit experience sunlight 99% of the year compared to 20–30% efficiency on the ground. Space solar could deliver up to 8× more energy per panel than the best Earth-based installations."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How the Transmission Works",
+      "body": "Solar energy is converted into microwave beams (around 2.45 GHz) that pass cleanly through clouds and atmosphere. Ground-based 'rectennas' — rectifying antennas — convert the microwaves back to electricity at over 85% efficiency."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Who Is Building It?",
+      "body": "The European Space Agency launched its SOLARIS initiative in 2023. China unveiled a roadmap targeting a 1 GW orbital plant by 2050. The UK's Space Energy Initiative and NASA are both funding feasibility studies and prototype hardware."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The 2023 Caltech Breakthrough",
+      "body": "Caltech's SSPP project became the first to successfully demonstrate wireless power transmission in space, beaming detectable energy to Earth from a small prototype satellite. It proved the core physics works outside a lab."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Engineering Challenge",
+      "body": "A commercial plant would need square kilometers of ultra-thin solar panels assembled in orbit — far beyond any current launch capacity. Modular robotics, in-space manufacturing, and reusable heavy-lift rockets are all prerequisites."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Is the Beam Safe?",
+      "body": "Microwave beams would carry about 230 W/m² at the rectenna — less than standing in direct sunlight. The beam automatically defocuses if it drifts off-target. Birds and aircraft passing through would experience negligible heating."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Cost Equation",
+      "body": "Early estimates put first-generation space solar at $2–4 per kWh — far too expensive today. But falling launch costs (SpaceX, reusability) and in-space manufacturing could bring this toward grid parity by the 2040s."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Sun That Never Sets",
+      "body": "Space-based solar power could provide unlimited, weather-independent clean energy anywhere on Earth. The physics is proven — now it's an engineering and economics race. The next decade of launches will decide its future."
+    }
+  ]
+}
