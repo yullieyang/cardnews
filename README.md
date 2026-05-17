@@ -1,8 +1,8 @@
 # cardnews
 
-AI-powered **card-news generator** — turn any topic into a 10-slide social-media-ready visual deck (1080×1080 PNGs).
+A small **card-news generator tool** — turn any topic into a 10-slide social-media-ready visual deck (1080×1080 PNGs).
 
-Built as a small Claude-Code-driven content automation tool: the Claude API produces structured content, Puppeteer + HTML/CSS templates render each slide.
+The tool drafts structured slide content via the Claude API and renders each slide with Puppeteer + HTML/CSS templates. Slide copy is treated as a draft for human editing before publication; see [Responsible use](#responsible-use) below.
 
 ## Quick start
 
@@ -70,7 +70,9 @@ thumb apply to anything generated with it:
 
 This project is not a research tool. It sits in the portfolio alongside the
 research-support repos because the same engineering muscles — structured
-LLM output, schema discipline, deterministic per-run artifacts, and clear
+API output, schema discipline, deterministic per-run artifacts, and clear
 human-review boundaries — show up in any responsible AI workflow. The
 research-support version of these patterns lives in
 [llm-research-workflow-assistant](https://github.com/yullieyang/llm-research-workflow-assistant).
+
+AI coding tools may support scaffolding, documentation review, and consistency checks, but the workflow logic, assumptions, validation criteria, and final outputs remain human-reviewed.
