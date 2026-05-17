@@ -1,0 +1,66 @@
+{
+  "title": "Microplastics Are Everywhere",
+  "theme_color": "#1A6B8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Microplastics Are Everywhere",
+      "body": "From the deep ocean to human blood — what science knows, what it fears, and what comes next"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Are Microplastics?",
+      "body": "Microplastics are plastic fragments smaller than 5mm. They come from degrading larger plastics, synthetic fibers in laundry, and microbeads in cosmetics. Nanoplastics — a subset under 1 micron — are small enough to enter individual cells."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "They're Literally Everywhere",
+      "body": "Microplastics have been found in Antarctic snow, Mariana Trench sediment, clouds over mountain peaks, drinking water, table salt, and human lungs, blood, and placentas. There is no environment on Earth that hasn't been contaminated."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How We Ingest Them Daily",
+      "body": "The average person ingests an estimated 5 grams of microplastics per week — roughly the weight of a credit card. Sources include bottled water, seafood, packaged food, and even the air we breathe indoors and outdoors."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "What They Do Inside the Body",
+      "body": "Microplastics can carry toxic chemicals including endocrine disruptors (like BPA) and heavy metals absorbed from the environment. Studies in 2024–2025 linked microplastics in arterial plaques to a 4.5x higher risk of heart attack and stroke."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Ocean's Plastic Problem",
+      "body": "Over 14 million metric tons of plastic enter the ocean every year. UV light and wave action break it into microplastics that marine animals mistake for food. The particles move up the food chain — ultimately reaching your plate."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Synthetic Fibers: A Hidden Source",
+      "body": "A single wash of polyester clothing releases up to 700,000 microfibers. Wastewater treatment plants catch only 70–80% of them, meaning millions of fibers enter rivers and oceans with every laundry cycle worldwide."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Can We Clean It Up?",
+      "body": "Ocean cleanup systems like The Ocean Cleanup Project target surface plastic before it fragments further. New filtration membranes, enzymatic plastic-eating bacteria (like PETase), and magnetic nanoparticle extraction are promising lab-stage solutions, but no large-scale fix exists yet."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What Policy Is Doing",
+      "body": "The UN Global Plastics Treaty negotiations are targeting a legally binding agreement to cut plastic production at the source. Over 60 countries have banned single-use plastics. The EU now requires washing machines sold after 2025 to include microfiber filters."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Plastic Age Has a Price",
+      "body": "Microplastics are the long tail of our throwaway culture. The science is clear: they're in us and around us. The solution starts with making less plastic — and demanding that industry, not nature, absorbs the cost of cleanup."
+    }
+  ]
+}
