@@ -1,0 +1,66 @@
+{
+  "title": "How Quantum Computing Will Break Encryption",
+  "theme_color": "#1a237e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Quantum Computing Will Break Encryption",
+      "body": "The race between quantum computers and the cryptography protecting your data"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Encryption Today?",
+      "body": "Most internet security relies on RSA and elliptic-curve cryptography. These work because factoring huge numbers — or solving discrete logarithm problems — takes classical computers millions of years to crack."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Quantum Computers Are Different",
+      "body": "Unlike classical bits (0 or 1), quantum bits (qubits) can exist in superposition — both states simultaneously. This lets quantum computers explore many solutions at once, radically changing what's computationally possible."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Shor's Algorithm: The Encryption Killer",
+      "body": "In 1994, mathematician Peter Shor proved a quantum computer could factor large numbers exponentially faster than any classical algorithm. A problem that takes millions of years classically could take hours on a sufficiently large quantum computer."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How Big a Threat Is It Now?",
+      "body": "Today's quantum computers have hundreds to thousands of noisy qubits. Breaking RSA-2048 would require roughly 4,000 error-corrected logical qubits — far beyond current capability. But experts estimate a cryptographically relevant quantum computer could arrive within 10–20 years."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Harvest Now, Decrypt Later",
+      "body": "Nation-state adversaries are already collecting encrypted internet traffic today, betting they can decrypt it once powerful quantum computers exist. Sensitive data with a long shelf life — state secrets, medical records — is at risk right now."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "NIST's Post-Quantum Standards",
+      "body": "In 2024, NIST finalized the first post-quantum cryptographic standards: CRYSTALS-Kyber for key exchange and CRYSTALS-Dilithium for digital signatures. These are based on hard lattice math problems that quantum computers cannot easily solve."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Who Is Already Migrating?",
+      "body": "Apple added post-quantum encryption to iMessage (PQ3) in 2024. Google has rolled it out in Chrome and internal services. Signal upgraded its protocol. The migration of the entire internet's infrastructure, however, will take years."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Migration Challenge",
+      "body": "Swapping cryptographic algorithms isn't like a software update — it requires changes to protocols, hardware, firmware, and billions of devices. Experts call this the largest cryptographic migration in history, and it must happen before quantum computers arrive."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Clock Is Ticking",
+      "body": "Quantum computing isn't a distant sci-fi threat — it's an active arms race. The good news: post-quantum standards are ready. The challenge is deploying them everywhere, fast enough. Stay informed, and push for post-quantum adoption."
+    }
+  ]
+}
