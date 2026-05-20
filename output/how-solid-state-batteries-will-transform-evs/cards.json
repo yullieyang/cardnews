@@ -1,0 +1,66 @@
+{
+  "title": "How Solid-State Batteries Will Transform Electric Vehicles",
+  "theme_color": "#1a6bcc",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Solid-State Batteries",
+      "body": "The technology poised to make EVs safer, faster to charge, and longer-range than ever before"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Solid-State Battery?",
+      "body": "Unlike today's lithium-ion batteries that use a liquid electrolyte to move ions, solid-state batteries replace that liquid with a thin layer of solid material — ceramic, glass, or polymer. This one change unlocks dramatic improvements across the board."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Liquid Electrolyte Problem",
+      "body": "Liquid electrolytes in current batteries are flammable and degrade over time, limiting how much energy you can safely pack in. They also freeze in cold weather, slashing range in winter — a persistent frustration for EV owners."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Double the Energy Density",
+      "body": "Solid-state cells can store roughly twice the energy of a conventional lithium-ion cell of the same size. That means a car with a solid-state pack could carry 600+ miles of range without adding any weight to the vehicle."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "10-Minute Fast Charging",
+      "body": "Solid electrolytes tolerate the lithium-metal anodes that enable extreme charge rates. Lab prototypes have demonstrated 10–15 minute 10–80% charges — turning range anxiety into a non-issue at highway rest stops."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Far Safer Than Today's Packs",
+      "body": "Remove the flammable liquid and you eliminate the thermal runaway fires that occasionally make headlines. Solid-state packs can be punctured or crushed without catching fire, a major safety and insurance-cost win."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Longer Lifespan",
+      "body": "Current lithium-ion cells degrade noticeably after 500–1,000 charge cycles. Solid electrolytes suppress the dendrite growth that causes degradation, pushing cell life beyond 5,000 cycles — potentially outlasting the car itself."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Who Is Leading the Race?",
+      "body": "Toyota, QuantumScape (backed by Volkswagen), Samsung SDI, and Solid Power (partnered with BMW and Ford) are all targeting mass production. Toyota announced its first solid-state EV for 2026, marking a major commercial milestone."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Remaining Challenges",
+      "body": "Scaling production is hard: solid electrolytes crack under repeated expansion and contraction, and manufacturing thin uniform layers at low cost remains a puzzle. Prices are still 3–5× higher than lithium-ion cells, keeping them out of budget EVs for now."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Charged Future",
+      "body": "Solid-state batteries won't replace lithium-ion overnight, but by the end of the decade they will redefine what an EV can be — safer, longer-range, and fast-charging as standard. The electric revolution is only just getting started."
+    }
+  ]
+}
