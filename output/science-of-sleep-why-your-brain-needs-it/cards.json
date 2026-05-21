@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Sleep: Why Your Brain Needs It",
+  "theme_color": "#2D4A8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Sleep",
+      "body": "Why your brain absolutely needs those 8 hours — and what happens when it doesn't get them"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Sleep Is Not Just Rest",
+      "body": "Sleep is an active, highly complex biological process. Your brain cycles through distinct stages every 90 minutes, each performing critical maintenance that simply cannot happen while you're awake."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Two Sleep Stages That Matter Most",
+      "body": "Deep sleep (slow-wave) repairs your body and consolidates facts and skills into memory. REM sleep, when dreaming occurs, processes emotions and strengthens creative connections between ideas. You need both every night."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Your Brain's Nightly Cleaning Crew",
+      "body": "The glymphatic system activates during deep sleep, flushing out toxic waste proteins — including amyloid-beta, linked to Alzheimer's disease. Think of it as a dishwasher that only runs at night. Skipping sleep means skipping the wash."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Memory Consolidation Happens While You Sleep",
+      "body": "Experiences from the day are replayed and transferred from short-term to long-term memory during sleep. Students who sleep after studying remember up to 40% more than those who stay up. Sleep is not lost study time — it IS studying."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Sleep Deprivation Impairs You Like Alcohol",
+      "body": "After 17 hours awake, cognitive performance drops to the equivalent of a 0.05% blood alcohol level. After 24 hours, it matches being legally drunk. Yet most sleep-deprived people feel 'fine' — because impaired judgment hides itself."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Hormones Run on a Sleep Schedule",
+      "body": "Growth hormone is almost entirely released during deep sleep. Cortisol, testosterone, and leptin (the hunger-suppressing hormone) all follow sleep-linked rhythms. Poor sleep raises hunger hormones and lowers the hormones that tell you you're full."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Chronic Sleep Loss Is a Health Risk",
+      "body": "Sleeping under 6 hours per night is associated with a 13% higher mortality risk, increased risk of heart disease, Type 2 diabetes, and obesity. It also suppresses immune function — people who sleep less than 7 hours are 3× more likely to catch a cold."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "How to Improve Your Sleep",
+      "body": "Keep a consistent wake time every day (even weekends). Avoid screens 1 hour before bed — blue light delays melatonin by up to 3 hours. Keep your room cool (around 18°C / 65°F). Caffeine has a 5–7 hour half-life, so that 3pm coffee still matters at 10pm."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Sleep Is a Superpower",
+      "body": "Better sleep means sharper memory, stronger immunity, healthier weight, and longer life. The science is clear: sleep isn't lazy — it's the single most effective thing you can do for your brain and body every single day."
+    }
+  ]
+}
