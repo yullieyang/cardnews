@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Sleep Stages",
+  "theme_color": "#4A2C8F",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Sleep Stages",
+      "body": "What your brain does every night while you rest"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Sleep Is Not One Thing",
+      "body": "Sleep is made up of multiple distinct stages that cycle throughout the night. Each stage serves a different biological purpose, and skipping any of them affects how you feel and function the next day."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Stage 1: Light Sleep",
+      "body": "The transition between wakefulness and sleep lasts just 1–7 minutes. Your muscles begin to relax, your heartbeat slows, and you can be woken easily. This is when hypnic jerks — that sudden falling sensation — often occur."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Stage 2: True Sleep",
+      "body": "You spend roughly 50% of total sleep here. Body temperature drops, eye movement stops, and sleep spindles (bursts of brain activity) appear. These spindles are thought to help consolidate memories and block out sensory input."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Stage 3: Deep Sleep",
+      "body": "Also called slow-wave sleep, this is the most restorative phase. Growth hormone is released, tissues are repaired, and the immune system is strengthened. It's hardest to wake someone from this stage — groggy confusion is common."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "REM Sleep: The Dream Stage",
+      "body": "Rapid Eye Movement sleep is when vivid dreaming occurs. The brain is nearly as active as when awake, but the body is temporarily paralyzed to prevent acting out dreams. REM is critical for emotional processing and creativity."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The 90-Minute Cycle",
+      "body": "Stages 1 through REM form one sleep cycle lasting about 90 minutes. A full night's sleep includes 4–6 complete cycles. Early cycles have more deep sleep; later cycles have more REM — which is why sleeping in can boost creativity."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "What Sleep Deprivation Does",
+      "body": "Missing just one night of sleep impairs judgment, reaction time, and memory as severely as being legally drunk. Chronic sleep loss is linked to higher risk of obesity, heart disease, diabetes, and depression."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Tips to Improve Sleep Quality",
+      "body": "Keep a consistent sleep schedule — even on weekends. Avoid screens 1 hour before bed (blue light suppresses melatonin). Keep your room cool (around 65–68°F / 18–20°C). These small changes dramatically improve deep sleep and REM."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Sleep Is Your Superpower",
+      "body": "Every stage of sleep is doing something vital. Protect your sleep like you protect your diet and exercise — it's the foundation of everything else. Tonight, give your brain the full cycle it needs."
+    }
+  ]
+}
