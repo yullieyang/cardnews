@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Sleep: Why Your Brain Needs Rest",
+  "theme_color": "#3B4CA8",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Sleep",
+      "body": "Why Your Brain Desperately Needs Rest Every Night"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Sleep Is Not Passive",
+      "body": "While your body rests, your brain shifts into overdrive. It cycles through distinct stages — light sleep, deep sleep, and REM — each serving a critical biological purpose. Far from shutting down, sleep is one of the brain's most active states."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Two Forces That Govern Sleep",
+      "body": "Sleep is controlled by two systems: circadian rhythm (your 24-hour internal clock driven by light) and sleep pressure (adenosine buildup while you're awake). Together, they determine when you feel tired and when you feel alert."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Deep Sleep: Your Memory Hard Drive",
+      "body": "During slow-wave (deep) sleep, your hippocampus replays the day's experiences and transfers them to long-term storage in the cortex. Skipping deep sleep is like trying to save a file without hitting 'confirm' — the memory simply doesn't stick."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "REM Sleep: The Emotional Reset",
+      "body": "Rapid Eye Movement sleep is when your brain processes emotions and strips away the emotional charge from difficult memories. It's essentially overnight therapy. Chronic REM deprivation is strongly linked to anxiety, depression, and poor emotional regulation."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Glymphatic System: Brain's Night Janitor",
+      "body": "During sleep, cerebrospinal fluid flushes through the brain via the glymphatic system, clearing out toxic waste — including amyloid-beta, a protein linked to Alzheimer's disease. This cleaning process is up to 10x more active during sleep than waking hours."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Sleep Deprivation's Hidden Toll",
+      "body": "Just one sleepless night can impair cognition as much as legal intoxication. Chronic short sleep (under 6 hours) raises risk of heart disease, diabetes, obesity, and immune dysfunction. The brain also loses the ability to accurately judge how impaired it is."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Dreams: More Than Random Noise",
+      "body": "Dreaming — mostly during REM — helps the brain integrate new information with existing knowledge, spot patterns, and fuel creativity. Many scientific breakthroughs, from the structure of benzene to the periodic table, reportedly came to their discoverers in dreams."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "How to Actually Sleep Better",
+      "body": "Keep a consistent wake time (even weekends), avoid bright light and screens before bed, keep your bedroom cool (around 18°C / 65°F), and cut caffeine after 2 PM. These evidence-based habits align with your circadian biology rather than fighting it."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Rest Is Not Laziness",
+      "body": "Sleep is the foundation of learning, emotional health, immune strength, and longevity. Think of it less as time lost — and more as the most productive investment you make in yourself every single night."
+    }
+  ]
+}
