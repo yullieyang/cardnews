@@ -1,0 +1,66 @@
+{
+  "title": "How Fusion Energy Finally Works",
+  "theme_color": "#1a237e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Fusion Energy Finally Works",
+      "body": "The science powering the stars — and soon, our cities"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Nuclear Fusion?",
+      "body": "Fusion is the process of fusing two light atomic nuclei — usually hydrogen isotopes — into a heavier nucleus, releasing enormous energy. It's the same reaction that powers the Sun and every star in the universe."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Fusion vs. Fission",
+      "body": "Unlike fission (splitting atoms, used in today's nuclear plants), fusion produces far more energy per unit of fuel and generates no long-lived radioactive waste. The main byproduct is helium — an inert, harmless gas."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Fuel: Deuterium & Tritium",
+      "body": "Fusion reactors use deuterium (extracted from seawater) and tritium (bred from lithium). Earth has enough deuterium to power civilization for billions of years, making fusion's fuel supply essentially limitless."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Big Challenge: Plasma Confinement",
+      "body": "Fusion requires temperatures exceeding 100 million°C — hotter than the Sun's core. At these temperatures, fuel becomes plasma that must be contained using powerful magnetic fields, typically in a donut-shaped device called a tokamak."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Ignition Breakthrough",
+      "body": "In December 2022, the National Ignition Facility achieved fusion ignition for the first time — producing more energy from the reaction than the laser energy delivered to the fuel. This milestone proved net energy gain is physically possible."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "ITER: The Global Bet",
+      "body": "ITER, under construction in France with 35 participating nations, is the world's largest tokamak. It aims to produce 500 MW of fusion power from just 50 MW of input — a 10x energy gain — validating commercial-scale fusion."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Private Companies Racing Ahead",
+      "body": "Startups like Commonwealth Fusion, Helion, and TAE Technologies are building compact, faster reactors using high-temperature superconducting magnets and novel confinement designs — some targeting grid power by the early 2030s."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Why It Changes Everything",
+      "body": "A working fusion grid means virtually unlimited clean energy with no carbon emissions, no meltdown risk, and fuel available to every nation on Earth. It could end energy poverty and eliminate a major driver of climate change."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Star in Our Grasp",
+      "body": "Fusion has been '30 years away' for 70 years — but the physics is now proven. The race is engineering. The era of star-powered electricity may finally be within reach."
+    }
+  ]
+}
