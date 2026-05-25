@@ -1,0 +1,66 @@
+{
+  "title": "How Your Gut Microbiome Controls Your Brain",
+  "theme_color": "#5B3F9E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Your Gut Controls Your Brain",
+      "body": "The trillions of microbes living in your digestive system are shaping your mood, memory, and mental health"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "You Are Mostly Microbes",
+      "body": "Your gut hosts roughly 38 trillion bacteria — outnumbering your own cells. These microbes collectively weigh about 1.5 kg and contain 150 times more unique genes than your own DNA."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Gut-Brain Axis",
+      "body": "Your gut and brain are in constant two-way communication via the vagus nerve, immune signals, and hormones. This 'gut-brain axis' lets your microbiome directly influence how you think and feel."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Your Second Brain",
+      "body": "The enteric nervous system — a network of 500 million neurons lining your gut — operates independently of the brain. It can sense, process, and respond to information without input from your head."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Microbes Make Your Mood",
+      "body": "About 95% of your body's serotonin is produced in the gut, not the brain. Gut bacteria regulate this production, directly influencing feelings of happiness, anxiety, and overall emotional balance."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Anxiety Connection",
+      "body": "Studies show that germ-free mice raised without gut bacteria display higher anxiety and stress. When human microbiomes are transplanted into them, they begin to exhibit the donor's behavioral traits."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Diet Rewires Your Mind",
+      "body": "A diverse, fiber-rich diet feeds beneficial bacteria that produce short-chain fatty acids — compounds that reduce brain inflammation, support memory, and protect against neurodegenerative diseases."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Disruption Has Real Costs",
+      "body": "Antibiotics, ultra-processed foods, and chronic stress wipe out microbial diversity. This dysbiosis is now linked to higher rates of depression, cognitive decline, and even conditions like Parkinson's disease."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Probiotics as Mental Medicine",
+      "body": "Emerging research on 'psychobiotics' — beneficial bacteria that improve mental health — shows promise for treating depression and anxiety. Clinical trials are already testing targeted probiotic therapies."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Feed Your Mind from the Inside Out",
+      "body": "The microbiome is a frontier of medicine redefining what it means to be mentally healthy. Eat diverse whole foods, limit antibiotics, and remember: a happy gut may be the key to a healthy mind."
+    }
+  ]
+}
