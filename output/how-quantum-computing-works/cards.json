@@ -1,0 +1,66 @@
+{
+  "title": "How Quantum Computing Works",
+  "theme_color": "#5B2D8E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Quantum Computing Works",
+      "body": "The technology that could change everything we know about computation"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Classical vs. Quantum Bits",
+      "body": "A classical computer uses bits — either 0 or 1. A quantum computer uses qubits, which can be 0, 1, or both at the same time thanks to a property called superposition. This allows quantum computers to explore many solutions simultaneously."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Superposition: Being Two Things At Once",
+      "body": "Superposition lets a qubit exist in multiple states until it is measured. Imagine spinning a coin — while it spins, it's neither heads nor tails. Only when it lands does it become one. Qubits behave similarly until observed."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Entanglement: Spooky Action",
+      "body": "Entanglement links two qubits so that the state of one instantly determines the state of the other, no matter the distance. Einstein called it 'spooky action at a distance.' This lets quantum computers coordinate information without classical communication."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Interference: Amplifying Right Answers",
+      "body": "Quantum algorithms use interference to cancel out wrong paths and amplify correct solutions — similar to how noise-canceling headphones work with sound waves. This steers the computation toward the right answer efficiently."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Why Temperature Matters",
+      "body": "Qubits are extremely fragile. Most quantum computers must operate near absolute zero (−273°C) — colder than outer space — to prevent thermal noise from disrupting quantum states. Maintaining this environment is one of engineering's hardest challenges."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "What Quantum Computers Are Good At",
+      "body": "Quantum computers excel at specific problems: simulating molecules for drug discovery, optimizing complex logistics, breaking and creating encryption, and training certain AI models. They don't replace classical computers — they complement them."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Quantum vs. Classical: The Race",
+      "body": "Google's quantum processor solved in 200 seconds a problem that would take a classical supercomputer 10,000 years. IBM, Microsoft, and startups are racing to build more stable, scalable quantum systems with practical real-world applications."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Threat to Encryption",
+      "body": "Today's encryption relies on math problems too hard for classical computers. A powerful quantum computer could crack them in minutes. Governments and tech companies are already developing 'post-quantum cryptography' to protect future data."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Quantum Future",
+      "body": "Quantum computing is still in its early days, but its potential is enormous. From curing diseases to securing the internet, understanding this technology today means being ready for a radically different computational world tomorrow."
+    }
+  ]
+}
