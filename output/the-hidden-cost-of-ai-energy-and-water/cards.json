@@ -1,0 +1,66 @@
+{
+  "title": "The Hidden Cost of AI: Energy and Water",
+  "theme_color": "#0d47a1",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Hidden Cost of AI",
+      "body": "Every prompt you send consumes electricity and water. Here's the environmental bill behind the AI revolution."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "How Much Power Does AI Use?",
+      "body": "A single ChatGPT query uses roughly 10x the electricity of a Google search. Training a large language model like GPT-4 consumed an estimated 50 gigawatt-hours — enough to power 4,600 US homes for a year."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Data Centers Are Exploding in Scale",
+      "body": "Global data center electricity demand is projected to double by 2030, driven largely by AI. Microsoft, Google, and Amazon are racing to build gigawatt-scale campuses to keep pace with AI workloads."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Water Problem",
+      "body": "Data centers cool their servers with water. Training GPT-3 required an estimated 700,000 liters of fresh water. Each time you use an AI chatbot, hundreds of milliliters of water evaporate in cooling towers."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Inference vs. Training",
+      "body": "Training is a one-time cost — massive but finite. Inference (running the model for users) is ongoing and cumulative. With billions of daily queries, inference now accounts for the majority of AI's total energy footprint."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Where the Power Comes From",
+      "body": "Despite green pledges, many AI data centers still run partly on fossil fuels. Rising demand is pushing tech giants to fund new nuclear plants and long-term renewable contracts — including a revival of Three Mile Island."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Hardware Efficiency Race",
+      "body": "Chip makers are fighting back: NVIDIA's latest GPUs deliver 4x more AI performance per watt than 2022 models. Custom silicon like Google's TPUs and Apple's Neural Engine squeeze more computation from every joule."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Smaller Models, Big Gains",
+      "body": "Techniques like quantisation, pruning, and distillation shrink models without major accuracy loss. Running a 7-billion-parameter model instead of a 70-billion one cuts energy use by roughly 90% for many everyday tasks."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Regulation and Transparency",
+      "body": "The EU's AI Act now requires large AI providers to disclose energy consumption. In the US, the EPA is updating its Energy Star programme to rate AI products. Carbon reporting is becoming a competitive differentiator."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Intelligence Has a Price Tag",
+      "body": "AI's benefits are real — but so is its environmental cost. The challenge for the next decade is building AI that is not only more capable, but dramatically more efficient. Every watt saved is a win for both climate and compute."
+    }
+  ]
+}
