@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Sleep: Why Your Brain Needs 8 Hours",
+  "theme_color": "#3a0ca3",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Sleep",
+      "body": "Why Your Brain Desperately Needs 8 Hours Every Night"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Sleep Is Not Passive Rest",
+      "body": "Your brain is intensely active while you sleep. It cycles through distinct stages — light sleep, deep sleep, and REM — each performing critical maintenance tasks that waking life simply cannot provide."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Brain's Nightly Cleanup Crew",
+      "body": "During deep sleep, the glymphatic system flushes toxic waste proteins from your brain — including amyloid-beta, a key culprit in Alzheimer's disease. Missing sleep means skipping this essential detox."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Memory Gets Consolidated Overnight",
+      "body": "REM sleep is when your brain replays and strengthens new memories, transferring them from short-term to long-term storage. Studying then sleeping beats cramming all night — every single time."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Sleep Deprivation Impairs Like Alcohol",
+      "body": "After 17–19 hours awake, your cognitive performance matches someone with a blood alcohol level of 0.05%. After 24 hours, it equals being legally drunk. Yet most people don't feel how impaired they are."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Your Hormones Reset While You Sleep",
+      "body": "Growth hormone peaks during deep sleep — essential for muscle repair and cell renewal at any age. Cortisol (stress hormone) drops, and leptin/ghrelin (hunger hormones) rebalance. Chronic short sleep drives overeating."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Immune System Depends on Sleep",
+      "body": "Sleep triggers production of cytokines — proteins that fight infection and inflammation. People sleeping under 6 hours are 4× more likely to catch a cold when exposed to a virus compared to those getting 8 hours."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Why 8 Hours Is the Magic Number",
+      "body": "Most adults need 7–9 hours to complete 4–5 full sleep cycles. Only about 1–3% of people are true \"short sleepers\" due to a rare gene variant. Feeling fine on 6 hours is usually just adaptation — not immunity."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Small Habits That Unlock Better Sleep",
+      "body": "Keep a consistent bedtime, even on weekends. Avoid screens 1 hour before bed (blue light suppresses melatonin). Keep your bedroom cool (65–68°F). These three changes can dramatically improve sleep quality."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Sleep Is a Superpower",
+      "body": "Protect your sleep like you protect your health — because they are the same thing. Every hour you invest in sleep pays dividends in focus, mood, immunity, and longevity."
+    }
+  ]
+}
