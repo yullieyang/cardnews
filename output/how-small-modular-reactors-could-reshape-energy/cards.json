@@ -1,0 +1,66 @@
+{
+  "title": "How Small Modular Reactors Could Reshape Energy",
+  "theme_color": "#0d47a1",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Nuclear Renaissance",
+      "body": "Small Modular Reactors promise clean, affordable, always-on power — and they're finally being built"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Small Modular Reactor?",
+      "body": "An SMR is a nuclear reactor generating up to 300 megawatts — roughly one-third the output of a conventional plant. Their compact size means they can be factory-built, shipped by truck or rail, and assembled on-site far faster than traditional nuclear projects."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Not Just Build Big Plants?",
+      "body": "Large nuclear plants take 10–20 years and billions in cost overruns. SMRs are modular — add more units as demand grows. Their smaller size also means they can power remote communities, industrial sites, and even data centers that need reliable baseload power."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Who Is Building Them Right Now?",
+      "body": "Rolls-Royce SMR (UK) is under regulatory review. X-energy and TerraPower (US) have Department of Energy backing. NuScale's design was the first ever approved by the NRC. South Korea, Poland, and Canada all have SMR programs actively in development or construction."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Safety Leap: Passive Systems",
+      "body": "Modern SMR designs use passive safety — they cool themselves through physics (gravity, convection) rather than active pumps requiring power. In a total blackout, the reactor shuts down and cools on its own, eliminating the key failure mode that caused Fukushima."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Can They Really Be Cheaper?",
+      "body": "Factory production is the key bet. Like airplanes or semiconductors, building identical units at scale drives down costs dramatically. Proponents project SMRs at $50–80 per MWh at scale — competitive with offshore wind and cheaper than bespoke large nuclear plants."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Advanced Designs: Beyond Water Reactors",
+      "body": "Some SMRs go beyond traditional pressurized-water designs. Molten salt reactors operate at near-atmospheric pressure. High-temperature gas reactors can deliver industrial heat alongside electricity. Microreactors as small as 1 MW could power military bases or remote mines."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Waste and Proliferation Challenge",
+      "body": "Nuclear waste remains a political and engineering hurdle — even SMRs produce spent fuel that must be stored for thousands of years. Some designs reduce waste by burning used fuel. Others raise concerns about proliferation if enriched fuel spreads to more countries."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Role of SMRs in a Clean Grid",
+      "body": "Wind and solar are cheap but intermittent. SMRs can run 24/7 at nearly zero carbon emissions, acting as a backbone for grids increasingly dependent on weather-driven renewables. Many energy analysts now see nuclear and renewables as partners, not rivals."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Atom's Second Chance",
+      "body": "After decades of stagnation, nuclear power is reinventing itself with SMRs. Whether they deliver on cost and safety promises will determine if they become the quiet backbone of a carbon-free energy future — or another expensive detour."
+    }
+  ]
+}
