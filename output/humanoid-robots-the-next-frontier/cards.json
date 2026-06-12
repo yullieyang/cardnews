@@ -1,0 +1,66 @@
+{
+  "title": "Humanoid Robots: The Next Frontier",
+  "theme_color": "#1a56a0",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Humanoid Robots:\nThe Next Frontier",
+      "body": "How machines that walk, talk, and work are reshaping our world in 2026"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Inflection Point",
+      "body": "2025–2026 marks the year humanoid robots moved from research labs into real workplaces. What was science fiction a decade ago is now a global industry race worth hundreds of billions of dollars."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Who's Building Them",
+      "body": "Tesla Optimus, Figure AI, Boston Dynamics Atlas, 1X Technologies, and Agility Robotics are leading the charge. China's Unitree and Fourier Intelligence are close behind, making this a global competition."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How They Move",
+      "body": "Modern humanoids combine reinforcement learning, whole-body control algorithms, and dense sensor arrays. They learn complex motions by watching humans via imitation learning, then refine skills in simulation."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Real-World Deployments",
+      "body": "BMW's Spartanburg plant uses Figure robots on assembly lines. Amazon pilots Agility's Digit in fulfillment centers. Tesla deploys Optimus units internally for factory tasks — real work, not demos."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Training Revolution",
+      "body": "Teleoperation lets human operators 'puppet' robots to collect training data. Paired with massive simulation environments, robots can accumulate millions of hours of virtual experience before touching the real world."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Cost Barrier",
+      "body": "Today's humanoid units cost $50,000–$150,000 each. Manufacturers are targeting sub-$20,000 by the decade's end through mass production and commodity hardware — the same cost curve that drove smartphones."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Safety & Trust",
+      "body": "Robots operate under strict force-limiting software to prevent injury. Human oversight systems, geofencing, and emergency-stop protocols are mandatory. Building public trust is as hard as building the robots themselves."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Jobs Question",
+      "body": "History shows automation creates new roles even as it displaces others. Humanoid robots will likely take on dangerous, repetitive, or physically demanding tasks — freeing humans for higher-value work. The transition won't be painless."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Robot Decade Has Begun",
+      "body": "The next 10 years will define how humans and robots coexist. The question is no longer if humanoid robots will transform society — it's how fast, and whether we're ready."
+    }
+  ]
+}
