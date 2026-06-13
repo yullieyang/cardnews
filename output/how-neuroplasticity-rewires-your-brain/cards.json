@@ -1,0 +1,66 @@
+{
+  "title": "How Neuroplasticity Rewires Your Brain",
+  "theme_color": "#2E86AB",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Neuroplasticity Rewires Your Brain",
+      "body": "The remarkable science of how your brain reshapes itself through every experience, habit, and challenge"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Neuroplasticity?",
+      "body": "Neuroplasticity is the brain's lifelong ability to reorganize itself by forming new neural connections. Once thought to end in childhood, scientists now know the adult brain remains highly adaptable throughout life."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Neurons That Fire Together, Wire Together",
+      "body": "When two neurons activate simultaneously and repeatedly, the connection between them strengthens. This Hebbian principle is the core mechanism behind learning and memory — the more you practice, the stronger the neural pathway becomes."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Learning a New Skill Changes Your Brain",
+      "body": "Studies of London taxi drivers show their hippocampus — the region for spatial memory — physically grows larger with use. Learning any new skill, from a language to a musical instrument, measurably alters brain structure within weeks."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Two Types of Plasticity",
+      "body": "Structural plasticity involves physical changes in brain anatomy — new synapses, dendrites, and even neurons. Functional plasticity allows the brain to shift functions from damaged areas to healthy ones, enabling recovery after stroke or injury."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Sleep: The Brain's Renovation Hour",
+      "body": "During deep sleep, the brain consolidates the day's learning by replaying neural patterns and pruning weak connections. Skipping sleep doesn't just make you tired — it literally prevents the brain from locking in new skills and memories."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Exercise Supercharges Brain Growth",
+      "body": "Aerobic exercise boosts production of BDNF (Brain-Derived Neurotrophic Factor), often called \"fertilizer for the brain.\" Regular physical activity increases hippocampal volume and dramatically improves learning capacity, mood, and memory."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Negative Plasticity: Habits Work Both Ways",
+      "body": "Neuroplasticity isn't always positive. Chronic stress, addiction, and repetitive negative thinking can carve deep, unhelpful pathways in the brain. Breaking bad habits requires actively building competing neural routes — which takes deliberate, consistent effort."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Meditation Literally Reshapes the Brain",
+      "body": "MRI studies show long-term meditators have thicker cortexes in regions governing attention and self-awareness. Even eight weeks of mindfulness practice measurably reduces amygdala size — the brain's alarm center — lowering baseline stress responses."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Your Brain Is Always Changing",
+      "body": "Every thought, habit, and experience sculpts your neural architecture. The science is clear: challenge your brain daily, rest deeply, move your body, and practice mindfulness — your brain will rewire itself for the better."
+    }
+  ]
+}
