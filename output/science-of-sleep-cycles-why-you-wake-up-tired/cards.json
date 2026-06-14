@@ -1,66 +1,66 @@
 {
   "title": "The Science of Sleep Cycles: Why You Wake Up Tired",
-  "theme_color": "#2C3E8C",
+  "theme_color": "#2E4A7A",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
-      "heading": "Why Do You Wake Up Tired?",
-      "body": "The hidden science of sleep cycles — and how to finally wake up refreshed"
+      "heading": "Why You Wake Up Tired",
+      "body": "The science behind sleep cycles — and how to finally feel rested"
     },
     {
       "slide_number": 2,
       "type": "content",
-      "heading": "Sleep Isn't One Long State",
-      "body": "Your brain cycles through distinct stages throughout the night. Each full cycle lasts about 90 minutes and repeats 4–6 times. Missing or cutting short these cycles is the main reason you feel groggy in the morning."
+      "heading": "Sleep Is Not One Thing",
+      "body": "Sleep isn't a single continuous state. Your brain cycles through distinct stages all night long, each serving a different biological purpose. Missing any stage has consequences you feel the next day."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "The 4 Stages of Sleep",
-      "body": "Stage 1 is light drowsiness. Stage 2 is true light sleep where your heart rate slows. Stages 3–4 are deep slow-wave sleep — the most physically restorative. REM sleep follows, when dreaming and memory consolidation happen."
+      "heading": "The 90-Minute Cycle",
+      "body": "One complete sleep cycle lasts roughly 90 minutes and repeats 4–6 times per night. Each cycle moves through light sleep, deep sleep, and REM. Waking mid-cycle — not at the end — is the #1 reason you feel groggy."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "What Happens in Deep Sleep",
-      "body": "During deep sleep, your body releases growth hormone to repair tissues and muscles. Blood pressure drops and immune function strengthens. This stage is hardest to wake from — being jolted out of it causes intense sleep inertia (that foggy, confused feeling)."
+      "heading": "Stage 1 & 2: Light Sleep",
+      "body": "You spend about 50% of the night in light sleep. Your body temperature drops, heart rate slows, and your brain produces sleep spindles — bursts of activity that consolidate memories. This is the easiest stage to wake from."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "REM: The Brain's Overnight Workshop",
-      "body": "Rapid Eye Movement sleep is when your brain processes emotions and consolidates memories. Your body is temporarily paralyzed to stop you acting out dreams. Adults spend about 20–25% of total sleep in REM, with longer REM periods toward morning."
+      "heading": "Stage 3: Deep Sleep (Slow-Wave)",
+      "body": "Deep sleep is when your body does most of its physical repair: growth hormone is released, immune cells multiply, and tissues rebuild. Just 20% of your night, but it determines how physically restored you feel."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "Why Timing Your Alarm Matters",
-      "body": "Waking mid-cycle — especially during deep sleep — triggers sleep inertia that can last 30–60 minutes. Waking at the end of a 90-minute cycle, when sleep is lightest, feels far easier. That's why 7.5 hours (5 cycles) often beats 8 hours of poorly timed sleep."
+      "heading": "REM: The Dream Stage",
+      "body": "Rapid Eye Movement sleep is when your brain is nearly as active as when awake. It processes emotions, strengthens creative connections, and clears metabolic waste via the glymphatic system. Most REM happens in the final hours of sleep."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "Sleep Debt: It Compounds Fast",
-      "body": "Losing even 60–90 minutes of sleep a night has measurable effects on attention, mood, and decision-making within days. Unlike financial debt, you can't fully 'pay back' severe sleep debt — chronic loss causes lasting cognitive impairment."
+      "heading": "Why Alarm Clocks Are the Enemy",
+      "body": "Alarms cut cycles short — often during deep or REM sleep — triggering sleep inertia: the foggy, disoriented feeling that can last up to 90 minutes. Your brain was mid-process and gets yanked out unexpectedly."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Alcohol and Sleep Quality",
-      "body": "Alcohol helps you fall asleep faster but fragments the second half of your night. It suppresses REM sleep and causes more awakenings. Even moderate drinking before bed can reduce sleep quality by up to 40%, explaining that exhausted-after-drinking feeling."
+      "heading": "Alcohol Ruins Your REM",
+      "body": "Alcohol helps you fall asleep faster but suppresses REM sleep in the first half of the night. As it metabolizes, your brain rebounds with fragmented, lighter sleep. You sleep 8 hours yet still feel exhausted."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "Simple Hacks to Wake Up Better",
-      "body": "Keep a consistent wake time — even on weekends — to anchor your circadian rhythm. Get bright light within 30 minutes of waking to suppress residual melatonin. Avoid screens 60 minutes before bed and keep your bedroom cool (around 18°C / 65°F)."
+      "heading": "The 90-Minute Hack",
+      "body": "Time your sleep in 90-minute multiples: 6 hours (4 cycles) or 7.5 hours (5 cycles) often feels better than 8 hours interrupted mid-cycle. Apps like Sleep Cycle track movement to wake you at the lightest phase."
     },
     {
       "slide_number": 10,
       "type": "closing",
       "heading": "Sleep Smarter, Not Longer",
-      "body": "Quality beats quantity. Protect your sleep cycles, time your alarms wisely, and your body will do the rest. Great sleep is the highest-ROI habit you can build — your brain and body will thank you."
+      "body": "Quality beats quantity. Consistent bedtimes, avoiding alcohol before sleep, and waking at cycle boundaries can transform how rested you feel — no extra hours needed."
     }
   ]
 }
