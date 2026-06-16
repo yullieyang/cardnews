@@ -1,0 +1,66 @@
+{
+  "title": "Nuclear Fusion: Clean Energy Finally Within Reach",
+  "theme_color": "#1a6bb5",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Nuclear Fusion: Clean Energy Finally Within Reach",
+      "body": "The technology that powers the sun is coming to Earth — and it could change everything."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Nuclear Fusion?",
+      "body": "Fusion is the process of joining two light atomic nuclei — like hydrogen isotopes — to form a heavier one, releasing enormous energy. Unlike fission, fusion produces no long-lived radioactive waste and cannot melt down."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why It's So Hard",
+      "body": "Fusion requires temperatures above 100 million °C — hotter than the sun's core — to force nuclei together. Containing that superheated plasma without it touching any surface has challenged scientists for 70 years."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Tokamak Breakthrough",
+      "body": "A tokamak uses powerful magnetic fields to confine plasma in a donut-shaped chamber. ITER, the world's largest tokamak under construction in France, aims to produce 10× the energy it consumes — a historic milestone called Q=10."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "NIF's Ignition Moment",
+      "body": "In December 2022, the US National Ignition Facility achieved fusion ignition for the first time — the plasma produced more energy than the laser energy delivered to it. Follow-up shots in 2024-2025 pushed yields even higher."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Private Sector Races In",
+      "body": "Over 40 private companies — including Commonwealth Fusion Systems, TAE Technologies, and Helion — have raised billions to commercialize fusion. Helion has a contract with Microsoft to deliver fusion electricity by the late 2020s."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Fuel Is Virtually Unlimited",
+      "body": "Fusion runs on deuterium (from seawater) and tritium (bred from lithium). The deuterium in one bathtub of seawater contains the energy equivalent of 300 litres of gasoline — enough for a lifetime of electricity."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Safety and Environment",
+      "body": "A fusion reactor cannot cause a chain reaction explosion. If containment fails, the plasma simply cools and stops. The only radioactive byproduct is the reactor vessel itself, which decays to safe levels within 100 years."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Challenges Still Ahead",
+      "body": "Converting plasma energy to electricity at scale, breeding enough tritium, and building materials that survive intense neutron bombardment remain hard engineering problems. Most experts expect commercial plants no earlier than the 2030s."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Sun in a Bottle",
+      "body": "Fusion has long been 'always 30 years away' — but today the physics is solved and the engineering race is on. Clean, abundant fusion energy may finally be the energy breakthrough humanity has been waiting for."
+    }
+  ]
+}
