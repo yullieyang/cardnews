@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Sleep Cycles: Why You Feel Groggy in the Morning",
+  "theme_color": "#2D4A8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Sleep Cycles",
+      "body": "Why You Wake Up Feeling Groggy — and How to Stop It"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Sleep Is Not One Thing",
+      "body": "Sleep isn't a single state — it's a structured series of cycles, each lasting about 90 minutes. A full night contains 4–6 of these cycles, each with distinct stages that serve different brain and body functions."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 4 Stages of a Sleep Cycle",
+      "body": "Each cycle moves through: N1 (light drowsiness), N2 (true sleep, where heart rate slows), N3 (deep slow-wave sleep), and REM (rapid eye movement, where most dreaming occurs). Your brain needs all four to feel rested."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Deep Sleep: The Body's Repair Mode",
+      "body": "During N3 — slow-wave deep sleep — your body releases growth hormone, repairs tissue, and consolidates immune memory. This stage dominates the first half of the night and is the hardest to make up if lost."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "REM Sleep: The Brain's Workshop",
+      "body": "REM sleep surges in the second half of the night and is critical for memory consolidation, emotional regulation, and creativity. Cutting sleep short by even an hour disproportionately slashes this vital stage."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "What Is Sleep Inertia?",
+      "body": "That foggy, disoriented feeling upon waking is called sleep inertia. It happens when an alarm yanks you out of a deep or REM stage mid-cycle. Your brain needs 15–60 minutes to reach full alertness — and caffeine doesn't fully bypass this."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Your Circadian Rhythm Sets the Schedule",
+      "body": "A 24-hour internal clock driven by light exposure controls when you feel sleepy or alert. Evening blue light (phones, screens) suppresses melatonin and delays this clock, pushing your sleep cycles later — making morning alarms even more brutal."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Snooze Button Makes It Worse",
+      "body": "Hitting snooze restarts a new sleep cycle that you immediately interrupt again. This fragments sleep and deepens sleep inertia rather than relieving it. A single wake-up, even earlier, is neurologically gentler than repeated snooze interruptions."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Time Your Wake-Up to the Cycle",
+      "body": "Waking at the end of a 90-minute cycle — when sleep is lightest — dramatically reduces grogginess. Apps and smartwatches can track movement to find this window. Alternatively, count backward in 90-minute blocks from your desired wake time to set bedtime."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Sleep Smarter, Not Longer",
+      "body": "Understanding your sleep architecture is the first step to waking up energized. Align your schedule with your cycles, protect your REM sleep, and ditch the snooze — your mornings will never feel the same."
+    }
+  ]
+}
