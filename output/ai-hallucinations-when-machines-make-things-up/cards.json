@@ -1,0 +1,66 @@
+{
+  "title": "AI Hallucinations: When Machines Make Things Up",
+  "theme_color": "#3D2C8D",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "AI Hallucinations",
+      "body": "When Machines Confidently Make Things Up — and What We're Doing About It"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is an AI Hallucination?",
+      "body": "An AI hallucination happens when a large language model generates text that sounds fluent and confident but is factually wrong or entirely fabricated. Unlike a human mistake, the model shows no uncertainty — it presents fiction as fact."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Does It Happen?",
+      "body": "LLMs predict the next most likely token based on patterns in training data. They don't 'look things up' — they generate plausible-sounding text. When asked something outside their training or reasoning ability, the most statistically likely answer may simply be wrong."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Three Main Types",
+      "body": "Factual hallucinations invent false facts (wrong dates, fake citations). Intrinsic hallucinations contradict the source material given. Extrinsic hallucinations add details that can't be verified from any source. All three erode trust in AI outputs."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Real-World Consequences",
+      "body": "In 2023, a US lawyer submitted AI-generated court briefs citing six completely fabricated cases. Researchers have found AI medical answers containing invented drug interactions. Hallucinations aren't just an academic problem — they carry real risk."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Why They're So Hard to Eliminate",
+      "body": "Hallucinations are partly baked into how transformers work. The model can't distinguish between 'I know this' and 'I'm guessing.' Training larger models helps, but scaling alone doesn't solve it. Some degree of uncertainty is intrinsic to statistical language generation."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Retrieval-Augmented Generation (RAG)",
+      "body": "RAG grounds the model by injecting relevant documents into context before answering. Instead of relying on memory, the model cites live retrieved sources. This dramatically reduces hallucinations for knowledge-intensive tasks like research and customer support."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Fine-Tuning and Reinforcement Learning",
+      "body": "RLHF (Reinforcement Learning from Human Feedback) trains models to say 'I don't know' rather than guess. Fine-tuning on domain-specific verified data anchors responses. These techniques together can cut hallucination rates by over 50% in tested benchmarks."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "How to Spot Them Yourself",
+      "body": "Always verify surprising facts, especially names, dates, and citations. Ask the model for its source — a hallucinating model often can't provide one. Use AI for drafts and brainstorming, not as the final authority on facts that matter."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Path to Trustworthy AI",
+      "body": "Hallucinations are the defining reliability challenge of the AI era. Through RAG, better training, and user awareness, we're making steady progress — but critical thinking remains your best tool when working with AI."
+    }
+  ]
+}
