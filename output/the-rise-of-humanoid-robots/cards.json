@@ -1,66 +1,66 @@
 {
   "title": "The Rise of Humanoid Robots",
-  "theme_color": "#1a237e",
+  "theme_color": "#1a6b8a",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "The Rise of Humanoid Robots",
-      "body": "From science fiction to factory floors — the machines that walk like us are finally here"
+      "body": "How human-shaped machines are stepping out of science fiction and into our factories, homes, and daily lives"
     },
     {
       "slide_number": 2,
       "type": "content",
       "heading": "Why Human-Shaped?",
-      "body": "Our world is built for human bodies — door handles, stairs, tools. A humanoid robot can operate in existing spaces without costly redesigns, making it far more versatile than purpose-built industrial arms."
+      "body": "Our world is built for human bodies — doors, stairs, tools, workbenches. A robot with two arms and two legs can navigate and use the same infrastructure we do, without redesigning entire environments around it."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "The Hardware Breakthrough",
-      "body": "Advances in electric actuators, lightweight carbon-fiber frames, and compact battery packs have finally made human-sized robots practical. Modern humanoids can walk, run, and recover from stumbles in real time."
+      "heading": "Who's Building Them?",
+      "body": "Tesla (Optimus), Figure AI, Boston Dynamics (Atlas), Agility Robotics (Digit), and Apptronik are all racing to deploy humanoid robots at scale. China's BYD and Xiaomi have also entered the competition, making this a global technology race."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "AI as the Brain",
-      "body": "Large language models and vision AI give robots the ability to understand spoken instructions, interpret their environment, and adapt to unexpected situations — a leap beyond hard-coded automation."
+      "heading": "From Lab to Factory Floor",
+      "body": "BMW, Amazon, and Tesla are already piloting humanoid robots on assembly lines to handle repetitive or ergonomically difficult tasks. These robots work alongside human employees rather than replacing entire production lines overnight."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "Who's Building Them?",
-      "body": "Tesla (Optimus), Figure AI, Boston Dynamics (Atlas), Agility Robotics (Digit), and dozens of startups are racing to ship commercial humanoids. China's UBTECH and Unitree are close behind, fueling a global competition."
+      "heading": "The AI Brain Inside",
+      "body": "Modern humanoid robots use large neural networks trained on video of human motion, combined with real-time sensor fusion. This lets them generalize to new tasks — like picking up an unfamiliar object — without being reprogrammed each time."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "First Jobs on the List",
-      "body": "Early deployments focus on repetitive, physically demanding tasks: moving boxes in warehouses, assembling car parts, and sorting packages. BMW and Amazon are already running pilot programs with humanoid workers."
+      "heading": "The Hardest Engineering Problems",
+      "body": "Bipedal balance, dexterous hand control, and energy efficiency remain brutal challenges. A human can carry groceries up stairs with ease; replicating that gracefully in a robot still requires cutting-edge actuator design and real-time AI inference."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "The Dexterity Problem",
-      "body": "Hands remain the hardest challenge. Picking up a grape without crushing it requires sensing, force control, and learned intuition that engineers are still working to crack at scale and speed."
+      "heading": "How Much Do They Cost?",
+      "body": "Current prototypes cost $50,000–$250,000 per unit, but manufacturers are targeting sub-$30,000 at mass-production volumes. Tesla has projected Optimus could eventually cost less than a car — a price point that would open consumer markets."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Cost vs. Human Labor",
-      "body": "Current humanoid robots cost $20,000–$150,000 each. Analysts predict prices could drop below $10,000 by 2030 as production scales, potentially making them cheaper per task than minimum-wage workers in many markets."
+      "heading": "Safety and Regulation",
+      "body": "Unlike industrial robots caged behind fences, humanoids share space with people, raising new safety questions. Regulators in the US, EU, and Japan are developing frameworks for cobot standards, liability rules, and required safety certifications before widespread deployment."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "Ethical & Social Questions",
-      "body": "Who owns the data these robots collect in our homes and workplaces? How do we retrain displaced workers? And who is liable when a robot causes an accident? Society is only beginning to debate the answers."
+      "heading": "The Jobs Question",
+      "body": "Economists are split: some warn of large-scale displacement in warehousing, logistics, and manufacturing; others argue robots will fill labor shortages in aging societies. The net impact depends heavily on how quickly adoption scales and whether retraining programs keep pace."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "A New Kind of Colleague",
-      "body": "Humanoid robots won't replace humanity — but they will redefine what work means. The decisions we make now about safety, fairness, and oversight will shape whether this revolution benefits everyone."
+      "heading": "A Robot in Every Workplace?",
+      "body": "Humanoid robots have moved from sci-fi to factory floors in less than a decade. As AI, materials science, and manufacturing converge, the question is no longer if they'll be everywhere — but how soon, and on whose terms."
     }
   ]
 }
