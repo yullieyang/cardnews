@@ -1,0 +1,66 @@
+{
+  "title": "The Rise of Agentic AI",
+  "theme_color": "#5B21B6",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Rise of Agentic AI",
+      "body": "How autonomous AI agents are changing the way we work, build, and think"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is an AI Agent?",
+      "body": "An AI agent is a system that perceives its environment, makes decisions, and takes actions to achieve a goal — without step-by-step human instructions. Unlike chatbots that only respond, agents plan and act on their own."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Key Ingredients",
+      "body": "Agents need three core capabilities: a large language model as the brain, access to tools (search, code execution, APIs), and memory to retain context across many steps. Together, these let an agent reason and act in loops."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How Agents Plan",
+      "body": "Modern agents break big goals into sub-tasks, execute them one by one, and revise their plan when something fails. This 'think-act-observe' loop — called ReAct — is the backbone of most agentic systems today."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Tools Change Everything",
+      "body": "When an agent can search the web, run code, call APIs, and write files, its capabilities explode. The model's knowledge alone matters less; what matters is how well it chooses and uses the right tool at the right moment."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Multi-Agent Systems",
+      "body": "Some tasks are too complex for a single agent. Multi-agent architectures assign specialized sub-agents to different roles — a researcher, a coder, a reviewer — coordinated by an orchestrator. This mirrors how teams work in the real world."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Real-World Use Cases",
+      "body": "Agents are already writing and testing software, analyzing scientific papers, managing customer support queues, and autonomously booking travel. In 2026, many companies run 'digital employees' powered entirely by agentic AI."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Safety Challenge",
+      "body": "The more autonomy an agent has, the higher the stakes of mistakes. Key safety concerns include prompt injection attacks, agents exceeding their intended scope, and irreversible actions like sending emails or deleting data."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Human-in-the-Loop",
+      "body": "Best practice is to keep humans in the loop for high-stakes decisions. Agents can handle routine tasks end-to-end, but should pause and ask before taking actions that are expensive, irreversible, or outside their expected scope."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Agents Are the New Apps",
+      "body": "Just as smartphones changed what software could do, agentic AI is redefining what's possible. The shift isn't about smarter chatbots — it's about autonomous systems that get things done. The age of the AI agent is here."
+    }
+  ]
+}
