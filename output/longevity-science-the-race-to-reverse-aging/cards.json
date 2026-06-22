@@ -1,0 +1,66 @@
+{
+  "title": "Longevity Science: The Race to Reverse Aging",
+  "theme_color": "#2D4A8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Longevity Science",
+      "body": "The Race to Reverse Aging"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Biological Aging?",
+      "body": "Aging is not inevitable wear-and-tear — it's a biological process driven by accumulated cellular damage. Scientists now believe aging is programmable, and potentially reversible, at the molecular level."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 12 Hallmarks of Aging",
+      "body": "Researchers have identified 12 core mechanisms behind aging, including DNA damage, mitochondrial dysfunction, and loss of proteostasis. Targeting even a few of these could dramatically extend healthy lifespan."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Zombie Cells: The Senolytic Revolution",
+      "body": "Senescent cells — old cells that refuse to die — accumulate with age and release toxic signals. Senolytic drugs can selectively clear these 'zombie cells,' reversing aging in animal studies with stunning results."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Telomeres: Your Biological Clock",
+      "body": "Telomeres are protective caps on chromosomes that shorten with each cell division. When they run out, cells stop dividing. Gene therapy to lengthen telomeres has already extended lifespan in mice by up to 24%."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "NAD+ and Cellular Energy",
+      "body": "NAD+ is a molecule essential for DNA repair and metabolism that declines steeply with age. Supplements like NMN and NR boost NAD+ levels, improving energy, cognition, and muscle function in early human trials."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Epigenetic Reprogramming",
+      "body": "Nobel laureate Shinya Yamanaka discovered that cells can be 'rebooted' to a younger state using four proteins. Partial reprogramming in mice has reversed vision loss and restored youthful gene expression patterns."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "CRISPR and the Aging Genome",
+      "body": "CRISPR gene editing is being used to fix age-related mutations and activate longevity genes. Companies like Rejuvenate Bio are targeting multiple aging pathways simultaneously with single gene-therapy treatments."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Billion-Dollar Longevity Boom",
+      "body": "Jeff Bezos, Peter Thiel, and others have poured billions into longevity startups. Altos Labs, funded at $3B, employs Nobel laureates to crack cellular reprogramming. This is now one of the most funded areas in biotech."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Can We Live to 150?",
+      "body": "The science says yes — in principle. The first wave of anti-aging therapies is already in clinical trials. The question is no longer if we can slow aging, but how soon. The longevity revolution may arrive within this decade."
+    }
+  ]
+}
