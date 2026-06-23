@@ -1,0 +1,66 @@
+{
+  "title": "How Humanoid Robots Are Entering the Workforce",
+  "theme_color": "#1a237e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Humanoid Robots Are Here",
+      "body": "How machines shaped like us are stepping onto factory floors, warehouses, and beyond in 2026"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Humanoid Robot Boom",
+      "body": "More than a dozen companies now ship commercial humanoid robots. Tesla's Optimus, Figure's Figure 02, and Boston Dynamics' Atlas lead a wave of machines designed to work alongside people in human-built spaces."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Human-Shaped?",
+      "body": "Our world is built for human bodies — stairs, ladders, door handles, and tools all assume two arms and two legs. Humanoid robots can slot into existing infrastructure without costly redesigns."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "What They're Doing Today",
+      "body": "Current deployments focus on repetitive, physically demanding tasks: moving boxes in warehouses, assembling car parts, and stocking shelves. BMW and Amazon are among the first major companies piloting them at scale."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "AI Is the Real Breakthrough",
+      "body": "Earlier robots needed painstaking hand-coded instructions for every motion. Modern humanoids learn from video and human demonstrations, using large AI models to generalize new tasks in hours rather than weeks."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Cost Equation",
+      "body": "Early units cost $150,000–$250,000, but mass production is rapidly driving prices down. Analysts project costs could fall below $50,000 by 2028, making humanoid labor cost-competitive with minimum-wage human workers for many roles."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Key Technical Challenges",
+      "body": "Dexterity remains the hardest problem — human hands can feel pressure and adjust grip instantly. Current robots still struggle with soft or irregularly shaped objects. Battery life and reliable walking on uneven terrain are also active research areas."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Jobs: Threat or Transition?",
+      "body": "Economists are split. Some forecast significant displacement in logistics and manufacturing. Others argue robots will handle dangerous or dull tasks, freeing humans for higher-skill roles — much as ATMs shifted bank tellers toward sales and advice."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Safety and Regulation",
+      "body": "Working next to a 70 kg robot raises real safety questions. OSHA is drafting new standards for human-robot collaboration zones. Most current deployments keep robots in separate areas or behind virtual safety fences monitored by sensors."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Robot Colleague Era Begins",
+      "body": "Humanoid robots won't replace the workforce overnight, but they're no longer science fiction. Understanding how they work — and where they fall short — is essential knowledge for anyone thinking about the future of work."
+    }
+  ]
+}
