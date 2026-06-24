@@ -1,66 +1,66 @@
 {
-  "title": "The Science of Sleep Cycles",
-  "theme_color": "#3B4A8A",
+  "title": "The Science of Sleep Cycles: Why 90 Minutes Matters",
+  "theme_color": "#2C3E8C",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "The Science of Sleep Cycles",
-      "body": "Why 8 hours isn't enough — and what your brain actually needs at night"
+      "body": "Why 90 minutes is the magic number for waking up refreshed"
     },
     {
       "slide_number": 2,
       "type": "content",
-      "heading": "Sleep Is Not One Thing",
-      "body": "Sleep isn't a single uniform state. Your brain cycles through distinct stages throughout the night, each serving a different biological purpose. Missing any stage has real consequences."
+      "heading": "Sleep Is Not One State",
+      "body": "While you sleep, your brain cycles through distinct stages — not a single continuous rest. Each cycle moves through light sleep, deep sleep, and REM sleep in a predictable pattern."
     },
     {
       "slide_number": 3,
       "type": "content",
       "heading": "The 90-Minute Cycle",
-      "body": "Each sleep cycle lasts roughly 90 minutes and contains four stages: N1 (light sleep), N2 (onset sleep), N3 (deep sleep), and REM. A full night typically means 4–6 complete cycles."
+      "body": "One complete sleep cycle lasts approximately 90 minutes. A typical night contains 4 to 6 of these cycles. Waking mid-cycle is what causes that groggy, disoriented feeling called sleep inertia."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "N3: Deep Sleep Repairs the Body",
-      "body": "Slow-wave deep sleep (N3) is when your body releases growth hormone, repairs tissue, and consolidates physical memories. It dominates the first half of the night — cutting sleep short robs you of it."
+      "heading": "Stage 1 & 2: Light Sleep",
+      "body": "The cycle begins with light sleep — your body temperature drops, heart rate slows, and muscles relax. Brain waves slow from the active beta waves of wakefulness down to theta waves. You can be easily woken here."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "REM: The Brain's Night Shift",
-      "body": "REM (Rapid Eye Movement) sleep is when your brain processes emotions, consolidates learning, and runs creative problem-solving. REM cycles get longer toward morning — sleeping in matters."
+      "heading": "Stage 3: Deep Sleep (Slow-Wave)",
+      "body": "Deep sleep is when physical restoration happens. Growth hormone is released, immune function is boosted, and memories are consolidated. Delta brain waves dominate. This stage is hardest to wake from."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "Why Timing Beats Duration",
-      "body": "Waking mid-cycle — especially out of N3 or REM — causes sleep inertia, that groggy, disoriented feeling. Apps and smart alarms that track movement try to wake you at the end of a cycle instead."
+      "heading": "REM: The Dream Stage",
+      "body": "REM (Rapid Eye Movement) sleep is where vivid dreaming occurs. The brain is nearly as active as when awake, but the body is temporarily paralyzed. REM is critical for emotional processing and creative problem-solving."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "The Glymphatic System Cleans at Night",
-      "body": "During deep sleep, the brain's glymphatic system activates, flushing out metabolic waste including amyloid-beta — a protein linked to Alzheimer's. Chronic poor sleep literally lets toxins accumulate."
+      "heading": "How Cycles Shift Through the Night",
+      "body": "Early in the night, cycles contain more deep sleep. As morning approaches, cycles shift heavily toward REM sleep. This is why cutting sleep short robs you disproportionately of REM — your most mentally restorative stage."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Alcohol & Screens Hijack Your Cycles",
-      "body": "Alcohol suppresses REM sleep, leaving you emotionally raw the next day. Blue light from screens delays melatonin release by up to 3 hours, pushing back the start of your entire sleep architecture."
+      "heading": "Calculating Your Ideal Bedtime",
+      "body": "Work backwards from your wake time in 90-minute increments, adding 15 minutes to fall asleep. To wake at 6:30 AM: subtract 7.5 hrs (5 cycles) → bedtime is 11:00 PM. Apps like Sleep Cycle use motion sensors to wake you at cycle end."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "Napping: Use It Wisely",
-      "body": "A 20-minute nap boosts alertness without entering deep sleep (avoiding grogginess). A 90-minute nap completes one full cycle and meaningfully restores cognitive performance. Avoid napping after 3pm."
+      "heading": "The Power Nap Science",
+      "body": "A 20-minute nap keeps you in light sleep and boosts alertness. A 90-minute nap completes a full cycle, improving memory and creativity. Avoid 30–60 minute naps — you'll wake from deep sleep feeling worse than before."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "Sleep Smarter, Not Just Longer",
-      "body": "Quality sleep means completing full 90-minute cycles, protecting deep sleep and REM, and waking at the right moment. Consistent sleep and wake times are the single most powerful habit for better rest."
+      "heading": "Sleep Smarter, Not Longer",
+      "body": "Quality sleep is about cycles, not just hours. Align your schedule to 90-minute intervals, protect your REM-rich morning sleep, and your body will do the rest."
     }
   ]
 }
