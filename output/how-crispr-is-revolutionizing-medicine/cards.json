@@ -1,0 +1,66 @@
+{
+  "title": "How CRISPR Is Revolutionizing Medicine",
+  "theme_color": "#1a7abf",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How CRISPR Is Revolutionizing Medicine",
+      "body": "The gene-editing breakthrough transforming how we treat genetic disease, cancer, and more"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is CRISPR?",
+      "body": "CRISPR-Cas9 is a molecular tool that acts like genetic scissors. It can find a specific sequence in DNA and precisely cut it, allowing scientists to disable, repair, or replace genes with extraordinary accuracy."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Inspired by Bacteria",
+      "body": "CRISPR was discovered in bacteria, which naturally use it to remember and destroy viruses. Scientists Jennifer Doudna and Emmanuelle Charpentier adapted this defense system into a programmable editing tool, earning the 2020 Nobel Prize in Chemistry."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Sickle Cell Disease: A Cure Achieved",
+      "body": "In 2023, the FDA approved the first CRISPR-based therapy — Casgevy — for sickle cell disease and beta-thalassemia. Patients who once needed regular transfusions are now living symptom-free after a single treatment."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Taking On Cancer",
+      "body": "Researchers are engineering patients' own immune T-cells with CRISPR to make them better hunters of tumor cells. Early clinical trials show promising results for leukemia and other blood cancers that resisted conventional therapies."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Targeting Hereditary Blindness",
+      "body": "CRISPR therapies delivered directly into the eye are restoring vision for people with Leber congenital amaurosis, a rare inherited blindness. This marks the first in-body (in vivo) CRISPR editing in human patients."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Lowering Cholesterol Permanently",
+      "body": "A single CRISPR injection can silence the PCSK9 gene in liver cells, causing LDL cholesterol to drop by up to 60% — potentially for life. This could replace daily statin pills for millions of people at high cardiovascular risk."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Risks and Ethical Debates",
+      "body": "Off-target edits — cuts in the wrong DNA location — remain a safety concern. The 2018 case of gene-edited babies in China sparked global outrage and led to international calls for strict ethical oversight of germline editing."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Next Generation: Base & Prime Editing",
+      "body": "Newer tools like base editing and prime editing offer even more precision — making single-letter DNA corrections without cutting the double helix. They dramatically reduce off-target effects and open doors to hundreds more treatable conditions."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Future of Genetic Medicine",
+      "body": "CRISPR has moved from lab curiosity to approved therapy in under a decade. As delivery methods improve and costs fall, personalized gene correction could become as routine as surgery — rewriting the story of inherited disease forever."
+    }
+  ]
+}
