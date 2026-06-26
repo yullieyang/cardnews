@@ -1,0 +1,66 @@
+{
+  "title": "Humanoid Robots Are Here",
+  "theme_color": "#2563EB",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Humanoid Robots Are Here",
+      "body": "The real state of the industry in 2026 — who's winning, what they can do, and what comes next"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "From Lab to Factory Floor",
+      "body": "Just a few years ago, humanoid robots were research curiosities. Today, companies like Tesla, Figure AI, and 1X Technologies are deploying them in real warehouses and factories — performing tasks alongside human workers at commercial scale."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Tesla Optimus: The Mass-Market Bet",
+      "body": "Tesla is targeting sub-$20,000 unit costs by leveraging its existing manufacturing expertise and AI stack. Optimus robots are already working inside Tesla's own facilities, handling parts and assembly tasks once done exclusively by humans."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Figure & 1X: The AI-First Approach",
+      "body": "Startups like Figure AI and 1X Technologies are building robots trained end-to-end with neural networks — learning tasks through imitation and reinforcement rather than hand-coded instructions. This lets them adapt to new environments far faster than traditional industrial robots."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Boston Dynamics' Atlas: The Acrobat",
+      "body": "Boston Dynamics' all-electric Atlas can run, jump, and manipulate objects with remarkable dexterity. Now backed by Hyundai, Atlas is transitioning from spectacle to workforce tool, targeting automotive and logistics applications where physical agility matters most."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "What These Robots Can (and Can't) Do",
+      "body": "Current humanoid robots excel at repetitive manipulation in structured environments — picking, packing, and moving objects. They still struggle with unpredictable terrain, fine motor tasks like threading a needle, and anything requiring true situational reasoning beyond their training data."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Labor Shortage Driver",
+      "body": "A global shortage of manufacturing and logistics workers is the single biggest commercial tailwind. With aging populations across the US, Europe, and East Asia, industries can't hire fast enough — humanoid robots are increasingly framed as a workforce supplement, not a replacement."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The $38 Billion Investment Wave",
+      "body": "Venture capital and corporate investment into humanoid robotics surpassed $38 billion by early 2026, dwarfing all prior years combined. Goldman Sachs projects the market could reach $1 trillion by 2035, putting it on a trajectory similar to the early smartphone era."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Safety, Ethics, and Open Questions",
+      "body": "As robots enter shared workspaces, safety certification is still evolving. Regulators in the EU and US are drafting the first humanoid-specific frameworks. Critics also raise concerns about economic displacement, data privacy from robot-mounted cameras, and who owns liability when a robot causes harm."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Robot Decade Has Begun",
+      "body": "Humanoid robots are no longer science fiction — they're on the factory floor today. Whether they transform or disrupt the workforce depends on the policy, business, and ethical choices we make right now. The next five years will be decisive."
+    }
+  ]
+}
