@@ -1,0 +1,66 @@
+{
+  "title": "How Gut Bacteria Control Your Mood",
+  "theme_color": "#2E7D5E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Gut Bacteria Control Your Mood",
+      "body": "The surprising science of your microbiome's influence on mental health"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "You Have 38 Trillion Gut Bacteria",
+      "body": "Your gut is home to roughly 38 trillion microorganisms — more than the number of cells in your body. This complex community, called the gut microbiome, does far more than aid digestion."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Gut-Brain Axis",
+      "body": "Your gut and brain are in constant two-way communication via the vagus nerve, hormones, and immune signals. Scientists call this the gut-brain axis — and it's a superhighway of information."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Your Gut Makes 95% of Your Serotonin",
+      "body": "Serotonin — the 'feel-good' neurotransmitter — is produced mostly in the gut, not the brain. Gut bacteria directly regulate how much serotonin is available, influencing mood, sleep, and appetite."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Stress Disrupts Your Microbiome",
+      "body": "Chronic stress changes which bacteria thrive in your gut. This shift can trigger inflammation and reduce production of mood-supporting chemicals, creating a vicious cycle between stress and poor mental health."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Gut Bacteria and Depression",
+      "body": "Studies find that people with depression have noticeably different gut microbiomes. When researchers transplanted gut bacteria from depressed humans into rats, the rats developed depressive behaviors — striking evidence of causality."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Psychobiotics: Bacteria as Medicine",
+      "body": "Researchers are developing 'psychobiotics' — specific probiotic strains that target mental health. Early clinical trials show certain Lactobacillus and Bifidobacterium strains can measurably reduce anxiety and depression symptoms."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Diet Shapes Your Microbiome Fast",
+      "body": "What you eat can shift your gut bacteria composition within 24–48 hours. Diets rich in fiber, fermented foods, and diverse plant matter foster a healthier microbiome — and a more stable mood."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Antibiotics Have a Mental Health Cost",
+      "body": "Antibiotics wipe out harmful and beneficial bacteria alike. Some studies link heavy antibiotic use to increased rates of depression and anxiety — a reminder to use them only when truly necessary."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Feed Your Mind From the Inside",
+      "body": "Your gut is your second brain. Eating more plants, fermented foods, and managing stress aren't just good for digestion — they're evidence-based tools for protecting your mental health."
+    }
+  ]
+}
