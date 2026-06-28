@@ -1,66 +1,66 @@
 {
   "title": "How Fusion Energy Is Finally Becoming Real",
-  "theme_color": "#C44B00",
+  "theme_color": "#E84A2E",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "Fusion Energy Is Finally Becoming Real",
-      "body": "After 70 years of research, the power of the stars is within our reach"
+      "body": "After 70 years of research, limitless clean power is closer than ever"
     },
     {
       "slide_number": 2,
       "type": "content",
-      "heading": "What Is Fusion?",
-      "body": "Fusion occurs when two light atomic nuclei — typically hydrogen isotopes — merge to form a heavier nucleus, releasing enormous energy. It's the same reaction that powers the Sun, and one small cup of fuel could power a home for centuries."
+      "heading": "What Is Nuclear Fusion?",
+      "body": "Fusion is the process that powers the Sun — fusing hydrogen atoms together releases enormous energy. Unlike fission (splitting atoms), fusion produces no long-lived radioactive waste and is inherently safe."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "The 70-Year Quest",
-      "body": "Scientists have chased fusion since the 1950s. The old joke was that fusion is always '30 years away.' But breakthroughs in plasma physics, superconducting magnets, and AI-driven control systems have finally changed that calculus."
+      "heading": "The Old Joke: Always 30 Years Away",
+      "body": "For decades, fusion was called \"the energy source of the future — and always will be.\" The challenge is sustaining a plasma hotter than the Sun's core (100 million°C) long enough to extract net energy."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "NIF's Historic Ignition",
-      "body": "In December 2022, the National Ignition Facility achieved 'ignition' — the fusion reaction produced more energy than the laser energy delivered to the fuel. It was the first time in history this milestone was reached, proving the physics works."
+      "heading": "The NIF Breakthrough",
+      "body": "In December 2022, the National Ignition Facility fired 2.05 MJ of laser energy at a tiny fuel pellet and got 3.15 MJ back — the first lab experiment to produce more fusion energy than the lasers delivered. The milestone was repeated and improved in 2023–2025."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "The Tokamak Approach",
-      "body": "Most fusion reactors use a donut-shaped chamber called a tokamak, which holds 100-million-degree plasma in place using powerful magnetic fields. ITER, a 35-nation project in France, is the world's largest tokamak — currently under final assembly."
+      "heading": "Tokamaks: The Leading Design",
+      "body": "Most fusion reactors use a tokamak — a donut-shaped magnetic bottle that traps superhot plasma. ITER, the 35-nation megaproject in France, is expected to demonstrate 10× more power out than in by the early 2030s."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "Private Companies Race Ahead",
-      "body": "Over $6 billion in private capital has poured into fusion startups. Commonwealth Fusion Systems aims to fire up its compact SPARC reactor using revolutionary high-temperature superconducting magnets. TAE Technologies and Helion Energy are also closing in on net energy gain."
+      "heading": "Private Companies Are Racing In",
+      "body": "Dozens of startups — Commonwealth Fusion Systems, TAE Technologies, Helion, and more — have raised billions of dollars. Helion has a power-purchase agreement with Microsoft and aims for commercial electricity by the late 2020s."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "Why Fusion Beats Fission",
-      "body": "Unlike nuclear fission, fusion produces no long-lived radioactive waste, cannot cause a runaway meltdown, and its fuel — deuterium from seawater — is virtually limitless. It's the safest and cleanest form of nuclear energy by a wide margin."
+      "heading": "High-Temperature Superconductors Changed Everything",
+      "body": "New rare-earth barium copper oxide (REBCO) tapes can create magnetic fields of 20+ tesla at far lower cost. Commonwealth Fusion's compact SPARC tokamak uses these magnets to shrink a power plant to the size of a tennis court."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "The Remaining Challenges",
-      "body": "Sustaining plasma long enough to generate continuous power, handling extreme neutron bombardment on reactor walls, and making tritium fuel on-site are the key remaining hurdles. Engineers are attacking each problem with new materials and smarter designs."
+      "heading": "How Much Energy Could Fusion Provide?",
+      "body": "A single kilogram of fusion fuel (deuterium + tritium) yields energy equivalent to 10 million kilograms of coal. Deuterium is extracted from seawater — an essentially limitless supply for millions of years of civilization."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "When Can We Expect Fusion Power?",
-      "body": "Multiple credible timelines now point to pilot fusion power plants in the 2030s. Commonwealth Fusion and Helion both target demonstration reactors this decade. Commercial grid-scale fusion electricity could follow in the 2040s — within many people's lifetimes."
+      "heading": "Remaining Challenges",
+      "body": "Tritium must be bred inside the reactor (it doesn't occur naturally in useful amounts). Materials that survive neutron bombardment for years are still being developed. Costs must fall dramatically to compete with solar and wind."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "A Star in a Bottle",
-      "body": "Fusion energy would be transformative — abundant, clean, and safe. The science is proven. The engineering is advancing fast. The era of fusion power is not a dream anymore; it's an engineering sprint."
+      "heading": "The Sun in a Bottle — Coming Soon?",
+      "body": "Fusion is no longer a distant dream. With record-breaking experiments, bold private investment, and new magnet technology, the 2030s may finally deliver commercial fusion power — clean, safe, and virtually limitless."
     }
   ]
 }
