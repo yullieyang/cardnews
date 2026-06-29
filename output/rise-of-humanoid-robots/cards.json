@@ -1,0 +1,66 @@
+{
+  "title": "The Rise of Humanoid Robots",
+  "theme_color": "#1D4ED8",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Rise of Humanoid Robots",
+      "body": "How machines built like us are set to reshape work, daily life, and the future of humanity"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Humanoid Robot?",
+      "body": "A humanoid robot has a body shaped like a human — two legs, two arms, a torso, and a head. This design lets it operate in spaces and use tools originally built for people, from factory floors to staircases."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Big Players Racing Ahead",
+      "body": "Tesla (Optimus), Figure AI, Boston Dynamics (Atlas), and 1X Technologies are all shipping or field-testing humanoid robots. Investment in the sector surpassed $3 billion in 2024–2025, signaling serious industrial intent."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "AI Is the Missing Piece",
+      "body": "Earlier robots relied on rigid pre-programmed paths. Modern humanoids run large neural networks that let them perceive their environment, adapt in real-time, and learn new tasks from video demonstrations — no reprogramming required."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Where They Work Today",
+      "body": "Humanoid robots are already sorting packages in warehouses, assembling components on car production lines, and fetching items in fulfillment centers. BMW and Amazon are among the first major companies running live deployments."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Hardware Challenges",
+      "body": "Building a robot that walks safely, grips delicately, and runs for hours on a battery is brutally hard. Engineers battle heat dissipation, actuator strength-to-weight ratios, and fall-recovery algorithms — each step is still an engineering feat."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Cost & the Path to Affordability",
+      "body": "Today a single humanoid robot costs $100,000–$250,000. Analysts expect mass production to push prices below $30,000 by the early 2030s — roughly comparable to an entry-level car — making them viable for smaller businesses."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Jobs: Threat or Tool?",
+      "body": "Humanoids are targeted first at dangerous, physically demanding, or repetitive tasks — not creative or interpersonal ones. Most economists see a transition period where robots handle scarcity in sectors like elder care and logistics rather than simply replacing workers."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Safety & Ethics on the Frontier",
+      "body": "Regulators in the US, EU, and South Korea are drafting frameworks for humanoid robots in public spaces. Key questions include liability when a robot causes harm, bias in AI decision-making, and the right to override a robot mid-task."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Human-Robot Century Begins",
+      "body": "Humanoid robots are moving from science fiction to factory floor faster than most predicted. Understanding them now — their potential and their limits — puts you ahead of one of the most transformative shifts of the coming decade."
+    }
+  ]
+}
