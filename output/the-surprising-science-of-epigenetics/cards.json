@@ -1,0 +1,66 @@
+{
+  "title": "The Surprising Science of Epigenetics",
+  "theme_color": "#2D7A6A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Surprising Science of Epigenetics",
+      "body": "Your DNA isn't your destiny — discover how life experiences silently rewrite your genetic code"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Epigenetics?",
+      "body": "Epigenetics studies heritable changes in gene expression that don't alter the DNA sequence itself. Like a dimmer switch on your genes, epigenetic marks can turn genes on or off without rewriting the underlying code."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Discovery That Changed Biology",
+      "body": "In the 1940s, Conrad Waddington coined 'epigenetics' to explain how identical DNA produces hundreds of different cell types. Decades later, scientists discovered chemical tags — methyl groups and histone modifications — that are the actual mechanism."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "DNA Methylation: The Silence Switch",
+      "body": "Methyl groups attach to DNA at specific sites, typically silencing nearby genes. These methylation patterns are established during development but keep changing throughout life in response to diet, stress, and environment."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How Your Lifestyle Rewrites Your Genome",
+      "body": "Diet, exercise, sleep, and chronic stress all alter epigenetic marks measurably. Studies show meditation reduces methylation on inflammation genes, while smoking creates lasting marks that persist years after quitting."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Dutch Hunger Winter Revelation",
+      "body": "Children born to mothers pregnant during the 1944 Dutch famine carried distinct methylation patterns for their entire lives — and showed higher rates of obesity, diabetes, and heart disease decades later. Trauma had literally imprinted their genes."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Can Epigenetic Changes Be Inherited?",
+      "body": "Some epigenetic marks survive the cellular 'reset' that normally occurs in embryo development and are passed to offspring. This transgenerational inheritance suggests your grandparents' hardships may quietly live on in your biology."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Epigenetics and Cancer",
+      "body": "Many cancers arise from abnormal epigenetic patterns — silenced tumor-suppressor genes or wrongly activated oncogenes — not just DNA mutations. Epigenetic drugs like DNMT inhibitors are already approved treatments, with many more in trials."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Reading Your Biological Age",
+      "body": "Steve Horvath's 'epigenetic clock' predicts biological age from methylation patterns more accurately than a birth certificate. Scientists are now using it to test whether specific interventions — diet, exercise, metformin — can genuinely slow or reverse aging."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Your Genes Are Just the Beginning",
+      "body": "Epigenetics reveals that biology is not fixed fate. Every habit, every stress, every meal shapes how your genome speaks — and the next frontier of medicine may be learning to speak it back."
+    }
+  ]
+}
