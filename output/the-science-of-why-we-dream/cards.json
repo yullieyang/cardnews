@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Why We Dream",
+  "theme_color": "#5B2D8E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Why We Dream",
+      "body": "Every night your brain creates vivid worlds — here's what scientists have discovered about why"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Dreams Happen During REM Sleep",
+      "body": "Most vivid dreaming occurs during REM (Rapid Eye Movement) sleep, which cycles every 90 minutes. Your eyes flicker, your brain is nearly as active as when awake, yet your body stays paralyzed to keep you safe."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Your Brain Never Fully Shuts Down",
+      "body": "During REM, the prefrontal cortex (logic center) dims while the emotional limbic system fires intensely. This is why dreams feel so vivid and real — emotion runs the show, and critical thinking takes a back seat."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Memory Consolidation Theory",
+      "body": "One leading theory: dreams help sort and store memories. The hippocampus replays the day's experiences and transfers important ones to long-term memory. Students who sleep after studying retain far more than those who stay awake."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Emotional Processing While You Sleep",
+      "body": "Dreams may act as overnight therapy. The brain replays stressful events in a calmer neurochemical environment — without the stress hormone noradrenaline — helping you process emotions and wake up feeling better."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Threat Simulation Theory",
+      "body": "Evolutionary psychologists suggest dreams evolved as a threat rehearsal system. By simulating dangerous scenarios safely, the brain sharpens survival instincts — which is why nightmares of being chased are among the most universal human dreams."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Creativity Unlocked Overnight",
+      "body": "REM sleep loosens the brain's associative networks, connecting distant concepts in novel ways. Famous breakthroughs dreamed up during sleep include the structure of benzene, the melody of 'Yesterday,' and the plot of Frankenstein."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Why We Forget Most Dreams",
+      "body": "The brain chemical noradrenaline — needed to encode memories — is suppressed during REM. Without it, dream memories dissolve within minutes of waking. Writing dreams down immediately is the only reliable way to capture them."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Lucid Dreaming: Taking Control",
+      "body": "In lucid dreams, the sleeper becomes aware they are dreaming and can even steer the narrative. Brain scans show the prefrontal cortex briefly reactivates during lucidity — blending conscious awareness with the dream state."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Your Dreams Are Working For You",
+      "body": "Every dream is your brain filing memories, healing emotions, rehearsing threats, and sparking creativity. Protect your sleep — your dreaming mind is doing the work that keeps you sharp, resilient, and human."
+    }
+  ]
+}
