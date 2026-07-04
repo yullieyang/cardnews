@@ -1,0 +1,66 @@
+{
+  "title": "How Deepfakes Work — and How to Spot Them",
+  "theme_color": "#7b1fa2",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Deepfakes Work",
+      "body": "The AI technology behind synthetic media — and the growing science of detecting it"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Deepfake?",
+      "body": "A deepfake is AI-generated media — video, audio, or image — where a person's likeness is convincingly replaced or fabricated. The term blends \"deep learning\" and \"fake.\" Once a research curiosity, deepfakes are now achievable on a laptop in minutes with free software."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Technology: GANs",
+      "body": "Most deepfakes use Generative Adversarial Networks (GANs): two AI models that compete. The generator creates fake images; the discriminator judges if they're real. Through millions of rounds of competition, the generator learns to produce outputs even humans can't distinguish from authentic footage."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Face Swapping Explained",
+      "body": "A face-swap deepfake maps 68+ facial landmarks — eyes, jawline, nose tip — from a source face onto a target video frame by frame. Modern diffusion models have made this even more seamless, accurately preserving lighting, skin texture, and micro-expressions across thousands of frames."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Voice Cloning",
+      "body": "Audio deepfakes require as little as 3 seconds of someone's voice to clone it convincingly. AI speech synthesis models analyze pitch, cadence, and timbre, then generate entirely new speech in that voice. In 2024, voice clones were used in billion-dollar fraud schemes targeting bank executives."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Harm: Real and Serious",
+      "body": "Deepfakes have been weaponized for non-consensual intimate images, election interference, financial fraud, and reputation destruction. Studies found 96% of deepfakes online in 2023 were non-consensual pornography. Political deepfakes have appeared in election cycles in 15+ countries."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "How to Spot Them: Visual Clues",
+      "body": "Look for: unnatural blinking or eye movement, blurry edges around the hairline and ears, inconsistent lighting between face and background, strange skin texture, and teeth that look slightly wrong. Deepfakes often struggle with hands and teeth, which have complex geometry."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "AI Detection Tools",
+      "body": "Companies like Reality Defender, Intel (FakeCatcher), and Microsoft have built deepfake detectors that analyze blood-flow patterns, compression artifacts, and pixel-level inconsistencies invisible to the human eye. These tools achieve 90%+ accuracy — but the arms race continues as generation improves."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Regulation and Watermarking",
+      "body": "The EU AI Act and US DEEPFAKES Accountability Act require labels on synthetic media. Content credentials (C2PA standard) embed cryptographic provenance into images at creation. Major platforms like Adobe, Google, and Meta have committed to detecting and labeling AI-generated content."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "See It, Doubt It, Verify It",
+      "body": "As deepfakes become indistinguishable from real footage, healthy skepticism becomes essential. Before sharing striking video or audio, ask: who created this, where was it first published, and can it be verified? The best defense against synthetic media is a culture of critical thinking."
+    }
+  ]
+}
