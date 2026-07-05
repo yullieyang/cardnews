@@ -1,0 +1,66 @@
+{
+  "title": "How Fusion Energy Finally Became Real",
+  "theme_color": "#1A3A8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Fusion Energy Finally Became Real",
+      "body": "The power of stars — now on Earth. The breakthrough that could change everything."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Nuclear Fusion?",
+      "body": "Fusion is the same process that powers the Sun. Two hydrogen atoms are forced together to form helium, releasing enormous energy. Unlike fission (splitting atoms), fusion produces no long-lived radioactive waste."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 60-Year Dream",
+      "body": "Scientists have chased fusion since the 1950s. The joke was always that commercial fusion is '30 years away — and always will be.' The extreme temperatures required (100 million°C) made sustained reactions seem impossible."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The NIF Breakthrough",
+      "body": "In December 2022, the National Ignition Facility in California achieved ignition for the first time: the fusion reaction produced more energy than the lasers put in. This milestone — called 'scientific energy gain' — rewrote the physics textbooks."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How Tokamaks Contain the Fire",
+      "body": "The most common fusion design is the tokamak — a donut-shaped chamber that uses powerful magnetic fields to contain plasma at 150 million°C. ITER, the world's largest tokamak under construction in France, will test this at full scale."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Private Sector Race",
+      "body": "Over $6 billion in private funding has poured into fusion startups. Companies like Commonwealth Fusion, TAE Technologies, and Helion are pursuing novel designs. Helion signed a power purchase deal with Microsoft — the first commercial fusion contract ever."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Fuel: Seawater and Lithium",
+      "body": "Fusion runs on deuterium (extracted from seawater) and tritium (made from lithium). The fuel is virtually unlimited — a glass of seawater could power a home for a year. No carbon emissions, no meltdown risk, no supply chain wars."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Remaining Challenges",
+      "body": "Sustaining reactions long enough, building materials that survive neutron bombardment, and achieving 'wall-plug efficiency' (more power out than the whole plant uses) remain unsolved. Engineering a working power plant is a massive step beyond lab ignition."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "When Will It Power Our Homes?",
+      "body": "Most experts now say the 2030s–2040s for first commercial plants. Commonwealth Fusion aims for a pilot plant by 2030. If even one startup succeeds at scale, it changes the global energy equation permanently."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Star in a Bottle",
+      "body": "Fusion isn't science fiction anymore — it's an engineering race. The question is no longer if, but when. The era of clean, limitless fusion power may arrive within our lifetime."
+    }
+  ]
+}
