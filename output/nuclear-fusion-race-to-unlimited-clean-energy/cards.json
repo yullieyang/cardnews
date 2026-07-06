@@ -1,0 +1,66 @@
+{
+  "title": "Nuclear Fusion: The Race to Unlimited Clean Energy",
+  "theme_color": "#1565C0",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Nuclear Fusion",
+      "body": "The Race to Unlimited Clean Energy"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Nuclear Fusion?",
+      "body": "Fusion is the process that powers the Sun — two light atomic nuclei merge to form a heavier one, releasing enormous amounts of energy. It's the opposite of fission, which splits atoms apart."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Fusion Beats Fission",
+      "body": "Unlike nuclear fission reactors, fusion produces no long-lived radioactive waste and carries no meltdown risk. A fusion reaction simply stops if containment is lost — making it inherently safe."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Fuel: Seawater & Lithium",
+      "body": "Fusion reactors use deuterium and tritium — isotopes of hydrogen. Deuterium can be extracted from seawater in virtually limitless quantities, making fusion fuel one of Earth's most abundant resources."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Big Challenge: 100 Million °C",
+      "body": "To fuse nuclei, plasma must reach over 100 million degrees Celsius — hotter than the Sun's core. Containing this superheated plasma without any material touching it is the central engineering challenge."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "How Tokamaks Contain Plasma",
+      "body": "The tokamak design uses powerful magnetic fields to trap plasma in a donut-shaped chamber. Superconducting magnets create a magnetic 'bottle' that keeps the plasma away from reactor walls."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "ITER: Humanity's Biggest Experiment",
+      "body": "ITER, under construction in southern France, is a collaboration of 35 nations. When complete, it aims to produce ten times more energy than it consumes — proving fusion is a viable power source."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Private Sector Joins the Race",
+      "body": "Startups like Commonwealth Fusion Systems, Helion Energy, and TAE Technologies have attracted billions in funding. They're betting on compact, high-field magnets to reach commercial fusion faster than national programs."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Key Milestones Crossed",
+      "body": "NIF achieved fusion ignition in 2022, producing more energy than the laser input. High-temperature superconducting magnets have hit new records, and plasma hold times keep improving year after year."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Star on Earth",
+      "body": "Fusion promises clean, safe, and nearly limitless energy — potentially ending fossil fuel dependence. The question is no longer if fusion works, but when it will power our homes and cities."
+    }
+  ]
+}
