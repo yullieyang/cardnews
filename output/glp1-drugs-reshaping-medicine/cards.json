@@ -1,0 +1,66 @@
+{
+  "title": "GLP-1 Drugs: The Molecules Reshaping Medicine",
+  "theme_color": "#006064",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "GLP-1 Drugs: The Molecules Reshaping Medicine",
+      "body": "What started as a diabetes treatment is turning out to be one of the most transformative drug classes in modern history"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Are GLP-1 Drugs?",
+      "body": "GLP-1 (glucagon-like peptide-1) is a hormone naturally released after eating. Drugs like semaglutide (Ozempic, Wegovy) and tirzepatide mimic this hormone, signaling the brain to feel full, slowing digestion, and regulating blood sugar."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Weight Loss Breakthrough",
+      "body": "Clinical trials showed 15–22% body weight loss — far exceeding anything previously possible with medication. Unlike older diet drugs, GLP-1s work on the brain's reward system, reducing cravings rather than just suppressing appetite mechanically."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Heart & Cardiovascular Benefits",
+      "body": "The SELECT trial found semaglutide reduced major cardiovascular events (heart attack, stroke) by 20% — even in people without diabetes. Cardiologists are now prescribing these drugs specifically for heart protection, not just weight."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Kidney Disease Protection",
+      "body": "A 2024 landmark trial showed semaglutide cut the risk of kidney failure and dialysis by 24% in patients with chronic kidney disease. This opened a massive new front beyond metabolic health, potentially sparing millions from dialysis."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Fighting Addiction",
+      "body": "Early trials show GLP-1 drugs reduce cravings for alcohol, nicotine, and opioids — possibly because they quiet the brain's dopamine-driven reward circuits. Researchers are exploring them as treatments for addiction disorders."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Alzheimer's Connection",
+      "body": "Studies suggest GLP-1 drugs reduce neuroinflammation and may slow cognitive decline. Early Alzheimer's trials are underway. The brain has its own GLP-1 receptors — hinting that these drugs do far more neurologically than we first thought."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Supply & Access Problem",
+      "body": "Demand outstripped supply for years, creating global shortages. At $900–$1,300/month without insurance in the US, access is deeply unequal. Biosimilars and oral pill versions entering the market by 2026 aim to change that equation."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Side Effects & Unknowns",
+      "body": "Nausea, vomiting, and muscle loss are common short-term concerns. Long-term effects beyond 5 years remain under study. Questions about what happens when people stop — and whether these are lifetime drugs — are still being answered."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Drug Class for the Ages?",
+      "body": "GLP-1 drugs may be the most consequential pharmaceutical advance since statins. The challenge now is equitable access, understanding long-term safety, and ensuring medicine — not just markets — guides how these molecules change lives."
+    }
+  ]
+}
