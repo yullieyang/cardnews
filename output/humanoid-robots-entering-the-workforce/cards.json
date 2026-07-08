@@ -1,66 +1,66 @@
 {
-  "title": "Humanoid Robots Are Taking Their First Jobs",
-  "theme_color": "#1a6eb5",
+  "title": "Humanoid Robots Are Entering the Workforce",
+  "theme_color": "#1a237e",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
-      "heading": "Humanoid Robots Are Taking Their First Jobs",
-      "body": "Inside the factories, warehouses, and labs where machines are becoming coworkers"
+      "heading": "Humanoid Robots Are Entering the Workforce",
+      "body": "From factory floors to fulfillment centers — the robot coworker era has begun"
     },
     {
       "slide_number": 2,
       "type": "content",
       "heading": "What Is a Humanoid Robot?",
-      "body": "A humanoid robot has a body shaped like a human — two legs, two arms, and a head. This form factor lets it use the same tools, spaces, and workflows designed for people, without costly redesigns of existing infrastructure."
+      "body": "Humanoid robots have a human-like body — two arms, two legs, and a torso. This shape lets them use existing tools and spaces built for people, making them versatile in real-world environments without costly redesigns."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "The Race Is On: Key Players",
-      "body": "Tesla's Optimus, Figure AI's Figure 02, Boston Dynamics' Atlas, and Agility Robotics' Digit are leading the charge. Major automakers and tech giants have invested billions, signaling this is no longer a research project — it's an industry."
+      "heading": "The Race to Deploy",
+      "body": "By 2026, companies like Tesla (Optimus), Figure AI, and Agility Robotics (Digit) have moved beyond prototypes. Hundreds of units are now operating in warehouses, car plants, and logistics centers across the US and Asia."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "Already on the Factory Floor",
-      "body": "BMW and Mercedes-Benz have begun piloting humanoid robots for parts handling and assembly tasks. Tesla's Fremont factory now runs Optimus units in internal logistics roles, moving components between stations without human assistance."
+      "heading": "How They Learn to Work",
+      "body": "Modern humanoids learn through imitation — watching humans perform tasks thousands of times. AI models then let robots generalize those movements to new objects and situations, without manual programming for each scenario."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "How They Learn to Work",
-      "body": "These robots learn through a combination of reinforcement learning, imitation from human demonstrations, and massive simulation environments. Training in virtual worlds lets a robot accumulate millions of hours of experience before its first real shift."
+      "heading": "What Jobs Are They Doing?",
+      "body": "Current deployments focus on repetitive, physically demanding work: moving boxes, sorting packages, and assembling parts. These roles have high injury rates and chronic staffing shortages, making them ideal first targets."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "What Tasks Can They Handle?",
-      "body": "Current humanoids excel at pick-and-place, sorting, and repetitive material handling. They still struggle with fine manipulation and unpredictable environments — but capabilities are improving rapidly with each new model generation."
+      "heading": "The Economics of Robot Labor",
+      "body": "A humanoid robot costs roughly $20,000–$50,000 today, with a target of under $15,000 by 2027. At those prices, leasing a robot is cheaper than a full-time minimum-wage worker within 18 months of deployment."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "The Economics: Why Now?",
-      "body": "A humanoid robot costs roughly $30,000–$150,000 upfront, compared to $35,000+ per year for a human worker in developed countries. As unit costs fall and uptime reaches 20+ hours a day, the business case is becoming hard to ignore for labor-intensive industries."
+      "heading": "Key Technical Challenges",
+      "body": "Robots still struggle with dexterous hand manipulation, unpredictable environments, and battery life (typically 4–8 hours). Stairs and cluttered spaces remain difficult. Reliability in real-world conditions is the #1 barrier to mass adoption."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Jobs at Risk — and Jobs Created",
-      "body": "Routine physical jobs in warehousing, manufacturing, and logistics face the highest displacement risk. At the same time, demand is surging for robot trainers, fleet operators, maintenance technicians, and AI safety engineers — roles that didn't exist five years ago."
+      "heading": "Impact on Human Workers",
+      "body": "Economists estimate humanoids could automate 10–20% of physical jobs by 2030. Most experts predict a shift rather than elimination — humans moving to supervision, maintenance, and edge-case handling roles as robots handle routine tasks."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "Safety and Ethical Guardrails",
-      "body": "Regulators in the EU and US are drafting new workplace safety standards specifically for collaborative humanoid robots. Key debates include liability for accidents, algorithmic bias in task assignment, and mandatory off-switches under human control."
+      "heading": "The Road to 1 Million Robots",
+      "body": "Major manufacturers are targeting production at scale: Tesla aims for millions of Optimus units by 2030. If achieved, it would be the fastest scaling of any new technology category in history — surpassing even smartphones."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "The Coworker of the Future Is Already Here",
-      "body": "Humanoid robots won't replace human creativity or judgment — but they will transform how physical work gets done. Understanding this shift now puts you ahead of one of the defining technological transitions of the 2020s."
+      "heading": "The Future Is Already on the Floor",
+      "body": "Humanoid robots won't replace human creativity or judgment anytime soon — but they're already changing how physical work gets done. The question isn't if, but how fast the transition will reshape every industry that relies on human hands."
     }
   ]
 }
