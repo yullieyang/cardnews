@@ -1,0 +1,66 @@
+{
+  "title": "How Agentic AI Is Reshaping Work in 2026",
+  "theme_color": "#4f46e5",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Agentic AI Is Reshaping Work in 2026",
+      "body": "AI agents don't just answer questions — they take action. Here's how they're transforming the way we work."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is an AI Agent?",
+      "body": "An AI agent is a system that perceives its environment, makes decisions, and takes actions to achieve a goal — autonomously. Unlike a chatbot, it doesn't wait for your next message. It plans, executes, and adapts."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "From Copilot to Autopilot",
+      "body": "2023–2024 was the era of AI assistants that helped you write and brainstorm. 2025–2026 is the era of agents that book meetings, write code, submit forms, and handle email — with minimal human input."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Tools Are the Key",
+      "body": "What makes agents powerful is tool access: web browsing, code execution, file management, and API calls. An agent with tools can complete multi-step workflows that would take a human hours — in minutes."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Multi-Agent Pipelines",
+      "body": "Complex tasks are now split across specialist agents — one researches, one writes, one reviews, one publishes. These pipelines run in parallel, dramatically accelerating knowledge work across industries."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Industries Being Transformed",
+      "body": "Software development, legal research, healthcare documentation, financial analysis, and customer support are all seeing 30–70% productivity gains as agentic AI handles routine cognitive tasks at scale."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Human-in-the-Loop Question",
+      "body": "Most enterprise deployments still require human approval for high-stakes actions. The big design question of 2026: how much autonomy to grant? Too little kills efficiency; too much creates unacceptable risk."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "New Skills for the Agent Era",
+      "body": "Prompt engineering is evolving into 'agent engineering' — designing goals, constraints, and tool permissions. Workers who can orchestrate AI agents are becoming the most valuable employees in tech-forward companies."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Trust, Safety, and Guardrails",
+      "body": "Agentic AI introduces new risks: runaway loops, unintended side effects, and data leakage. Leaders in the field are racing to build evaluation frameworks, sandboxing, and audit trails to keep agents trustworthy."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Age of Delegation Has Arrived",
+      "body": "AI agents won't replace human judgment — but they will handle the execution. The future belongs to people and organizations who learn to delegate intelligently to their AI workforce."
+    }
+  ]
+}
