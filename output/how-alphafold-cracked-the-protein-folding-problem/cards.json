@@ -1,0 +1,66 @@
+{
+  "title": "How AlphaFold Cracked the Protein Folding Problem",
+  "theme_color": "#1A5FA8",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How AlphaFold Cracked the Protein Folding Problem",
+      "body": "A 50-year grand challenge in biology — finally solved by AI"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Protein Folding?",
+      "body": "Proteins are chains of amino acids that twist into precise 3D shapes. That shape determines everything — how enzymes catalyze reactions, how antibodies fight disease, how receptors receive signals."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 50-Year Grand Challenge",
+      "body": "Since the 1970s, scientists knew that a protein's shape is encoded in its amino acid sequence. But predicting that shape computationally was considered one of biology's hardest unsolved problems."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How AlphaFold Works",
+      "body": "DeepMind's AlphaFold uses a transformer-based neural network trained on hundreds of thousands of experimentally determined protein structures. It learns the physical and evolutionary rules of folding from data."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The CASP14 Breakthrough",
+      "body": "In 2020, AlphaFold2 dominated the CASP14 competition — the Olympics of protein structure prediction — achieving accuracy that matched expensive lab techniques like X-ray crystallography for the first time."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "200 Million Structures, Free",
+      "body": "In 2021, DeepMind released the AlphaFold Protein Structure Database containing predictions for over 200 million proteins — virtually every protein in every known organism — available to any researcher for free."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Accelerating Drug Discovery",
+      "body": "AlphaFold has cut drug target identification from years to weeks. It has already contributed to new antibiotics, antiparasitic treatments, and cancer therapy candidates by revealing previously unknown protein shapes."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Where It Still Falls Short",
+      "body": "AlphaFold predicts static snapshots, but proteins constantly flex and shift. Understanding protein dynamics, intrinsically disordered regions, and complex interactions remains a major open challenge."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "AlphaFold 3: The Next Leap",
+      "body": "Released in 2024, AlphaFold 3 extended predictions to entire molecular complexes — proteins with DNA, RNA, and small-molecule drugs — dramatically expanding its usefulness in pharmaceutical research."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A New Lens on Life",
+      "body": "AlphaFold didn't just solve a puzzle — it handed scientists a tool to read the language of biology at a molecular level. The ripple effects on medicine and science are only beginning to unfold."
+    }
+  ]
+}
