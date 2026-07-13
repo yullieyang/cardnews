@@ -1,0 +1,66 @@
+{
+  "title": "How AI Is Transforming Drug Discovery",
+  "theme_color": "#1B4FD8",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How AI Is Transforming Drug Discovery",
+      "body": "From 15 years and billions of dollars to months — artificial intelligence is rewriting the rules of medicine."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Old Way Was Brutally Slow",
+      "body": "Traditional drug development takes 10–15 years and costs over $2.6 billion per approved drug. More than 90% of drug candidates that enter clinical trials fail. The system was overdue for reinvention."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "AlphaFold Cracked the Protein Code",
+      "body": "In 2021, DeepMind's AlphaFold solved protein structure prediction — a 50-year grand challenge in biology. By 2023 it had mapped over 200 million protein structures, giving researchers an unprecedented atlas of disease targets."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Generating Molecules Nobody Imagined",
+      "body": "Generative AI models now design novel drug molecules from scratch. Instead of screening a library of known compounds, AI explores a near-infinite chemical space in days — surfacing candidates with the right shape, stability, and potency."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The First AI-Designed Drug in Trials",
+      "body": "In 2023, Insilico Medicine's INS018_055 — discovered entirely by AI — entered Phase 2 clinical trials for pulmonary fibrosis. The journey from target identification to clinic took under 4 years, roughly a quarter of the industry average."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Unlocking 'Undruggable' Targets",
+      "body": "Up to 85% of disease-related proteins were once considered impossible to target with small molecules. AI's ability to model complex 3D structures and dynamics is now unlocking these proteins — opening new fronts against Alzheimer's, cancer, and rare diseases."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Predicting Toxicity Before Testing",
+      "body": "Drug failure due to toxicity costs billions and harms patients. AI models trained on decades of clinical data now predict liver toxicity, cardiac side effects, and drug-drug interactions before a single animal study — eliminating dangerous candidates early."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Personalizing Treatment With Genomics",
+      "body": "AI cross-references patient genetic profiles with drug response data to predict who benefits from which treatment. This precision approach is already reshaping oncology, where the same tumor type can require completely different drugs depending on a patient's DNA."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Real Challenges Ahead",
+      "body": "AI is only as good as its training data — biased or incomplete datasets can lead to drugs that fail in diverse populations. Regulatory agencies are still developing frameworks to validate AI-designed drugs. Trust between AI systems and human scientists must be carefully built."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A New Era of Medicine Is Here",
+      "body": "AI will not replace scientists — it will amplify them. The coming decade may see diseases that have resisted treatment for generations finally meet their match. The drug discovery revolution is not on the horizon. It has already begun."
+    }
+  ]
+}
