@@ -1,0 +1,66 @@
+{
+  "title": "The Rise of Humanoid Robots in 2026",
+  "theme_color": "#1a237e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Rise of Humanoid Robots",
+      "body": "How machines that look and move like us are reshaping factories, homes, and the future of work"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Why Now?",
+      "body": "Breakthroughs in AI, motor control, and battery technology have converged in 2025–2026. Robots that once stumbled on stairs can now fold laundry, sort packages, and assist surgeons — at a cost falling faster than anyone predicted."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Big Players",
+      "body": "Tesla's Optimus, Figure AI's Figure-02, Boston Dynamics' Atlas, and Agility Robotics' Digit are in a race to deploy at scale. Chinese manufacturers like Unitree and UBTECH are also shipping thousands of units to factories across Asia."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Factory Floors First",
+      "body": "Automotive and logistics warehouses are the first major adopters. BMW, Mercedes, and Amazon run pilot programs where humanoid robots handle repetitive tasks alongside human workers — operating on three shifts without fatigue or breaks."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Learning by Watching",
+      "body": "Modern humanoid robots learn new tasks through imitation — a human demonstrates a motion once or twice, and the robot replicates and generalizes it. This \"teleoperation + diffusion model\" approach cuts programming time from weeks to hours."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Cost Curve Is Falling Fast",
+      "body": "In 2022 a capable humanoid prototype cost over $1 million. By 2026 production units are being quoted at $30,000–$70,000 — comparable to a compact car. Analysts project sub-$20,000 models before 2030 as supply chains mature."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Safety & Regulation",
+      "body": "The EU AI Act now classifies unsupervised humanoid robots as \"high-risk\" AI systems, requiring certification before deployment in public spaces. The US is still drafting federal guidelines, leaving a patchwork of state-level rules in place."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Jobs: Threat or Opportunity?",
+      "body": "The IMF estimates humanoid robots could automate 15–20% of physical labor roles by 2035. Economists are divided: optimists point to past automation waves that created new job categories; pessimists warn the pace this time may outstrip retraining capacity."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Coming to Homes & Hospitals",
+      "body": "Elder care and hospital assistance are the next frontier. Japan — facing a critical nursing shortage — has fast-tracked approval for robot assistants in care homes. Early trials show robots can safely lift patients, deliver medication, and monitor vital signs."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Robot Era Has Begun",
+      "body": "Humanoid robots are no longer science fiction — they're clocking shifts in real factories today. Whether they become partners or disruptors depends on the policies, investments, and conversations we start right now."
+    }
+  ]
+}
