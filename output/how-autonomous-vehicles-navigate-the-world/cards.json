@@ -1,0 +1,66 @@
+{
+  "title": "How Autonomous Vehicles Navigate the World",
+  "theme_color": "#1A6B8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Autonomous Vehicles Navigate the World",
+      "body": "From cameras to AI: the remarkable technology that lets cars drive themselves"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Sensing the Environment",
+      "body": "Self-driving cars use a suite of sensors: cameras capture visual detail, radar detects objects through weather, and LiDAR fires laser pulses to build precise 3D maps of the surroundings. Together they create a 360° picture of the world in real time."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "LiDAR: Seeing in 3D",
+      "body": "LiDAR (Light Detection and Ranging) spins lasers millions of times per second and measures how long reflections take to return. This generates a dense point cloud — a digital twin of the car's surroundings accurate to centimeters, even in low light."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "AI That Understands the Scene",
+      "body": "Deep neural networks process sensor data to identify pedestrians, cyclists, traffic signals, lane markings, and moving vehicles. Trained on billions of miles of real-world driving, the AI classifies objects and predicts what they will do next."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "HD Maps and Localization",
+      "body": "Autonomous vehicles use centimeter-precise high-definition maps pre-loaded with road geometry, speed limits, and lane configurations. The car fuses GPS, sensor readings, and these maps to know its exact position — often more accurately than any human driver."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Predicting Other Drivers",
+      "body": "One of the hardest challenges is anticipating human behavior. AV systems model the probable trajectories of every nearby vehicle and pedestrian, running hundreds of simulations per second to identify safe paths and avoid conflicts before they occur."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Planning the Path",
+      "body": "A motion planner converts predictions into a safe, smooth route. It weighs traffic rules, passenger comfort, and fuel efficiency to choose steering, acceleration, and braking commands — replanning thousands of times per second as conditions change."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Levels of Autonomy Explained",
+      "body": "The SAE defines six levels from 0 (fully manual) to 5 (fully autonomous). Most commercial vehicles today sit at Level 2 (driver-assist), while robotaxis from Waymo and Cruise operate at Level 4 — fully driverless in defined areas — on public roads."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Safety, Regulation, and the Road Ahead",
+      "body": "Studies suggest AVs could eliminate up to 90% of crashes caused by human error. Regulators in the US, EU, and China are building frameworks for certification and liability. By 2030, analysts expect millions of Level 4 vehicles operating in commercial fleets worldwide."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Future Is Self-Driving",
+      "body": "Autonomous vehicles combine sensors, AI, and HD maps to navigate a complex world more safely than humans. As the technology matures, it promises to reshape cities, cut road deaths, and redefine how we move."
+    }
+  ]
+}
