@@ -1,0 +1,66 @@
+{
+  "title": "How Carbon Capture Technology Works",
+  "theme_color": "#1a6b3c",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Carbon Capture Technology Works",
+      "body": "The machines pulling CO₂ out of the sky — and what happens next"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Why We Need to Capture Carbon",
+      "body": "Even if we stop all emissions today, CO₂ already in the atmosphere will keep warming the planet for centuries. Carbon capture aims to actively remove that excess, giving humanity a second chance at the 1.5°C target."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Point-Source Capture: Catching It at the Chimney",
+      "body": "The oldest approach intercepts CO₂ directly from power plants and factories before it enters the air. A chemical solvent — usually an amine — absorbs the gas, then releases it when heated so it can be compressed and stored. This method can cut a single facility's emissions by up to 90%."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Direct Air Capture: Vacuuming the Sky",
+      "body": "Direct Air Capture (DAC) machines draw in ambient air and pass it over liquid or solid sorbents that bind CO₂. The captured gas is stripped off using heat, yielding a pure CO₂ stream. Climeworks' Mammoth plant in Iceland became the world's largest DAC facility in 2024, pulling 36,000 tonnes per year."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "BECCS: Combining Forests with Engineering",
+      "body": "Bioenergy with Carbon Capture and Storage (BECCS) grows biomass crops that absorb CO₂ as they grow, burns them for energy, then captures the emissions. The result is energy generation that is carbon-negative — removing more CO₂ than it releases throughout its lifecycle."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "What Happens to the Captured CO₂?",
+      "body": "Captured carbon can be permanently injected into deep geological formations — depleted oil fields or basalt rock — where it mineralizes into stone within years. Alternatively, it becomes a feedstock: making sustainable aviation fuel, concrete, plastics, or even carbonated drinks."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Cost Challenge",
+      "body": "DAC currently costs $300–$1,000 per tonne of CO₂ — far above the ~$50 social cost of carbon that makes it economically viable at scale. Researchers are targeting $100 per tonne by 2030 through better sorbents, cheaper renewable energy, and optimized heat cycles."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Scale: The Gigaton Gap",
+      "body": "The IPCC estimates we need to remove 10 billion tonnes of CO₂ per year by 2050 to meet climate goals. All current carbon capture projects combined remove less than 0.01% of that. Closing this gap requires exponential growth in funding, policy, and engineering talent."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Controversy: Silver Bullet or Moral Hazard?",
+      "body": "Critics warn that carbon capture could become an excuse to delay cutting emissions at the source. Others argue it is a necessary complement to renewables, not a replacement. The scientific consensus: capture alone cannot solve climate change, but without it, meeting net-zero targets is nearly impossible."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Air Is the Frontier",
+      "body": "Carbon capture is no longer science fiction — it is an engineering and economic challenge. As costs drop and scale grows, the technology that vacuums CO₂ from the sky may become as vital to civilization as the power grid itself."
+    }
+  ]
+}
