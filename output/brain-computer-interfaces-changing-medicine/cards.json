@@ -1,0 +1,66 @@
+{
+  "title": "Brain-Computer Interfaces: Changing Medicine Forever",
+  "theme_color": "#1a6b8a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Brain-Computer Interfaces",
+      "body": "How neural technology is revolutionizing medicine and restoring human abilities"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a BCI?",
+      "body": "A brain-computer interface (BCI) is a device that reads electrical signals from the brain and translates them into commands for external devices. It creates a direct communication channel between neurons and computers, bypassing traditional muscle and nerve pathways."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Restoring Movement to the Paralyzed",
+      "body": "BCIs can decode motor intentions from the brain and route them directly to robotic limbs or muscle stimulators. Patients with complete paralysis have used BCIs to control robotic arms, type text, and even move their own hands again through targeted electrical stimulation."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Giving Back the Gift of Speech",
+      "body": "For people who cannot speak due to ALS, stroke, or locked-in syndrome, BCIs can translate brain signals for intended speech into synthesized audio or on-screen text. Researchers have achieved over 90% accuracy in decoding intended words — in real time."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Treating Epilepsy and Parkinson's",
+      "body": "Deep brain stimulation (DBS), a form of closed-loop BCI, continuously monitors neural activity and delivers precise electrical pulses to interrupt seizures or reduce Parkinson's tremors. Adaptive DBS systems now adjust stimulation automatically based on the patient's real-time brain state."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Restoring Vision and Hearing",
+      "body": "Cochlear implants — already in widespread use — are an early BCI success story, converting sound into nerve signals for the deaf. Visual cortex implants are now helping blind patients perceive shapes and letters by stimulating the brain directly, bypassing damaged eyes entirely."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Mental Health Applications",
+      "body": "BCIs are being investigated as treatments for severe depression and PTSD. Closed-loop neuromodulation devices detect biomarkers of depressive states in brain activity and deliver targeted stimulation to mood-regulating circuits — offering hope where medication has failed."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Race to Go Wireless and Miniature",
+      "body": "Early BCIs required bulky external hardware. Today's devices are trending toward fully implantable, wireless chips the size of a coin. Companies and research labs are developing systems that transmit data transcutaneously, eliminating infection risks from exposed cables."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Ethical Questions We Must Answer",
+      "body": "As BCIs advance, critical questions emerge: Who owns your neural data? Could BCIs be hacked or manipulated? Will the technology be accessible to all, or only the wealthy? Policymakers, ethicists, and engineers must collaborate to set guardrails before the technology outpaces regulation."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Mind-Machine Frontier",
+      "body": "Brain-computer interfaces are moving from science fiction to clinical reality — restoring movement, speech, and senses to millions. As the technology matures, staying informed and engaged in the ethical debate is everyone's responsibility."
+    }
+  ]
+}
