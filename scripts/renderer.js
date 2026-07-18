@@ -49,9 +49,23 @@ function lighten(hex, amount = 0.88) {
   );
 }
 
+/** Split body copy into a lead sentence (emphasized) and the remaining
+ * supporting sentence(s), purely for typographic hierarchy — this is a
+ * presentation-layer split only; it doesn't change what content exists,
+ * doesn't touch the deck schema, and falls back to treating the whole body
+ * as the lead if no clear sentence boundary is found. */
+function splitLead(text) {
+  const m = text.match(/^(.*?[.!?])(\s+)([\s\S]*)$/);
+  if (!m || !m[3].trim()) {
+    return { lead: text, support: "" };
+  }
+  return { lead: m[1], support: m[3].trim() };
+}
+
 function buildSlideHTML(slide, themeColor, totalSlides, css) {
   const dark = darken(themeColor);
   const light = lighten(themeColor);
+  const tint = lighten(themeColor, 0.94);
   const num = String(slide.slide_number).padStart(2, "0");
   const total = String(totalSlides).padStart(2, "0");
   const heading = escapeHTML(slide.heading);
@@ -61,6 +75,7 @@ function buildSlideHTML(slide, themeColor, totalSlides, css) {
     --theme: ${themeColor};
     --theme-dark: ${dark};
     --theme-light: ${light};
+    --theme-tint: ${tint};
   }`;
 
   let content;
@@ -68,28 +83,42 @@ function buildSlideHTML(slide, themeColor, totalSlides, css) {
   if (slide.type === "title") {
     content = `
       <div class="title-slide">
+        <div class="wm" aria-hidden="true">${num}</div>
         <div class="tag">CARD NEWS</div>
         <h1>${heading}</h1>
         <div class="divider"></div>
         <p>${body}</p>
         <div class="indicator">${num} / ${total}</div>
+        <div class="edge-bar"></div>
       </div>`;
   } else if (slide.type === "closing") {
     content = `
       <div class="closing-slide">
+        <div class="quote-mark" aria-hidden="true">&rdquo;</div>
+        <div class="tag">CARD NEWS</div>
         <h1>${heading}</h1>
         <div class="divider"></div>
         <p>${body}</p>
         <div class="indicator">${num} / ${total}</div>
+        <div class="edge-bar"></div>
       </div>`;
   } else {
+    const { lead, support } = splitLead(body);
     content = `
       <div class="content-slide">
-        <div class="num">${num}</div>
-        <h1>${heading}</h1>
-        <div class="divider"></div>
-        <p>${body}</p>
+        <div class="wm" aria-hidden="true">${num}</div>
+        <div class="eyebrow-row">
+          <div class="num-badge">${num}</div>
+          <div class="tag">CARD NEWS</div>
+        </div>
+        <div class="content-body">
+          <h1>${heading}</h1>
+          <div class="divider"></div>
+          <p class="lead">${lead}</p>
+          ${support ? `<p class="support">${support}</p>` : ""}
+        </div>
         <div class="indicator">${num} / ${total}</div>
+        <div class="edge-bar"></div>
       </div>`;
   }
 
@@ -109,24 +138,24 @@ async function renderDiaryShot(outputDir, totalSlides, page) {
   }
 
   const cols = 5;
-  const cell = 200;
-  const gap = 8;
+  const cell = 260;
+  const gap = 12;
   const rows = Math.ceil(totalSlides / cols);
   const gridW = cols * cell + (cols - 1) * gap;
   const gridH = rows * cell + (rows - 1) * gap;
-  const pad = 40;
+  const pad = 44;
 
   const items = images
     .map(
       (src) =>
-        `<div style="width:${cell}px;height:${cell}px;border-radius:8px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.12);">
+        `<div style="width:${cell}px;height:${cell}px;border-radius:10px;overflow:hidden;box-shadow:0 3px 10px rgba(0,0,0,0.14);">
         <img src="${src}" style="width:100%;height:100%;object-fit:cover;"></div>`
     )
     .join("");
 
   const html = `<!DOCTYPE html><html><head><meta charset="UTF-8"><style>
     body { margin:0; width:${gridW + pad * 2}px; height:${gridH + pad * 2}px;
-           display:flex; align-items:center; justify-content:center; background:#f5f5f5; }
+           display:flex; align-items:center; justify-content:center; background:#eef0ef; }
     .grid { display:grid; grid-template-columns:repeat(${cols},${cell}px); gap:${gap}px; }
   </style></head><body><div class="grid">${items}</div></body></html>`;
 

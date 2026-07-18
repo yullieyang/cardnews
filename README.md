@@ -1,8 +1,16 @@
 # cardnews
 
-A Claude-powered CLI workflow that turns a topic into a schema-validated
-10-slide visual briefing, rendered by a deterministic Puppeteer pipeline into
-a reviewable 1080×1080 PNG deck.
+A Claude-powered content workflow that turns a user-provided topic into
+validated slide content and a reviewable ten-slide visual deck.
+
+![5 by 2 thumbnail grid of a real rendered 10-slide card-news deck on the topic microplastics, editorial layout with serif headlines and numeral watermarks](output/microplastics-everywhere-what-we-know/diary-shot.png)
+
+**[View sample deck](output/microplastics-everywhere-what-we-know/) · [View JSON](output/microplastics-everywhere-what-we-know/cards.json) · [Run locally](#14-quick-start)**
+
+```
+Topic input → Claude-generated JSON → Schema validation
+→ Deterministic rendering → PNG deck → Human editorial review
+```
 
 ```bash
 npm install
@@ -170,6 +178,10 @@ first two of ten slides):
   ]
 }
 ```
+
+That `slide_number: 2` JSON entry renders to this real PNG:
+
+<img src="output/microplastics-everywhere-what-we-know/slide-02.png" width="480" alt="Rendered content slide: What Are Microplastics, editorial layout with a numbered circle badge, serif headline, lead/support body text, and a large low-opacity numeral watermark, from the JSON entry above">
 
 ## 12. Rendering workflow
 
