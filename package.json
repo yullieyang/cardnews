@@ -4,7 +4,8 @@
   "description": "AI-powered card news generator",
   "type": "module",
   "scripts": {
-    "start": "node scripts/index.js"
+    "start": "node scripts/index.js",
+    "test": "node --test"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",

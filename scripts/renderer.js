@@ -17,7 +17,8 @@ function escapeHTML(str) {
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;");
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 }
 
 function hexToRgb(hex) {
@@ -141,28 +142,108 @@ async function renderDiaryShot(outputDir, totalSlides, page) {
   console.log("  Rendered diary-shot.png");
 }
 
+/** Raised when the renderer's own validation of its output fails (wrong file
+ * count, an empty file, etc) — distinct from a Puppeteer/browser failure. */
+export class RenderValidationError extends Error {
+  constructor(problems) {
+    super(`Rendering validation failed:\n${problems.map((p) => `- ${p}`).join("\n")}`);
+    this.name = "RenderValidationError";
+    this.problems = problems;
+  }
+}
+
+/** Remove any slide/diary PNGs in a directory (used only on the *new*,
+ * already-validated render before the atomic swap into place — see
+ * ``renderSlides``). cards.json and any metadata file are left untouched. */
+function clearRenderArtifacts(dir) {
+  if (!fs.existsSync(dir)) return;
+  for (const name of fs.readdirSync(dir)) {
+    if (/^slide-\d+\.png$/.test(name) || name === "diary-shot.png") {
+      fs.unlinkSync(path.join(dir, name));
+    }
+  }
+}
+
+function validateRenderedOutput(outputDir, total) {
+  const problems = [];
+  const seen = new Set();
+  for (let i = 1; i <= total; i++) {
+    const num = String(i).padStart(2, "0");
+    const file = `slide-${num}.png`;
+    const full = path.join(outputDir, file);
+    if (!fs.existsSync(full)) {
+      problems.push(`missing ${file}`);
+      continue;
+    }
+    if (seen.has(file)) problems.push(`duplicate ${file}`);
+    seen.add(file);
+    if (fs.statSync(full).size === 0) problems.push(`${file} is empty`);
+  }
+  const diaryPath = path.join(outputDir, "diary-shot.png");
+  if (!fs.existsSync(diaryPath)) problems.push("missing diary-shot.png");
+  else if (fs.statSync(diaryPath).size === 0) problems.push("diary-shot.png is empty");
+  return problems;
+}
+
+/**
+ * Render a deck's slides + diary shot into ``outputDir``.
+ *
+ * Renders into a temporary staging directory first, validates the complete
+ * result there, and only then moves the new files into ``outputDir`` — a
+ * failed or partial render (Puppeteer crash, missing template, an empty
+ * PNG) never touches a pre-existing successful render in ``outputDir``. The
+ * previous version cleared old slide files *before* rendering the new ones,
+ * which meant a render that failed outright left the directory with fewer
+ * slides than before, or none. This is the fix for that: nothing in
+ * ``outputDir`` is removed or replaced until the new render is confirmed
+ * complete.
+ */
 export async function renderSlides(cards, outputDir) {
   const css = readCSS();
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: ["--no-sandbox", "--disable-setuid-sandbox"],
-  });
-  const page = await browser.newPage();
-  await page.setViewport({ width: 1080, height: 1080 });
-
   const total = cards.slides.length;
+  const stagingDir = `${outputDir}.rendering-tmp`;
+  fs.rmSync(stagingDir, { recursive: true, force: true });
+  fs.mkdirSync(stagingDir, { recursive: true });
 
-  for (const slide of cards.slides) {
-    const html = buildSlideHTML(slide, cards.theme_color, total, css);
-    await page.setContent(html, { waitUntil: "load" });
-    const num = String(slide.slide_number).padStart(2, "0");
-    await page.screenshot({
-      path: path.join(outputDir, `slide-${num}.png`),
-      type: "png",
-    });
-    console.log(`  Rendered slide-${num}.png`);
+  let browser;
+  try {
+    try {
+      browser = await puppeteer.launch({
+        headless: true,
+        args: ["--no-sandbox", "--disable-setuid-sandbox"],
+      });
+      const page = await browser.newPage();
+      await page.setViewport({ width: 1080, height: 1080 });
+
+      for (const slide of cards.slides) {
+        const html = buildSlideHTML(slide, cards.theme_color, total, css);
+        await page.setContent(html, { waitUntil: "load" });
+        const num = String(slide.slide_number).padStart(2, "0");
+        await page.screenshot({
+          path: path.join(stagingDir, `slide-${num}.png`),
+          type: "png",
+        });
+        console.log(`  Rendered slide-${num}.png`);
+      }
+
+      await renderDiaryShot(stagingDir, total, page);
+    } finally {
+      // Always close the browser, even if a screenshot or setContent call
+      // throws partway through — previously an error mid-loop skipped
+      // browser.close() entirely, leaking a headless Chromium process.
+      if (browser) await browser.close();
+    }
+
+    const problems = validateRenderedOutput(stagingDir, total);
+    if (problems.length) throw new RenderValidationError(problems);
+
+    // Validated — now it's safe to replace whatever was in outputDir.
+    fs.mkdirSync(outputDir, { recursive: true });
+    clearRenderArtifacts(outputDir);
+    for (const name of fs.readdirSync(stagingDir)) {
+      fs.renameSync(path.join(stagingDir, name), path.join(outputDir, name));
+    }
+  } finally {
+    fs.rmSync(stagingDir, { recursive: true, force: true });
   }
-
-  await renderDiaryShot(outputDir, total, page);
-  await browser.close();
 }
