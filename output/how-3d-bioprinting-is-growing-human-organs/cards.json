@@ -1,0 +1,66 @@
+{
+  "title": "How 3D Bioprinting Is Growing Human Organs",
+  "theme_color": "#1a7abf",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How 3D Bioprinting Is Growing Human Organs",
+      "body": "Scientists are printing living tissue — layer by layer — and the era of lab-grown organs is closer than you think."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Bioprinting?",
+      "body": "Bioprinting is 3D printing with living cells instead of plastic or metal. A printer deposits precise layers of 'bioink' — a gel loaded with human cells — to build tissue structures. The printed constructs are then cultured in a bioreactor until the cells mature and fuse together."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Organ Shortage Crisis",
+      "body": "Over 100,000 patients in the US alone are on transplant waiting lists at any given time. About 20 people die each day waiting for a donated organ. Bioprinting promises to eliminate this shortage by letting doctors print a patient's own organ using their own cells, removing rejection risk entirely."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "What Goes Into Bioink?",
+      "body": "Bioink is a mixture of living cells, growth factors, and a hydrogel scaffold. The scaffold — often made from collagen or alginate — holds the cells in place while they self-organize. Stem cells are especially valuable because they can be guided to become any cell type needed for a target organ."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Building the Vascular Problem",
+      "body": "The hardest challenge in bioprinting is creating blood vessels. Without capillaries, printed tissue thicker than a few millimeters dies from lack of oxygen. Researchers are now printing sacrificial sugar lattices that dissolve, leaving behind channels that mimic a vascular network."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "What Has Already Been Printed?",
+      "body": "Scientists have successfully bioprinted corneas, cartilage, skin grafts, and mini-kidneys for drug testing. In 2023 a team at Wake Forest printed a functional ear implanted in a human patient. Full complex organs like hearts and lungs remain the next frontier, with animal trials showing early promise."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Printing in Space",
+      "body": "Microgravity makes bioprinting easier — without gravity pulling cells downward, soft structures hold their shape better during printing. NASA and private companies have run bioprinting experiments on the ISS, with results showing improved cell viability compared to Earth-based prints."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Revolutionizing Drug Testing",
+      "body": "Even before full organs are transplantable, bioprinted tissue is transforming pharma. 'Organs-on-a-chip' — thin bioprinted tissue slices on microfluidic chips — mimic how drugs behave in a real liver or lung. This reduces animal testing and catches drug failures far earlier in development."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Timeline: When Can We Expect Organ Printing?",
+      "body": "Skin and cartilage repairs are already in clinical use. Kidney and liver patches may reach clinics by the early 2030s. Fully printable hearts — requiring billions of aligned cells and complex vasculature — are the target for the 2040s, according to leading research groups."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Future of Medicine Is Being Printed",
+      "body": "Bioprinting sits at the intersection of biology, engineering, and AI-driven design. As the technology matures, it could end transplant waiting lists, accelerate drug discovery, and give surgeons personalized repair kits grown from the patient's own cells. The body, it turns out, can be built from scratch."
+    }
+  ]
+}
