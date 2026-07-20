@@ -1,66 +1,66 @@
 {
-  "title": "Solid-State Batteries: Revolutionizing Electric Vehicles",
-  "theme_color": "#1a6ebd",
+  "title": "Solid-State Batteries: The EV Revolution",
+  "theme_color": "#1a6fd4",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "Solid-State Batteries",
-      "body": "The breakthrough technology set to transform electric vehicles — longer range, faster charging, and safer rides"
+      "body": "How a new technology is set to transform electric vehicles forever"
     },
     {
       "slide_number": 2,
       "type": "content",
       "heading": "What Is a Solid-State Battery?",
-      "body": "Unlike today's lithium-ion batteries that use a liquid electrolyte, solid-state batteries replace it with a solid ceramic or glass material. This seemingly simple swap unlocks dramatically better performance across every key metric."
+      "body": "Traditional lithium-ion batteries use a liquid electrolyte to carry charge between electrodes. Solid-state batteries replace that liquid with a thin, solid material — ceramic, glass, or polymer — enabling a fundamentally safer and denser design."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "The Problem with Liquid Electrolytes",
-      "body": "Liquid electrolytes are flammable, can leak, and degrade over time — creating fire risk and limiting how densely energy can be packed. They also require bulky thermal management systems, adding weight and cost to every EV on the road today."
+      "heading": "The Problem With Liquid Electrolytes",
+      "body": "Liquid electrolytes are flammable and prone to leaking, which limits how densely cells can be packed. They also degrade faster at high temperatures, shortening battery lifespan and requiring bulky thermal-management systems."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "Double the Range",
-      "body": "Solid-state cells can store roughly twice the energy in the same physical space, pushing EV range beyond 600 miles on a single charge. This effectively eliminates range anxiety — the #1 barrier to EV adoption worldwide."
+      "heading": "Double the Energy Density",
+      "body": "Solid-state designs can hold roughly twice the energy per kilogram compared to today's lithium-ion cells. That translates directly into longer range — potentially 600-800 miles on a single charge — without making the battery pack heavier."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "10-Minute Charging",
-      "body": "Solid electrolytes tolerate far higher charge rates without degrading. Lab prototypes have demonstrated 10–15 minute full charges — comparable to a gas-station fill-up. That changes the daily calculus of owning an electric vehicle entirely."
+      "heading": "Charging in Under 10 Minutes",
+      "body": "Because solid electrolytes resist heat damage, solid-state packs can accept much higher charging currents. Several prototypes have demonstrated 80% charge in under 10 minutes — cutting one of the biggest pain points of EV ownership."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "No More Fire Risk",
-      "body": "Because there's no flammable liquid inside, solid-state batteries are inherently safer. They won't undergo thermal runaway — the chain reaction that causes lithium-ion batteries to catch fire in crashes or during overcharging events."
+      "heading": "Dramatically Longer Lifespan",
+      "body": "Lithium-ion cells degrade partly because of dendrites — tiny metallic spikes that form in liquid electrolyte and can cause short circuits. Solid electrolytes suppress dendrite growth, enabling batteries that remain healthy past 1,000 charge cycles."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "Who's Leading the Race?",
-      "body": "Toyota aims to launch a solid-state EV by 2027–2028. Samsung SDI and QuantumScape are supplying early cells to automakers. China's CATL and BYD are investing billions to scale production. The race is global and intensely competitive."
+      "heading": "Who Is Closest to Market?",
+      "body": "Toyota, Samsung SDI, QuantumScape (backed by Volkswagen), and Solid Power (backed by BMW) are leading the race. Toyota has announced small-scale production vehicles with solid-state packs targeting 2027-2028 model years."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "The Manufacturing Challenge",
-      "body": "Making solid electrolyte layers thin and defect-free at gigafactory scale is extraordinarily difficult. Current production yields are low and costs remain high — but every year of R&D is closing the gap toward mass-market viability."
+      "heading": "The Manufacturing Hurdle",
+      "body": "Producing solid electrolytes at scale is the main bottleneck. The solid layer must be uniformly thin — often under 20 microns — across millions of cells with zero defects. Yield rates and material costs are still far above what is commercially viable for mass-market EVs."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "Beyond Cars: Other Applications",
-      "body": "Solid-state tech will also transform smartphones, medical implants, aircraft, and grid energy storage. The same properties — high density, safety, and longevity — make them attractive across any industry that runs on batteries."
+      "heading": "Beyond Cars: Aviation & Grid Storage",
+      "body": "Higher energy density and fire resistance make solid-state batteries attractive for electric aircraft, where weight and safety margins are critical. They are also being explored for grid-scale storage as renewable energy capacity expands worldwide."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "The Electric Future, Fully Charged",
-      "body": "Solid-state batteries aren't just an incremental upgrade — they're a fundamental redesign of stored energy. As manufacturing scales up, the 2030s could see affordable EVs that outlast any gas car and charge in the time it takes to grab a coffee."
+      "heading": "The Road Ahead",
+      "body": "Solid-state batteries won't replace lithium-ion overnight, but breakthroughs are accelerating. Within this decade, they could make EVs cheaper to run, faster to charge, and worry-free on long trips — reshaping transportation as we know it."
     }
   ]
 }
