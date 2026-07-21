@@ -1,0 +1,66 @@
+{
+  "title": "Humanoid Robots Are Changing Work in 2026",
+  "theme_color": "#2563EB",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Humanoid Robots Are Changing Work in 2026",
+      "body": "From factory floors to warehouses, human-shaped robots are entering real workplaces at an unprecedented pace."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Why Humanoid? The Design Logic",
+      "body": "Our world is built for humans — doors, stairs, tools, vehicles. Humanoid robots can navigate these spaces without redesigning the environment, giving them a practical edge over specialized machines."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Key Players Racing Ahead",
+      "body": "Figure AI, Unitree, Agility Robotics, and Tesla's Optimus are deploying units at scale. BMW, Amazon, and GE Aerospace have signed pilot agreements, putting humanoids on active production lines."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "What They Can Do Today",
+      "body": "Current humanoids handle repetitive pick-and-place tasks, pallet loading, parts inspection, and basic assembly. Dexterous hands now achieve near-human grasp success rates above 95% on structured tasks."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The AI Brain Behind the Body",
+      "body": "Large action models — trained on millions of hours of human motion data — let robots generalize new tasks from a handful of demonstrations. They no longer need months of custom programming for each job."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Cost vs. Human Labor",
+      "body": "Lease rates are falling toward $10–15 per hour for a fully operational unit. At that price point, humanoids become economically competitive for shift-based, physically demanding roles in high-wage markets."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Workforce Impact: Displacement or Collaboration?",
+      "body": "Economists see a split outcome — routine physical jobs face automation pressure, while roles requiring judgment, communication, and flexibility are expected to grow. Companies are retraining workers as robot supervisors and technicians."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Safety and Regulation",
+      "body": "OSHA and the EU AI Act are establishing new rules for human-robot collaboration zones. Robots must pass rigorous force-limit and emergency-stop tests before sharing a workspace with people."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What Comes Next: 2027 and Beyond",
+      "body": "Analysts project over one million humanoid units deployed globally by 2028. The next frontier is unstructured environments — healthcare support, construction sites, and elder care — where adaptability matters most."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Robot Colleague Is Already Here",
+      "body": "Humanoid robots aren't a distant sci-fi promise — they are clocking in today. Understanding how they work, where they excel, and how they reshape labor is essential knowledge for anyone thinking about the future of work."
+    }
+  ]
+}
