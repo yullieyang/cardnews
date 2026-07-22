@@ -1,0 +1,66 @@
+{
+  "title": "How Humanoid Robots Are Transforming the Workplace",
+  "theme_color": "#2C5F8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Rise of the Humanoid Robot",
+      "body": "How human-shaped machines are reshaping factories, warehouses, and beyond"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Changed in 2025–2026",
+      "body": "A wave of humanoid robots — Tesla Optimus, Figure 02, and Boston Dynamics Atlas — moved from labs to real factory floors. Costs dropped below $30,000 per unit, making mass deployment feasible for the first time."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Humanoid Shape Matters",
+      "body": "Human environments — shelves, tools, doorways — are built for human bodies. A humanoid robot can reuse existing infrastructure without costly redesign, giving it a massive deployment advantage over specialized robots."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Dexterous Hands Problem",
+      "body": "Grasping irregular objects was the hardest unsolved challenge. New tendon-driven hands with tactile sensors can now pick eggs, fold clothes, and handle cables — tasks that stumped robots for decades. AI-guided manipulation training made the difference."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Learning From Humans at Scale",
+      "body": "Teleoperation datasets collected from thousands of human workers feed large-scale imitation learning. Robots watch, then mimic. This \"watch once, deploy everywhere\" model cuts training time from months to days."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Where They're Working Right Now",
+      "body": "Automotive plants use humanoids for parts sorting and quality inspection. Amazon warehouses deploy them for shelf restocking after hours. Hospitals pilot them for linen and supply transport, freeing staff for patient care."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Safety and Reliability Challenge",
+      "body": "Working alongside humans demands fail-safes beyond typical industrial robots. Force-limiting joints, redundant sensors, and human-override protocols are now standard. Regulators in the EU and US are drafting the first humanoid-specific safety standards."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Jobs: Threat or Tool?",
+      "body": "Most economists see humanoids filling dangerous, repetitive, or shortage roles first — forklift driving, hazardous materials, overnight stocking. New jobs in robot supervision, maintenance, and training are growing faster than displacement in early adopting regions."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What's Coming in the Next 3 Years",
+      "body": "Analysts project 500,000 humanoid units deployed globally by 2029. Prices are expected to halve again. General-purpose models trained on broad task libraries may reach \"any job in any building\" capability within three years."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Human + Robot Future",
+      "body": "Humanoid robots aren't replacing human creativity — they're handling the heavy, repetitive, and hazardous work so people can focus on what matters most. The workplaces of 2030 will be built on this collaboration."
+    }
+  ]
+}
