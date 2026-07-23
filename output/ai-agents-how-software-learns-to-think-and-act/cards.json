@@ -1,0 +1,66 @@
+{
+  "title": "AI Agents: How Software Is Learning to Think and Act",
+  "theme_color": "#6C3DE0",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "AI Agents: How Software Is Learning to Think and Act",
+      "body": "Beyond chatbots — the next wave of AI that plans, decides, and executes on your behalf"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is an AI Agent?",
+      "body": "An AI agent is software that perceives its environment, sets goals, and takes actions to achieve them — without step-by-step human instructions. Unlike a chatbot that only responds, an agent loops: observe → plan → act → repeat until the task is done."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Agent Loop",
+      "body": "Every agent follows a core loop: it reads its context (files, messages, web content), reasons about what to do next, calls tools or APIs, then examines the result. This cycle continues autonomously, sometimes hundreds of times, to complete a single complex task."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Tools: The Hands of an Agent",
+      "body": "Agents gain power through tools — web search, code execution, file system access, API calls, and even controlling a browser. Each tool extends what the agent can perceive and change in the world, turning a language model into an active participant."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Memory: Short-Term vs. Long-Term",
+      "body": "Short-term memory lives in the active context window — what the agent is currently thinking about. Long-term memory uses external storage like vector databases, so agents can recall facts from past sessions and learn from experience over time."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Multi-Agent Systems",
+      "body": "Complex tasks are split among specialized sub-agents: one searches the web, another writes code, a third reviews it. An orchestrator agent coordinates them all. This parallel teamwork dramatically speeds up work that would overwhelm a single agent."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Real-World Applications Today",
+      "body": "AI agents are already writing and deploying code, booking travel, managing inboxes, running marketing campaigns, and conducting scientific literature reviews. In 2026, agentic systems handle entire software sprints with minimal human input."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Trust and Safety Challenge",
+      "body": "Autonomous action brings risk. Agents can misinterpret goals, take irreversible actions, or be manipulated via prompt injection in external content. Safe design requires human checkpoints, minimal permissions, and sandboxed execution environments."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What Makes a Great Agent?",
+      "body": "Top-performing agents share three traits: accurate world models (knowing what they know and don't know), reliable tool use (graceful error handling), and goal-consistent planning (not drifting from the user's actual intent as complexity grows)."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Agent Era Has Arrived",
+      "body": "AI agents are reshaping how we work — not by replacing humans, but by handling the tedious execution while we focus on judgment and creativity. Understanding them isn't optional; it's the new digital literacy."
+    }
+  ]
+}
