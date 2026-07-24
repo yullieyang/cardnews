@@ -1,0 +1,66 @@
+{
+  "title": "The Hidden Psychology of Social Media Algorithms",
+  "theme_color": "#6C3FC5",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Hidden Psychology of Social Media Algorithms",
+      "body": "How platforms engineer your attention — and what you can do about it"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is an Algorithm?",
+      "body": "A social media algorithm is an AI system that decides what content you see. It isn't random — it's optimized with one goal: keep you on the platform as long as possible."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Engagement Trap",
+      "body": "Algorithms favor content that triggers strong emotions — outrage, fear, awe, and excitement generate more clicks and comments than content that simply informs. Controversy pays."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Variable Reward Loops",
+      "body": "Like slot machines, social feeds deliver unpredictable rewards. Sometimes a post goes viral; sometimes it disappears. This uncertainty is psychologically addictive — the same mechanism that drives gambling."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Filter Bubble Effect",
+      "body": "Algorithms learn your preferences and gradually show you more of the same. Over time, your feed narrows into an echo chamber that reinforces existing beliefs and hides opposing viewpoints."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Dopamine and the Like Button",
+      "body": "Every like, comment, and share triggers a small dopamine release in your brain. Platforms are deliberately designed to maximize these micro-rewards and keep you chasing social validation."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Time Distortion by Design",
+      "body": "Infinite scroll and autoplay remove natural stopping cues. Users consistently underestimate how long they've been on their phones — often by 30% or more — because there's no visible end to the feed."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Attention Economy",
+      "body": "Your attention is the product being sold. Advertisers pay for eyeballs, so platforms compete to capture as many minutes of your day as possible. Every UX decision is a bid for your time."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Taking Back Control",
+      "body": "Set daily screen time limits, turn off autoplay, and curate your follows intentionally. Schedule specific windows for social media use — and notice how much calmer your mind becomes."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Be the Algorithm's Boss",
+      "body": "Understanding how these systems work is the first step to using social media intentionally rather than being used by it. Awareness is the most powerful tool you have."
+    }
+  ]
+}
