@@ -1,66 +1,66 @@
 {
   "title": "Humanoid Robots Are Entering the Workforce",
-  "theme_color": "#1a237e",
+  "theme_color": "#2563EB",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "Humanoid Robots Are Entering the Workforce",
-      "body": "From factory floors to fulfillment centers — the robot coworker era has begun"
+      "body": "How machines shaped like us are transforming factories, warehouses, and beyond"
     },
     {
       "slide_number": 2,
       "type": "content",
-      "heading": "What Is a Humanoid Robot?",
-      "body": "Humanoid robots have a human-like body — two arms, two legs, and a torso. This shape lets them use existing tools and spaces built for people, making them versatile in real-world environments without costly redesigns."
+      "heading": "From Sci-Fi to Factory Floor",
+      "body": "Once confined to movies and research labs, humanoid robots are now active in real workplaces. Companies like Tesla, Boston Dynamics, and Agility Robotics have deployed bipedal robots that walk, carry, and sort — alongside human colleagues."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "The Race to Deploy",
-      "body": "By 2026, companies like Tesla (Optimus), Figure AI, and Agility Robotics (Digit) have moved beyond prototypes. Hundreds of units are now operating in warehouses, car plants, and logistics centers across the US and Asia."
+      "heading": "Why Human-Shaped Robots?",
+      "body": "Our world is built for human bodies — stairs, shelves, tools, and vehicles all assume an upright form. Humanoid robots can operate in existing facilities without costly redesigns, giving them a massive practical advantage over other automation approaches."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "How They Learn to Work",
-      "body": "Modern humanoids learn through imitation — watching humans perform tasks thousands of times. AI models then let robots generalize those movements to new objects and situations, without manual programming for each scenario."
+      "heading": "Who's Leading the Race?",
+      "body": "Tesla's Optimus, Figure AI's Figure 02, and Agility's Digit are competing for early industrial contracts. Meanwhile, Chinese firms like Unitree are flooding the market with lower-cost alternatives, intensifying global competition."
     },
     {
       "slide_number": 5,
       "type": "content",
       "heading": "What Jobs Are They Doing?",
-      "body": "Current deployments focus on repetitive, physically demanding work: moving boxes, sorting packages, and assembling parts. These roles have high injury rates and chronic staffing shortages, making them ideal first targets."
+      "body": "Current deployments focus on repetitive, physically demanding tasks: picking and packing boxes, loading trucks, assembling parts, and restocking shelves. These are roles with high turnover and injury rates — making them prime targets for automation."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "The Economics of Robot Labor",
-      "body": "A humanoid robot costs roughly $20,000–$50,000 today, with a target of under $15,000 by 2027. At those prices, leasing a robot is cheaper than a full-time minimum-wage worker within 18 months of deployment."
+      "heading": "The Role of AI in Giving Robots a Brain",
+      "body": "Modern humanoids run on large neural networks trained with reinforcement learning and real-world demonstrations. They can generalize to new objects and layouts without being explicitly programmed — a leap that was impossible just five years ago."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "Key Technical Challenges",
-      "body": "Robots still struggle with dexterous hand manipulation, unpredictable environments, and battery life (typically 4–8 hours). Stairs and cluttered spaces remain difficult. Reliability in real-world conditions is the #1 barrier to mass adoption."
+      "heading": "Economics: Are They Cost-Effective?",
+      "body": "Today's humanoid robots cost $30,000–$150,000 each, with additional maintenance and programming expenses. Analysts project costs dropping 60–80% by 2030, potentially making them cheaper than minimum-wage labor in high-cost markets."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Impact on Human Workers",
-      "body": "Economists estimate humanoids could automate 10–20% of physical jobs by 2030. Most experts predict a shift rather than elimination — humans moving to supervision, maintenance, and edge-case handling roles as robots handle routine tasks."
+      "heading": "Human Impact: Jobs Lost or Transformed?",
+      "body": "Economists disagree on net job effects. Warehousing and logistics are most exposed in the short term. History suggests automation creates new roles — but the transition is painful for affected workers without retraining support."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "The Road to 1 Million Robots",
-      "body": "Major manufacturers are targeting production at scale: Tesla aims for millions of Optimus units by 2030. If achieved, it would be the fastest scaling of any new technology category in history — surpassing even smartphones."
+      "heading": "Safety and Regulation Challenges",
+      "body": "Working alongside humans, humanoid robots raise new safety standards. Regulators in the EU and US are drafting robot-in-workplace rules covering collision avoidance, liability, and mandatory human oversight zones."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "The Future Is Already on the Floor",
-      "body": "Humanoid robots won't replace human creativity or judgment anytime soon — but they're already changing how physical work gets done. The question isn't if, but how fast the transition will reshape every industry that relies on human hands."
+      "heading": "The Robot Colleague Era Has Begun",
+      "body": "Humanoid robots are no longer a future promise — they're clocking in today. Understanding how they work, where they'll be deployed, and how to adapt will be the defining skill of the next decade."
     }
   ]
 }
