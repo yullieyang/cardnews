@@ -1,0 +1,66 @@
+{
+  "title": "Lab-Grown Meat: The Science of Cultivated Protein",
+  "theme_color": "#2D7D46",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Lab-Grown Meat: The Science of Cultivated Protein",
+      "body": "How scientists are growing real meat from cells — without raising or slaughtering animals"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Cultivated Meat?",
+      "body": "Cultivated meat is real animal meat grown directly from animal cells in a controlled environment. Unlike plant-based alternatives, it has the same protein structure, fat marbling, and taste as conventional meat. No farms, no feedlots — just cells, nutrients, and biology."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Step 1: Collecting the Cells",
+      "body": "A small biopsy — a sample no bigger than a sesame seed — is taken from a live animal. From this, scientists isolate muscle stem cells called satellite cells, which are naturally designed to repair and grow muscle tissue. The animal is unharmed and continues living normally."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Step 2: Growing in a Bioreactor",
+      "body": "Cells are placed in a bioreactor — essentially a high-tech fermentation tank — filled with a nutrient-rich growth medium. The medium provides amino acids, glucose, vitamins, and growth factors that tell cells to multiply. In optimal conditions, cells can double every 24 hours, scaling from thousands to billions of cells within weeks."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Step 3: Scaffolding and Structure",
+      "body": "Growing cells is easy; growing structured meat is harder. Scientists use edible scaffolds — frameworks made from plant fibers or mushroom mycelium — to give cells a 3D architecture to grow on. This shapes the meat into recognizable textures: fibers for chicken breast, layers for a steak. Without scaffolding, you get only a flat sheet or ground-meat texture."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Growth Medium Problem",
+      "body": "For years, cultivated meat relied on fetal bovine serum (FBS) — extracted from unborn calves — as its growth medium, creating an ethical contradiction. Researchers have now developed animal-free growth media using plant-derived proteins and recombinant growth factors. Cost has dropped from $300,000 per kilogram in 2013 to under $10 in advanced facilities today."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Environmental Promise",
+      "body": "Conventional beef uses 20 times more land and generates 4 times more greenhouse gases than cultivated meat at scale. A single bioreactor the size of a shipping container could theoretically produce as much meat as a large cattle farm. However, current production is still energy-intensive, and true environmental gains depend on powering bioreactors with renewable energy."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Regulatory and Market Reality",
+      "body": "The US FDA and USDA granted joint approval for cultivated chicken in 2023, making the US the second market after Singapore to allow sales. As of 2026, products from UPSIDE Foods and GOOD Meat are available in select US restaurants. Full grocery-store availability awaits further cost reductions — current retail prices remain 3 to 5 times higher than conventional meat."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Challenges Still to Solve",
+      "body": "Scaling bioreactors from lab to industrial production without cell stress or contamination remains the biggest engineering hurdle. Achieving the marbling and texture of a whole steak — with fat cells integrated alongside muscle cells — is still unsolved. And consumer acceptance is mixed: surveys show about half of people are willing to try it, while a third say they would never eat it."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Meat, Reimagined",
+      "body": "Cultivated protein could one day feed billions with a fraction of the environmental cost — but the journey from biopsy to burger is still being mapped. Whether it ends up on your plate depends as much on science, economics, and culture as on the cells in a bioreactor."
+    }
+  ]
+}
