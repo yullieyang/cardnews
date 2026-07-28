@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Caffeine: How It Really Works",
+  "theme_color": "#6B3F2A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Caffeine",
+      "body": "How the world's most popular drug actually works — and why you can't quit it"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Most Consumed Drug on Earth",
+      "body": "About 90% of adults worldwide consume caffeine daily. Found in coffee, tea, energy drinks, and chocolate, it's the most widely used psychoactive substance in human history — and one of the few that's almost entirely socially accepted."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "What Caffeine Actually Does to Your Brain",
+      "body": "Caffeine doesn't create energy — it blocks adenosine receptors. Adenosine is a chemical that builds up while you're awake and makes you feel tired. Caffeine fits into those receptors without activating them, effectively muting your brain's sleep signal."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Dopamine Connection",
+      "body": "By blocking adenosine, caffeine indirectly triggers a surge of dopamine and adrenaline. This boosts mood, focus, and alertness. It's a softer effect than hard stimulants, but it's real — and it's why that morning cup feels like a reward."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How Fast Does It Kick In?",
+      "body": "Caffeine is absorbed rapidly through the gut and reaches peak concentration in your bloodstream within 30–60 minutes. Its half-life is roughly 5–7 hours — meaning half of a 3 PM coffee is still active at 8–10 PM, quietly disrupting your sleep quality."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Why You Build Tolerance",
+      "body": "Your brain adapts by growing more adenosine receptors over time. This means you need more caffeine to get the same effect. Regular drinkers often report feeling \"normal\" rather than energized — they're just offsetting the larger baseline of receptors caffeine created."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Withdrawal Is Real",
+      "body": "Skip your daily caffeine and those extra adenosine receptors suddenly have nothing blocking them — flooding your brain with sleepiness. Symptoms include headaches, fatigue, irritability, and difficulty concentrating. They typically peak at 1–2 days and resolve within a week."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Health Trade-offs",
+      "body": "Moderate caffeine (200–400 mg/day) is linked to reduced risk of Parkinson's disease, type 2 diabetes, and liver disease. However, high doses raise anxiety, blood pressure, and heart rate. Individual genetics — especially the CYP1A2 gene — determine how fast you metabolize it."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Sleep Debt Caffeine Can't Fix",
+      "body": "Caffeine masks fatigue but doesn't eliminate sleep debt. Adenosine keeps accumulating even while blocked — when the caffeine wears off, the full wave hits at once. True recovery from sleep deprivation requires actual sleep, not more coffee."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Drink Wisely, Not More",
+      "body": "Caffeine is a powerful tool when used strategically — morning timing, moderate doses, and a 1–2 day weekly break can restore sensitivity. Understanding the science helps you get the benefits without becoming dependent on just feeling normal."
+    }
+  ]
+}
