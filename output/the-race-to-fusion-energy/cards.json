@@ -1,0 +1,66 @@
+{
+  "title": "The Race to Fusion Energy",
+  "theme_color": "#E05A1A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Race to Fusion Energy",
+      "body": "Humanity's quest to harness the power of the stars — and why we may finally be close"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Fusion?",
+      "body": "Fusion is the process that powers the Sun. Light atomic nuclei — typically hydrogen isotopes — are forced together at extreme temperatures, releasing enormous amounts of energy. Unlike fission, fusion produces no long-lived radioactive waste."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 60-Year Promise",
+      "body": "Since the 1950s, scientists have joked that fusion is 'always 30 years away.' Early reactors could barely sustain reactions for milliseconds. The challenge is containing plasma hotter than the Sun's core — around 100 million degrees Celsius."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Tokamak Breakthrough",
+      "body": "The tokamak design uses powerful magnetic fields to confine the plasma in a donut-shaped chamber. ITER, the international megaproject in France, is the world's largest tokamak. When complete, it aims to produce 10 times more energy than it consumes."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "NIF's Historic Ignition",
+      "body": "In December 2022, the National Ignition Facility in California achieved 'ignition' — a fusion reaction that produced more energy than the laser energy delivered to the fuel. It was the first time in history this threshold had been crossed, proving the physics works."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Private Sector Surge",
+      "body": "Dozens of startups — including Commonwealth Fusion Systems, Helion, and TAE Technologies — are racing to build commercial reactors. They've raised billions in venture capital and promise working reactors by the early 2030s using innovative compact designs."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "High-Temperature Superconductors",
+      "body": "A key enabler for compact fusion is high-temperature superconducting (HTS) magnets. These can generate fields 4× stronger than older magnets at lower cost, allowing reactors to be far smaller and cheaper — a game-changer for commercialization."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Fuel: Abundant and Safe",
+      "body": "Fusion reactors run on deuterium (from seawater) and tritium (bred from lithium). The fuel is extraordinarily abundant — a glass of seawater contains enough deuterium to power a house for a year. There's no risk of runaway meltdown; the reaction stops if anything goes wrong."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Challenges That Remain",
+      "body": "Getting to net energy gain at the grid scale still requires solving plasma instabilities, tritium breeding, and materials that survive intense neutron bombardment for decades. Engineering a continuous, self-sustaining burn is far harder than a brief pulse."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Star on Earth",
+      "body": "Fusion won't solve climate change overnight, but it could provide virtually limitless, clean baseload power for centuries. After 70 years of research, the finish line is finally coming into view."
+    }
+  ]
+}
