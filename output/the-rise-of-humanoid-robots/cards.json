@@ -1,66 +1,66 @@
 {
   "title": "The Rise of Humanoid Robots",
-  "theme_color": "#1a6b8a",
+  "theme_color": "#1a237e",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "The Rise of Humanoid Robots",
-      "body": "How human-shaped machines are stepping out of science fiction and into our factories, homes, and daily lives"
+      "body": "From factory floors to everyday life — machines are finally walking among us"
     },
     {
       "slide_number": 2,
       "type": "content",
-      "heading": "Why Human-Shaped?",
-      "body": "Our world is built for human bodies — doors, stairs, tools, workbenches. A robot with two arms and two legs can navigate and use the same infrastructure we do, without redesigning entire environments around it."
+      "heading": "Why Now?",
+      "body": "A convergence of AI breakthroughs, cheaper actuators, and better batteries has made humanoid robots economically viable for the first time. The cost of building a capable humanoid has dropped by over 80% since 2020."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "Who's Building Them?",
-      "body": "Tesla (Optimus), Figure AI, Boston Dynamics (Atlas), Agility Robotics (Digit), and Apptronik are all racing to deploy humanoid robots at scale. China's BYD and Xiaomi have also entered the competition, making this a global technology race."
+      "heading": "The Leading Players",
+      "body": "Tesla Optimus, Figure AI, Agility Robotics, and Boston Dynamics lead the race. Each takes a different approach — from AI-first training to biomechanical design — competing for dominance in a market projected to reach $150 billion by 2035."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "From Lab to Factory Floor",
-      "body": "BMW, Amazon, and Tesla are already piloting humanoid robots on assembly lines to handle repetitive or ergonomically difficult tasks. These robots work alongside human employees rather than replacing entire production lines overnight."
+      "heading": "Learning to Move Like Humans",
+      "body": "Modern humanoids learn movement through reinforcement learning in simulated environments. They practice millions of virtual hours — walking, grasping, recovering from falls — before ever touching the real world, dramatically cutting development time."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "The AI Brain Inside",
-      "body": "Modern humanoid robots use large neural networks trained on video of human motion, combined with real-time sensor fusion. This lets them generalize to new tasks — like picking up an unfamiliar object — without being reprogrammed each time."
+      "heading": "Working Alongside People",
+      "body": "Humanoid robots are already operating in Amazon warehouses, BMW factories, and hospital supply rooms. Their human-like form lets them use existing tools and navigate spaces built for people — no costly facility redesign required."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "The Hardest Engineering Problems",
-      "body": "Bipedal balance, dexterous hand control, and energy efficiency remain brutal challenges. A human can carry groceries up stairs with ease; replicating that gracefully in a robot still requires cutting-edge actuator design and real-time AI inference."
+      "heading": "The Dexterity Problem",
+      "body": "Hands remain the hardest challenge. Human fingers can apply 1 newton of force or 100 — and feel the difference. Today's robot hands struggle with tasks like picking a strawberry without crushing it, a problem researchers call the 'manipulation gap.'"
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "How Much Do They Cost?",
-      "body": "Current prototypes cost $50,000–$250,000 per unit, but manufacturers are targeting sub-$30,000 at mass-production volumes. Tesla has projected Optimus could eventually cost less than a car — a price point that would open consumer markets."
+      "heading": "Safety and Trust",
+      "body": "Regulators in the US, EU, and Japan are scrambling to create frameworks for human-robot coexistence. Key questions: How should a robot behave when it makes a mistake? Who is liable when a humanoid injures someone? These answers will shape the entire industry."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Safety and Regulation",
-      "body": "Unlike industrial robots caged behind fences, humanoids share space with people, raising new safety questions. Regulators in the US, EU, and Japan are developing frameworks for cobot standards, liability rules, and required safety certifications before widespread deployment."
+      "heading": "Economic Impact",
+      "body": "Economists estimate humanoid robots could add $4–7 trillion to global GDP by 2040 by addressing labor shortages in manufacturing, logistics, and elder care. However, up to 14% of current jobs could be displaced, requiring major workforce transition programs."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "The Jobs Question",
-      "body": "Economists are split: some warn of large-scale displacement in warehousing, logistics, and manufacturing; others argue robots will fill labor shortages in aging societies. The net impact depends heavily on how quickly adoption scales and whether retraining programs keep pace."
+      "heading": "The Home Frontier",
+      "body": "The next big target is the home market. Companies are racing to build a robot that can load dishwashers, fold laundry, and assist elderly people with mobility. A capable home assistant robot could outsell smartphones within a decade."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "A Robot in Every Workplace?",
-      "body": "Humanoid robots have moved from sci-fi to factory floors in less than a decade. As AI, materials science, and manufacturing converge, the question is no longer if they'll be everywhere — but how soon, and on whose terms."
+      "heading": "A New Kind of Colleague",
+      "body": "Humanoid robots won't replace humanity — they'll extend it. The question isn't whether they'll arrive, but how quickly we shape the rules that govern them. The age of humanoid machines has begun."
     }
   ]
 }
