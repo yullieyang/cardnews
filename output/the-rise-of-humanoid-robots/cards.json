@@ -1,66 +1,66 @@
 {
   "title": "The Rise of Humanoid Robots",
-  "theme_color": "#1a237e",
+  "theme_color": "#2563EB",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "The Rise of Humanoid Robots",
-      "body": "From factory floors to everyday life — machines are finally walking among us"
+      "body": "How machines built like us are entering our homes, factories, and daily lives"
     },
     {
       "slide_number": 2,
       "type": "content",
-      "heading": "Why Now?",
-      "body": "A convergence of AI breakthroughs, cheaper actuators, and better batteries has made humanoid robots economically viable for the first time. The cost of building a capable humanoid has dropped by over 80% since 2020."
+      "heading": "Why Human-Shaped Robots?",
+      "body": "Our world is designed for human bodies — doors, stairs, tools, vehicles. A robot with two arms and two legs can operate in the same spaces and use the same equipment as a person, without redesigning the environment around it."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "The Leading Players",
-      "body": "Tesla Optimus, Figure AI, Agility Robotics, and Boston Dynamics lead the race. Each takes a different approach — from AI-first training to biomechanical design — competing for dominance in a market projected to reach $150 billion by 2035."
+      "heading": "The Key Players Racing Ahead",
+      "body": "Figure AI, Tesla Optimus, Boston Dynamics Atlas, and Agility Robotics' Digit are leading the charge. Backed by billions in investment, each is targeting industrial labor first before moving into consumer and healthcare markets."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "Learning to Move Like Humans",
-      "body": "Modern humanoids learn movement through reinforcement learning in simulated environments. They practice millions of virtual hours — walking, grasping, recovering from falls — before ever touching the real world, dramatically cutting development time."
+      "heading": "AI Is the Missing Ingredient",
+      "body": "Earlier humanoid robots were brittle — they followed rigid scripts. Today's models use foundation AI models trained on video and sensor data, letting them adapt to novel situations, recover from slips, and learn new tasks from human demonstrations."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "Working Alongside People",
-      "body": "Humanoid robots are already operating in Amazon warehouses, BMW factories, and hospital supply rooms. Their human-like form lets them use existing tools and navigate spaces built for people — no costly facility redesign required."
+      "heading": "What They Can Already Do",
+      "body": "Current humanoid robots can sort packages, fold laundry, carry boxes up stairs, open doors, and assist on factory assembly lines. Some can now work full shifts at real facilities without human intervention."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "The Dexterity Problem",
-      "body": "Hands remain the hardest challenge. Human fingers can apply 1 newton of force or 100 — and feel the difference. Today's robot hands struggle with tasks like picking a strawberry without crushing it, a problem researchers call the 'manipulation gap.'"
+      "heading": "The Labor Shortage Driver",
+      "body": "An aging global population is creating acute shortages in elder care, logistics, and manufacturing. Humanoid robots are seen not just as efficiency tools, but as a necessary workforce supplement to keep economies running."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "Safety and Trust",
-      "body": "Regulators in the US, EU, and Japan are scrambling to create frameworks for human-robot coexistence. Key questions: How should a robot behave when it makes a mistake? Who is liable when a humanoid injures someone? These answers will shape the entire industry."
+      "heading": "The Hard Engineering Problems",
+      "body": "Battery life remains the biggest constraint — most robots run 2–4 hours on a charge. Dexterous hand manipulation, walking on uneven terrain, and real-time decision-making under uncertainty are still active research frontiers."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Economic Impact",
-      "body": "Economists estimate humanoid robots could add $4–7 trillion to global GDP by 2040 by addressing labor shortages in manufacturing, logistics, and elder care. However, up to 14% of current jobs could be displaced, requiring major workforce transition programs."
+      "heading": "Safety and Ethics Questions",
+      "body": "As robots work alongside humans, questions arise: Who is liable when a robot causes harm? How do we prevent misuse as surveillance tools? Labor advocates warn of job displacement without adequate social safety nets to absorb the impact."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "The Home Frontier",
-      "body": "The next big target is the home market. Companies are racing to build a robot that can load dishwashers, fold laundry, and assist elderly people with mobility. A capable home assistant robot could outsell smartphones within a decade."
+      "heading": "The Cost Curve Is Falling Fast",
+      "body": "Early humanoid prototypes cost $500,000+. Mass production targets now aim for units under $30,000 by the late 2020s — comparable to a mid-range car. Falling sensor and actuator costs are making this trajectory realistic."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "A New Kind of Colleague",
-      "body": "Humanoid robots won't replace humanity — they'll extend it. The question isn't whether they'll arrive, but how quickly we shape the rules that govern them. The age of humanoid machines has begun."
+      "heading": "The Robot Decade Has Begun",
+      "body": "Humanoid robots will not arrive all at once — but they are arriving. The decisions we make now about deployment, safety, and labor policy will shape whether this technology uplifts humanity or deepens inequality."
     }
   ]
 }
