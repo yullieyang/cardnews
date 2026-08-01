@@ -1,0 +1,66 @@
+{
+  "title": "Rise of Humanoid Robots in the Workplace",
+  "theme_color": "#2563EB",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Rise of Humanoid Robots in the Workplace",
+      "body": "How bipedal machines are transforming factories, warehouses, and beyond"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "From Science Fiction to Shop Floor",
+      "body": "Humanoid robots once lived only in movies. By 2026, Tesla Optimus, Figure 02, and Boston Dynamics Atlas are logging real shifts in manufacturing plants — marking a turning point from prototype to production tool."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Human-Shaped?",
+      "body": "Factories and warehouses were built for human bodies. A humanoid robot can use existing tools, climb stairs, open doors, and navigate tight corridors without retrofitting the entire facility — a massive cost advantage over purpose-built machinery."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "What They Can Do Today",
+      "body": "Current-generation humanoids handle repetitive tasks like pick-and-place, parts assembly, and shelf restocking. They operate 20+ hours a day without fatigue and can be redeployed to different roles via software updates."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The AI Brain Behind the Body",
+      "body": "Modern humanoids learn from human demonstrations using imitation learning and reinforcement learning. Vision-language models let them understand spoken instructions and adapt to unstructured environments in real time."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Economic Stakes",
+      "body": "Goldman Sachs projects the humanoid robot market could reach $38 billion by 2035. Early adopters in auto manufacturing report 15–30% productivity gains in pilot programs, accelerating investment across every major economy."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Safety and Collaboration",
+      "body": "Unlike industrial arms caged behind barriers, humanoids are designed to work side-by-side with humans. Force-limited joints and real-time collision detection allow them to stop instantly — redefining what \"safe\" automation looks like."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Jobs Question",
+      "body": "Experts are divided. Some warn of widespread displacement in logistics and light manufacturing. Others argue humanoids will fill critical labor shortages in aging economies and free workers from dangerous, repetitive tasks."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What Comes Next",
+      "body": "The next frontier is dexterity — handling fragile objects, precise surgical tools, and complex multi-step assembly. Researchers expect humanoids in hospitals, elder care, construction, and retail within the next five years."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Future Is Walking Toward Us",
+      "body": "Humanoid robots are no longer a distant promise. Understanding this shift — its opportunities, risks, and ethics — is essential for workers, businesses, and policymakers shaping tomorrow's economy."
+    }
+  ]
+}
