@@ -1,0 +1,66 @@
+{
+  "title": "Brain-Computer Interfaces: How They Read Your Mind",
+  "theme_color": "#3B2F8F",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Brain-Computer Interfaces",
+      "body": "How technology is learning to read — and write — the language of the human mind"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a BCI?",
+      "body": "A Brain-Computer Interface (BCI) is a direct communication pathway between the brain and an external device. It captures electrical signals from neurons and translates them into commands — no muscles required."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "How Neurons Communicate",
+      "body": "The brain has ~86 billion neurons that talk via electrical pulses called action potentials. BCIs eavesdrop on these signals, recording the tiny voltage changes that ripple across your cortex when you think, move, or feel."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Two Paths: Invasive vs. Non-Invasive",
+      "body": "Implanted electrodes (like Neuralink's threads) sit directly on or inside brain tissue for high-fidelity signals. EEG headsets sit outside the skull — less precise but safe and wearable. The tradeoff is always signal quality vs. risk."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Decoding Brain Signals with AI",
+      "body": "Raw neural data is noisy and complex. Machine learning models are trained to find patterns — mapping specific firing patterns to intended words, cursor movements, or limb positions. The AI and your brain essentially learn each other's language."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Real-World Breakthroughs",
+      "body": "Paralyzed patients have typed at 90 words per minute using implanted BCIs. Researchers have reconstructed speech directly from brain activity. In 2025, the first bidirectional BCI allowed a patient to both send commands and receive tactile feedback."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Writing Back to the Brain",
+      "body": "BCIs don't just read — they can write. Electrical stimulation can restore lost senses, suppress seizures, or even deliver artificial memories. This 'closed-loop' approach is transforming treatments for depression, Parkinson's, and blindness."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Privacy Problem",
+      "body": "Your thoughts could become data. Neural signals can reveal emotions, beliefs, and intentions you never meant to share. Experts warn that 'neurorights' — legal protections for mental privacy — must evolve alongside the technology."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What's Coming Next",
+      "body": "Wireless, fully implantable chips, consumer-grade neural wearables, and AI that speaks fluent 'brain' are all in development. The next decade may see BCIs move from medical devices to everyday augmentation tools."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Mind Meets Machine",
+      "body": "BCIs are rewriting what it means to be human — erasing the line between thought and action. As the technology matures, the most important question isn't 'can we?' but 'should we, and on whose terms?'"
+    }
+  ]
+}
