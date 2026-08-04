@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Memory Consolidation During Sleep",
+  "theme_color": "#3D5A8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Why Sleep Makes You Smarter",
+      "body": "The neuroscience of how your brain locks in learning while you rest"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Memory Isn't Saved Instantly",
+      "body": "When you learn something new, the memory is fragile and temporary. It exists first as a pattern of electrical activity in the hippocampus — and without sleep, much of it simply fades away before it can be stored long-term."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Two Stages That Do the Heavy Lifting",
+      "body": "Sleep has two key stages for memory: NREM slow-wave sleep transfers factual and declarative memories from the hippocampus to the cortex, while REM sleep strengthens emotional and procedural memories. Both are essential for different types of learning."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Hippocampus-Cortex Dialogue",
+      "body": "During deep sleep, the hippocampus 'replays' the day's experiences to the neocortex in compressed bursts called sharp-wave ripples. This nightly transfer is how short-term memories become permanent long-term ones — essentially moving files to stable storage."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Sleep Spindles: The Gatekeeper",
+      "body": "Sleep spindles are brief bursts of neural activity that occur during NREM sleep. Research shows people with more sleep spindles retain significantly more information after sleep. They also protect the consolidation process by blocking outside sensory signals."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "REM Sleep Connects the Dots",
+      "body": "During REM, the brain is nearly as active as when awake — but disconnected from external input. This creates a safe space to find patterns, make creative connections, and integrate new information with existing knowledge. It's why 'sleeping on a problem' actually works."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "What Happens When You're Sleep-Deprived",
+      "body": "Even one night of poor sleep can reduce the ability to form new memories by up to 40%. The hippocampus essentially shuts down its encoding function under sleep deprivation, making new learning far less effective the next day."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Targeted Memory Reactivation",
+      "body": "Scientists have discovered they can boost specific memory consolidation by playing associated sounds or scents during slow-wave sleep — a technique called Targeted Memory Reactivation. This shows memories can be selectively strengthened during sleep without waking the person."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Optimal Sleep Window for Learning",
+      "body": "Studies show that sleeping within a few hours of learning yields the best retention. The first half of the night (rich in slow-wave sleep) benefits factual memory, while the second half (rich in REM) benefits creative and emotional processing — making a full 7–9 hours ideal."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Sleep Is Not Downtime — It's Uptime",
+      "body": "Every night, your sleeping brain actively edits, integrates, and archives the day's experiences. Protect your sleep like you protect your study time — because without it, the learning doesn't stick."
+    }
+  ]
+}
