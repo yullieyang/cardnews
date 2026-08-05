@@ -1,0 +1,66 @@
+{
+  "title": "The Rise of Agentic AI: How AI Agents Are Changing How We Work",
+  "theme_color": "#4F46E5",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Rise of Agentic AI",
+      "body": "How autonomous AI agents are transforming the way we work — and what it means for you"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is an AI Agent?",
+      "body": "An AI agent is software that can perceive its environment, plan a sequence of steps, and take actions to achieve a goal — all without constant human input. Unlike a chatbot that answers one question at a time, an agent pursues multi-step tasks on its own."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "From Assistants to Autonomous Workers",
+      "body": "Early AI tools were reactive: you asked, they answered. Agentic AI is proactive — it browses the web, writes code, sends emails, and manages files. In 2026, agents routinely handle entire workflows that once required hours of human effort."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Tools Agents Use",
+      "body": "Agents gain power through tools: web search, code execution, file systems, APIs, and even other AI models. By chaining these capabilities, a single agent can research a topic, draft a report, and schedule a meeting — all in one run."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Multi-Agent Systems",
+      "body": "The most powerful setups use teams of specialized agents. An orchestrator agent breaks down a complex goal and delegates subtasks to expert sub-agents — each one focused on coding, design, data analysis, or communication. Think of it as a tiny AI workforce."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Real-World Impact Today",
+      "body": "Software engineers use coding agents that write, test, and debug code. Customer-service agents handle thousands of support tickets simultaneously. Research agents scan scientific literature and surface key findings in minutes — tasks that used to take days."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Safety Challenge",
+      "body": "More autonomy means more risk. An agent that can send emails or execute code can also make costly mistakes. Researchers are working on guardrails: permission scopes, human-in-the-loop checkpoints, and audit logs that let humans review what agents actually did."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "New Jobs, New Skills",
+      "body": "Rather than eliminating jobs outright, agentic AI is reshaping them. 'Prompt engineering' is giving way to 'agent orchestration' — designing, evaluating, and supervising AI workflows. The highest-value skill is knowing when to trust the agent and when to intervene."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What Comes Next",
+      "body": "Researchers predict agents will soon operate continuously in the background — monitoring systems, flagging anomalies, and executing pre-approved actions 24/7. Personal AI agents may manage your calendar, finances, and health data with minimal daily input from you."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Agentic Era Is Here",
+      "body": "AI agents are no longer science fiction — they're daily tools. Understanding how they work, what they can do, and where they need oversight is the essential literacy of 2026 and beyond."
+    }
+  ]
+}
