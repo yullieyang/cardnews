@@ -1,0 +1,66 @@
+{
+  "title": "Quantum Computing Hits the Real World: What Changed in 2026",
+  "theme_color": "#5B2D8E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Quantum Computing\nHits the Real World",
+      "body": "In 2026, quantum computers moved from research labs into real industries — and the results are already surprising."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Quantum Computing?",
+      "body": "Unlike classical computers that use bits (0 or 1), quantum computers use qubits that can exist in multiple states at once — a property called superposition. This lets them solve certain problems exponentially faster than any conventional machine."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Error Problem Is (Nearly) Solved",
+      "body": "Quantum computers used to be too error-prone for practical use. By 2026, error-correction techniques have advanced to the point where machines can run complex algorithms reliably — a milestone researchers once thought was a decade away."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Drug Discovery Gets a Quantum Boost",
+      "body": "Pharmaceutical companies are using quantum simulations to model how molecules interact at the atomic level. This has cut early-stage drug discovery timelines from years to months, accelerating treatments for cancer and rare diseases."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Finance: Optimizing at Warp Speed",
+      "body": "Banks and hedge funds now run quantum optimization algorithms to manage risk and rebalance portfolios in real time. Problems that took hours on classical clusters can finish in seconds — giving quantum-equipped firms a measurable trading edge."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Climate Modeling Goes Deeper",
+      "body": "Climate scientists are using quantum processors to simulate atmospheric chemistry with unprecedented accuracy. Better models mean more reliable predictions — helping governments and businesses plan for extreme weather events years in advance."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Encryption Threat Is Real Now",
+      "body": "Quantum computers can break widely-used RSA encryption faster than classical machines. Governments and tech companies worldwide are racing to deploy post-quantum cryptography standards to protect data before legacy systems become vulnerable."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Cloud Access Democratizes the Tech",
+      "body": "You no longer need a cryogenic lab to use a quantum computer. IBM, Google, and startups now offer quantum cloud services, letting researchers, startups, and universities run experiments on real quantum hardware via an API."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What Quantum Still Can't Do",
+      "body": "Quantum computers are not universal supercomputers — they excel at specific problem types like optimization, simulation, and factoring. For everyday tasks like browsing the web or running spreadsheets, your laptop remains far faster and cheaper."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Quantum Era Has Begun",
+      "body": "2026 marks a turning point: quantum computing is no longer purely theoretical. Stay curious, stay informed — the industries it reshapes next could be yours."
+    }
+  ]
+}
