@@ -1,0 +1,66 @@
+{
+  "title": "How AI Agents Are Reshaping the Future of Work",
+  "theme_color": "#5C4AE4",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How AI Agents Are Reshaping the Future of Work",
+      "body": "From task automation to autonomous decision-making — the workplace is transforming faster than ever"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is an AI Agent?",
+      "body": "An AI agent is software that perceives its environment, makes decisions, and takes actions to achieve a goal — all without step-by-step human instruction. Unlike chatbots that just respond, agents plan, execute, and adapt."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Beyond Chatbots: Agents Can Act",
+      "body": "AI agents don't just answer questions — they browse the web, write and run code, send emails, manage files, and call external APIs. They operate in multi-step loops, checking their own output and correcting mistakes along the way."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Multi-Agent Teams Are Here",
+      "body": "In 2026, many companies run fleets of specialized agents working in parallel: a researcher agent, a writer agent, a reviewer agent — all coordinating automatically. This mirrors how human teams collaborate, but at machine speed."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Which Jobs Are Changing Most?",
+      "body": "Software engineering, legal research, customer support, financial analysis, and content creation are seeing the biggest shifts. Agents handle the repetitive, time-consuming parts — freeing humans for creative and strategic work."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The New Skill: Prompt Engineering",
+      "body": "Writing clear instructions for AI agents has become a core professional skill. Workers who can define goals precisely, break tasks into steps, and audit agent output are the most effective in AI-augmented teams."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Trust and Oversight Still Matter",
+      "body": "AI agents make mistakes — they hallucinate facts, misread context, or take unintended actions. The most successful deployments keep humans in the loop for high-stakes decisions, using agents as assistants rather than replacements."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Productivity Gains Are Real",
+      "body": "Studies in 2025–2026 show knowledge workers using AI agents complete tasks 30–50% faster on average. Software developers ship features twice as fast; researchers synthesize literature in hours instead of weeks."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Workforce Is Adapting",
+      "body": "Rather than mass unemployment, we're seeing role evolution — new positions like 'AI workflow designer' and 'agent auditor' are emerging. The biggest risk is for workers who refuse to adapt, not for entire industries."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Shape the Future, Don't Fear It",
+      "body": "AI agents are powerful tools — and the people who learn to work alongside them will have an enormous advantage. Start small: automate one repetitive task this week and see what becomes possible."
+    }
+  ]
+}
