@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Neuroplasticity: How Your Brain Rewires Itself",
+  "theme_color": "#5B4FCF",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Neuroplasticity",
+      "body": "How Your Brain Rewires Itself — and Why It's Never Too Late to Change"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Neuroplasticity?",
+      "body": "Neuroplasticity is the brain's ability to reorganize itself by forming new neural connections throughout life. Once thought to be fixed after childhood, scientists now know the adult brain remains remarkably adaptable. Every thought, habit, and experience physically reshapes your neural pathways."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Hebbian Learning: Neurons That Fire Together",
+      "body": "\"Neurons that fire together, wire together\" — this 1949 principle by Donald Hebb explains how repeated experiences strengthen synaptic connections. The more you practice a skill or revisit a memory, the thicker and faster those neural pathways become, making the behavior increasingly automatic."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Two Types of Plasticity",
+      "body": "Structural plasticity involves physical changes in brain anatomy — new synapses, dendrite growth, even neurogenesis (new neurons). Functional plasticity allows the brain to shift functions from damaged to undamaged regions. Together, they make recovery from stroke and learning new skills possible at any age."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Role of Sleep in Brain Rewiring",
+      "body": "During deep sleep, the brain replays and consolidates the day's learning, strengthening important connections and pruning weak ones. This process — called synaptic homeostasis — is why a good night's sleep after studying dramatically boosts retention. Sleep is when neuroplasticity actually delivers its results."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Exercise Supercharges Plasticity",
+      "body": "Aerobic exercise triggers the release of BDNF (Brain-Derived Neurotrophic Factor), often called \"Miracle-Gro for the brain.\" BDNF promotes new neuron growth in the hippocampus — the memory center — and sharpens synaptic connections. Even 20 minutes of brisk walking significantly elevates BDNF levels."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Stress and Neuroplasticity",
+      "body": "Chronic stress floods the brain with cortisol, which can shrink the prefrontal cortex (decision-making) and enlarge the amygdala (fear response). But short-term, manageable stress actually promotes plasticity by increasing norepinephrine, which focuses attention and accelerates learning. The key is recovery time."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Mindfulness Literally Rewires the Brain",
+      "body": "MRI studies show that 8 weeks of mindfulness meditation increases grey matter density in the hippocampus and reduces amygdala volume. Regular meditators show stronger connections between the prefrontal cortex and emotional centers, enabling better emotional regulation. The brain changes are visible and measurable."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Learning a New Skill at Any Age",
+      "body": "Research on adult taxi drivers, musicians, and bilingual speakers shows dramatic structural brain changes from sustained practice. The critical insight: difficulty drives plasticity. When tasks become easy, rewiring slows. Staying at the edge of your ability — in a state of productive struggle — maximizes brain change."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Your Brain Is Always Becoming",
+      "body": "Neuroplasticity means your brain is not fixed — it's a living, changing organ shaped by how you live. Sleep well, exercise, seek novelty, and practice deliberately. Every day you are literally sculpting the architecture of your mind."
+    }
+  ]
+}
