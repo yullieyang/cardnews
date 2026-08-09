@@ -1,0 +1,66 @@
+{
+  "title": "mRNA Technology: The Medical Revolution Beyond COVID Vaccines",
+  "theme_color": "#0D7ECF",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "mRNA Technology",
+      "body": "The Medical Revolution That Goes Far Beyond COVID Vaccines"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is mRNA, Exactly?",
+      "body": "Messenger RNA (mRNA) is a molecule that carries genetic instructions from your DNA to your cells' protein-making machinery. Instead of injecting a pathogen or live virus, mRNA vaccines deliver a temporary instruction set — your body reads it, makes a protein, mounts an immune response, and then discards the mRNA."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Decades in the Making",
+      "body": "Scientists Katalin Karikó and Drew Weissman spent 20+ years on mRNA research before COVID made it famous. Their key breakthrough was modifying mRNA so the immune system wouldn't destroy it before it could work — a discovery that won them the 2023 Nobel Prize in Medicine."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Personalized Cancer Vaccines",
+      "body": "By 2026, mRNA cancer vaccines are one of the hottest frontiers in oncology. Researchers sequence a patient's tumor, identify unique mutations, and build a custom mRNA vaccine in weeks. Clinical trials for melanoma and lung cancer have shown the approach can dramatically cut recurrence rates."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Flu, RSV, and Beyond",
+      "body": "Traditional flu vaccines take months to manufacture and often miss the mark. mRNA flu vaccines can be updated in weeks as new strains emerge, potentially ending the seasonal guessing game. mRNA vaccines for RSV and cytomegalovirus (CMV) have already cleared major clinical trials."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "HIV — The Elusive Target",
+      "body": "HIV has defeated every conventional vaccine approach because the virus mutates so rapidly. mRNA's speed and programmability give researchers a new shot: multiple overlapping mRNA sequences can train the immune system to recognize HIV's most conserved regions, targeting what the virus can't easily change."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Treating Rare Genetic Diseases",
+      "body": "Many rare diseases are caused by a single faulty gene that fails to produce a needed protein. mRNA therapy can temporarily supply working instructions — essentially a software patch for broken biology. Conditions from metabolic disorders to certain forms of muscular dystrophy are now in trials."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Heart Repair After a Heart Attack",
+      "body": "After a heart attack, dead heart muscle is replaced by scar tissue. In animal studies, mRNA carrying instructions for heart-regenerating proteins has prompted the growth of new cardiac muscle cells. Early human trials are underway, aiming to restore function that was previously considered permanently lost."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Safety, Speed, and Scale",
+      "body": "mRNA never enters the cell nucleus and cannot alter DNA — it is used and degraded within days. Because the platform is standardized, a new vaccine can go from sequence to first human dose in under 100 days. Factories can be reprogrammed quickly, making rapid pandemic response far more achievable."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A New Era of Medicine",
+      "body": "mRNA technology is transforming medicine from treating diseases to precisely instructing the body to fight them. From cancer to heart disease to ancient viral foes, the COVID vaccines were just the opening chapter of a much larger story."
+    }
+  ]
+}
