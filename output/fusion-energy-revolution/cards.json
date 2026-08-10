@@ -1,0 +1,66 @@
+{
+  "title": "The Fusion Energy Revolution",
+  "theme_color": "#E84C3D",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Fusion Energy Revolution",
+      "body": "How humanity is learning to harness the same power that lights up stars"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Fusion Energy?",
+      "body": "Fusion is the process of combining two light atomic nuclei — typically hydrogen isotopes — to form a heavier nucleus. This releases enormous amounts of energy, following Einstein's E=mc². It's the same reaction that powers the Sun."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Fusion Is the Holy Grail of Energy",
+      "body": "A single gram of fusion fuel can produce as much energy as 8 tons of coal. Fusion produces no carbon emissions, no long-lived radioactive waste, and its fuel — hydrogen isotopes from seawater — is virtually unlimited on Earth."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Core Challenge: Taming a Star",
+      "body": "Fusion requires plasma heated to 100 million °C — hotter than the Sun's core. Containing that plasma without it touching any physical surface is the central engineering challenge. Scientists use powerful magnetic fields in donut-shaped reactors called tokamaks."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "NIF's Historic Ignition Breakthrough",
+      "body": "In December 2022, the National Ignition Facility in California achieved fusion ignition for the first time — producing more energy from fusion than the lasers delivered to the fuel. It was a landmark scientific proof-of-concept 60 years in the making."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "ITER: The World's Biggest Bet",
+      "body": "ITER, under construction in southern France, is the largest tokamak ever built — a $22 billion collaboration of 35 nations. It aims to produce 500 megawatts of fusion power from just 50 MW of input, targeting first plasma experiments in the late 2020s."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Private Fusion Race",
+      "body": "Over 40 private companies are now competing to build commercial fusion reactors. Commonwealth Fusion Systems, Helion Energy, and TAE Technologies have each raised over $500 million. The private sector is pursuing faster, cheaper paths using advanced magnets and novel plasma designs."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "High-Temperature Superconductors: The Game Changer",
+      "body": "A key recent breakthrough is the use of high-temperature superconducting magnets made from REBCO tape. These can generate magnetic fields twice as strong as older designs, allowing much more compact reactors — shrinking what once needed a stadium into a room-sized machine."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "When Will We Have Fusion Power?",
+      "body": "Several private companies are targeting demonstration plants in the early 2030s. Helion has a contract with Microsoft to deliver fusion electricity by 2028. While skeptics remain cautious, the pace of progress has shifted from 'always 30 years away' to a genuine near-term possibility."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Clean Energy Future Within Reach",
+      "body": "Fusion is no longer just a dream — it's an engineering challenge approaching the finish line. If successful, it could provide virtually limitless, clean energy for centuries. The race to fusion power is the most important energy story of our time."
+    }
+  ]
+}
