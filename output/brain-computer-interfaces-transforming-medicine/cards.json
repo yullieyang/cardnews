@@ -1,0 +1,66 @@
+{
+  "title": "Brain-Computer Interfaces: Transforming Medicine",
+  "theme_color": "#2E86AB",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Brain-Computer Interfaces",
+      "body": "How neural technology is giving people back movement, speech, and independence"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a BCI?",
+      "body": "A brain-computer interface (BCI) reads electrical signals from neurons and translates them into commands for external devices. Sensors detect the tiny voltage changes that fire when neurons communicate, then algorithms decode those patterns in real time."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Two Main Approaches",
+      "body": "Non-invasive BCIs use EEG caps placed on the scalp — safe but noisy. Invasive BCIs implant electrode arrays directly into brain tissue, capturing sharper signals with much higher resolution. The tradeoff is surgical risk versus signal quality."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Restoring Movement",
+      "body": "People with paralysis can now control robotic arms or their own muscles using BCIs. Clinical trials have shown patients with spinal cord injuries moving computer cursors and typing words simply by imagining the movement — no physical action required."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Giving Back Speech",
+      "body": "Researchers have decoded imagined speech from brain signals with over 90% accuracy in some trials. ALS patients who have lost the ability to speak can use BCIs to generate synthesized speech at near-conversational speeds by thinking words silently."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Treating Neurological Disorders",
+      "body": "Deep brain stimulation — an early BCI — already helps millions with Parkinson's disease. Next-generation closed-loop BCIs can detect the brain state that precedes a seizure or a depressive episode and automatically deliver targeted stimulation to interrupt it."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Neuralink Milestone",
+      "body": "In 2024, Neuralink implanted its N1 chip in its first human patient, who used thought alone to control a computer cursor and play chess. The chip packs 1,024 electrodes into a device smaller than a coin, wirelessly streaming data 24/7."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Key Challenges Ahead",
+      "body": "Long-term implants face scarring as the brain treats electrodes as foreign objects, gradually degrading signal quality. Wireless data security, ethical questions about mental privacy, and equitable access are major issues the field must solve before BCIs go mainstream."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What the Next Decade Holds",
+      "body": "Researchers are developing flexible, biodegradable electrodes that move with brain tissue to reduce scarring. Bidirectional BCIs that both read and write signals could one day restore memory, treat PTSD, or even enable direct brain-to-brain communication."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Mind's New Interface",
+      "body": "BCIs are turning science fiction into medical reality — one neuron at a time. As the technology matures, they promise to restore abilities once thought permanently lost and open entirely new frontiers in how humans interact with the world."
+    }
+  ]
+}
