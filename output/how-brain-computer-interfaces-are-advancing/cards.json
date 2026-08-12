@@ -1,0 +1,66 @@
+{
+  "title": "How Brain-Computer Interfaces Are Advancing",
+  "theme_color": "#5B2D8E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Brain-Computer Interfaces Are Advancing",
+      "body": "The technology that lets your brain talk directly to machines — and what it means for humanity"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Brain-Computer Interface?",
+      "body": "A brain-computer interface (BCI) is a direct communication pathway between the brain and an external device. It reads electrical signals from neurons and translates them into commands — no muscles or movement required."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Two Types: Invasive vs. Non-Invasive",
+      "body": "Invasive BCIs use implanted electrodes for high-resolution signals — like Neuralink's chip. Non-invasive BCIs use EEG headsets worn on the scalp, offering lower precision but no surgery. Each trade-off serves different use cases."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Neuralink Milestone",
+      "body": "In 2024, Neuralink implanted its first chip in a human patient, who could control a computer cursor using only thoughts. By 2026, multiple patients have regained digital independence, demonstrating real-world viability of implantable BCIs."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Restoring Lost Function",
+      "body": "BCIs are transforming medicine by restoring movement to paralyzed patients and speech to those with ALS. Neural bypass systems re-route signals around damaged spinal cords, letting patients move robotic limbs or type with their minds."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Memory and Cognitive Enhancement",
+      "body": "Researchers are developing BCIs that can boost memory by stimulating the hippocampus at the right moment. DARPA-funded studies showed a 37% improvement in memory recall in participants using closed-loop neural stimulation systems."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "AI Is the Secret Ingredient",
+      "body": "Modern BCIs rely on machine learning to decode messy neural signals into clean commands. AI models trained on individual brain patterns can interpret intentions with increasing accuracy — and adapt in real time as the brain changes."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Ethical Minefield",
+      "body": "BCIs raise urgent questions: Who owns your neural data? Can employers or governments access your thoughts? Mental privacy — 'cognitive liberty' — is now a serious legal and ethical frontier as BCIs move toward consumer adoption."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Consumer BCIs Are Coming",
+      "body": "Companies like Emotiv, Muse, and Neurosity already sell EEG headsets for focus and meditation. As precision improves, BCIs may replace keyboards and touchscreens — enabling thought-to-text input and hands-free device control within this decade."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Mind-Machine Frontier",
+      "body": "Brain-computer interfaces are moving from science fiction to clinic to living room. Understanding the technology today means being prepared — as both a user and a citizen — for the choices ahead."
+    }
+  ]
+}
