@@ -1,0 +1,66 @@
+{
+  "title": "Psychedelic Therapy: Transforming Mental Health",
+  "theme_color": "#6B21A8",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Psychedelic Therapy",
+      "body": "How substances once demonized are now leading a revolution in mental health treatment"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Mental Health Crisis That Sparked a Rethink",
+      "body": "Over 280 million people globally suffer from depression, yet up to 30% don't respond to existing antidepressants. Treatment-resistant conditions, PTSD, and addiction have created urgency for radical new approaches — pushing researchers back to psychedelics, abandoned since the 1970s."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "What Are Psychedelic Medicines?",
+      "body": "The main clinical candidates are psilocybin (from magic mushrooms), MDMA (associated with ecstasy), ketamine, and LSD analogs. They work differently from traditional antidepressants — producing rapid, profound shifts in perception and emotion that can rewire entrenched mental patterns."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How They Work in the Brain",
+      "body": "Psilocybin binds to serotonin receptors and temporarily reduces activity in the default mode network — the brain's self-referential hub. This quiets the inner critic and rigid thought loops. Scans show new neural connections forming across regions that rarely communicate, creating lasting flexibility."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Clinical Trial Results",
+      "body": "Results have been striking: in Johns Hopkins trials, psilocybin produced rapid antidepressant effects lasting months after a single session. MDMA-assisted therapy for PTSD showed 67% of participants no longer meeting PTSD criteria at follow-up — far outperforming existing treatments."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Ketamine: Already in the Clinic",
+      "body": "Ketamine is the first psychedelic-adjacent drug to receive FDA approval for depression. Esketamine (Spravato) nasal spray is now prescribed for treatment-resistant depression, often lifting suicidal ideation within hours. IV ketamine infusions are offered at hundreds of clinics worldwide."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Therapy Component Is Essential",
+      "body": "Psychedelic therapy is not just a pill — it's a structured experience. Patients undergo preparation sessions, a supervised dosing session lasting 4–8 hours, and integration sessions afterward to make sense of their experience. The therapeutic relationship and set-and-setting profoundly shape outcomes."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Regulatory Shifts and Legal Status",
+      "body": "Oregon became the first US state to legalize supervised psilocybin services in 2023. Australia approved psilocybin and MDMA therapy in 2023. The FDA granted psilocybin 'breakthrough therapy' status for depression. Regulatory frameworks are evolving quickly, though federal US law still lists both as Schedule I."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Risks, Cautions, and Open Questions",
+      "body": "Psychedelics are not risk-free. They can trigger psychosis in those predisposed, and 'bad trips' require careful management. Long-term safety data for repeated use is still limited. Who should be excluded, optimal dosing, and ensuring equitable access are active challenges for the field."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A New Era for the Mind",
+      "body": "Psychedelic therapy represents a genuine paradigm shift — moving from managing symptoms to potentially healing root causes. Done carefully and ethically, it may open doors to mental wellness that have been closed for generations."
+    }
+  ]
+}
