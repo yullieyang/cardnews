@@ -1,0 +1,66 @@
+{
+  "title": "How Nuclear Fusion Finally Achieved Net Energy Gain",
+  "theme_color": "#1a6fa8",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Nuclear Fusion: The Energy Breakthrough We've Been Waiting For",
+      "body": "How science finally unlocked the power of the stars — and what it means for our future"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Nuclear Fusion?",
+      "body": "Fusion is the process that powers the Sun — smashing light atomic nuclei (like hydrogen) together to form heavier ones, releasing enormous amounts of energy. Unlike fission (used in nuclear reactors), fusion produces no long-lived radioactive waste and uses virtually limitless fuel from seawater."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 60-Year Quest for Net Energy",
+      "body": "Scientists have pursued controlled fusion since the 1950s, but it always consumed more energy than it produced. The long-running joke was that fusion was '30 years away — and always will be.' Achieving net energy gain, where output exceeds input, was the essential first milestone."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How NIF Cracked the Code",
+      "body": "The U.S. National Ignition Facility (NIF) fired 192 powerful lasers at a tiny pellet of deuterium and tritium, compressing it to temperatures exceeding 100 million°C. In December 2022, they crossed the threshold — producing 3.15 megajoules of energy from 2.05 megajoules of laser energy delivered to the target."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Fuel: Hydrogen from Seawater",
+      "body": "Fusion fuel — deuterium and tritium — can be extracted from seawater and lithium. One gallon of seawater contains enough deuterium to produce the equivalent energy of 300 gallons of gasoline. Earth's oceans hold enough fuel to power civilization for billions of years."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Why It's So Hard to Sustain",
+      "body": "Plasma at fusion temperatures must be contained without touching any physical surface — it would instantly melt any material. Scientists use powerful magnetic fields (in tokamak reactors) or intense laser pulses to hold the plasma in place long enough for fusion to occur. Sustaining that confinement at scale is the next grand challenge."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Race to Build a Commercial Reactor",
+      "body": "ITER, the world's largest tokamak under construction in France, aims to demonstrate sustained plasma and is backed by 35 countries. Private companies like Commonwealth Fusion Systems, TAE Technologies, and Helion Energy are now racing to build compact commercial reactors by the early 2030s, with billions in venture funding."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Fusion vs. Today's Energy Sources",
+      "body": "A fusion power plant would generate electricity without greenhouse gas emissions, without meltdown risk, and without long-lived nuclear waste. The primary byproduct is helium — an inert, harmless gas. If commercialized, fusion could deliver always-on clean baseload power that solar and wind alone cannot provide."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What Stands Between Now and the Grid",
+      "body": "Achieving ignition in the lab is different from building an economical power plant. Engineers must scale plasma confinement, develop materials that withstand neutron bombardment over decades, and bring costs down. Most experts now estimate grid-scale fusion electricity is realistically 15–25 years away — a shrinking, not infinite, horizon."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Dawn of the Fusion Age",
+      "body": "Nuclear fusion has moved from science fiction to proven science. The remaining challenge is engineering, not physics. As investment surges and timelines compress, the dream of clean, unlimited energy from hydrogen — the universe's most abundant element — is closer than ever to becoming reality."
+    }
+  ]
+}
