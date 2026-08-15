@@ -1,0 +1,66 @@
+{
+  "title": "How Quantum Error Correction Works",
+  "theme_color": "#5B2D8E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Quantum Error Correction Works",
+      "body": "The technology keeping quantum computers from falling apart"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Problem: Quantum Fragility",
+      "body": "Quantum bits (qubits) are extraordinarily sensitive — heat, vibration, or even a stray photon can flip their state. This 'decoherence' destroys calculations before they finish, making raw qubits nearly unusable for complex tasks."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Classical Fixes Don't Work",
+      "body": "Classical computers copy bits for redundancy. Quantum mechanics forbids copying unknown quantum states — the 'no-cloning theorem.' Measuring a qubit to check it instantly destroys the superposition you're trying to protect."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Encoding One Qubit in Many",
+      "body": "The solution: spread one logical qubit across many physical qubits using entanglement. Errors affecting a few physical qubits leave detectable patterns without revealing the protected information itself."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Syndrome Measurement",
+      "body": "Special 'ancilla' qubits measure relationships between data qubits — not the data itself. These measurements yield an error 'syndrome' that identifies what went wrong and where, without collapsing the logical qubit's state."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Surface Code",
+      "body": "Google and IBM favor the surface code: qubits arranged in a 2D grid with data qubits at corners and ancilla qubits between them. It tolerates error rates up to ~1% and only needs nearest-neighbor connections — ideal for chip fabrication."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Overhead is Enormous",
+      "body": "A fault-tolerant logical qubit may require 1,000 to 10,000 physical qubits depending on error rates. Running Shor's algorithm to break RSA-2048 encryption would need millions of physical qubits — far beyond today's hundreds."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Threshold Theorem",
+      "body": "If physical error rates fall below a specific threshold (~1% for surface codes), adding more qubits improves reliability exponentially. This theorem proves fault-tolerant quantum computing is theoretically achievable — the race is hitting that threshold."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Recent Breakthroughs",
+      "body": "In 2024–2025, Google's Willow chip demonstrated that increasing code distance reduced errors exponentially — the first real-world validation of error correction scaling. IBM and Microsoft are pursuing alternative approaches with promising early results."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Road to Fault-Tolerant Quantum",
+      "body": "Quantum error correction is the bridge between noisy lab experiments and practical quantum computers. Solving it doesn't just make quantum faster — it makes it possible. The breakthrough era has begun."
+    }
+  ]
+}
