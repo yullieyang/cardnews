@@ -1,0 +1,66 @@
+{
+  "title": "The Fermi Paradox: Why Haven't We Found Aliens Yet?",
+  "theme_color": "#3a0ca3",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Fermi Paradox",
+      "body": "The universe is vast and ancient — so where is everybody?"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Numbers Are Staggering",
+      "body": "Our galaxy alone holds 400 billion stars, many with Earth-like planets. With billions of galaxies in the universe, the sheer number of potential life-hosting worlds is almost incomprehensibly large."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Drake Equation",
+      "body": "In 1961, astronomer Frank Drake created a formula to estimate intelligent civilizations in our galaxy. Even with conservative numbers, the equation suggests thousands of communicating civilizations should exist right now."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "So Where Is Everyone?",
+      "body": "Physicist Enrico Fermi famously asked this over lunch in 1950. If intelligent life is common, the galaxy is old enough that aliens should have colonized or at least signaled their presence across it many times over."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Great Filter Theory",
+      "body": "Maybe something catastrophic kills off civilizations before they become spacefaring. This 'Great Filter' could be behind us — meaning we're rare survivors — or still ahead of us, which is a terrifying prospect for humanity."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Dark Forest Hypothesis",
+      "body": "Author Liu Cixin proposed that advanced civilizations deliberately stay silent. Broadcasting your location is dangerous because any other civilization is a potential threat — the safest strategy is to hide and strike first if found."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Zoo Hypothesis",
+      "body": "Perhaps aliens know we exist but choose not to contact us — watching from a distance the way we observe animals in the wild. We may simply not be advanced enough to qualify for cosmic communication."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Are We Listening Wrong?",
+      "body": "Our SETI searches scan narrow radio frequencies, but alien signals might travel via gravitational waves, neutrinos, or technologies we haven't imagined yet. We could be missing signals hiding in plain sight."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Rare Earth Hypothesis",
+      "body": "Earth's perfect conditions — stable star, large moon, magnetic field, plate tectonics, giant neighbor planets deflecting asteroids — may be extraordinarily rare. Complex life might require a cosmic lottery winning ticket."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Search Continues",
+      "body": "Whether we are alone or surrounded by hidden civilizations, the Fermi Paradox humbles us. Every answer leads to deeper questions — and the search for extraterrestrial intelligence remains one of humanity's greatest adventures."
+    }
+  ]
+}
