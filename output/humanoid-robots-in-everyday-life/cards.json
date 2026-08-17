@@ -1,0 +1,66 @@
+{
+  "title": "The Rise of Humanoid Robots in Everyday Life",
+  "theme_color": "#1A6B8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Rise of Humanoid Robots",
+      "body": "From sci-fi fantasy to factory floors — how humanoid robots are entering our daily world in 2026"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Makes a Robot 'Humanoid'?",
+      "body": "Humanoid robots have a human-like body plan — two arms, two legs, and a head. This design lets them use tools and spaces built for humans, from warehouses to home kitchens, without costly infrastructure changes."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "From Labs to the Real World",
+      "body": "By 2026, Tesla's Optimus, Figure AI's Figure 02, and Boston Dynamics' Atlas have moved beyond demos. Thousands of units now work in auto plants, logistics hubs, and retail warehouses worldwide."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How They Learn to Move",
+      "body": "Modern humanoids learn through a mix of teleoperation and reinforcement learning. Human operators demonstrate tasks, and the robot's AI refines those movements through millions of simulated repetitions before touching the real world."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Role of AI Brains",
+      "body": "Large vision-language models act as the robot's brain — interpreting scenes, understanding spoken instructions, and planning multi-step actions. The same AI revolution that powers chatbots now drives robotic hands and feet."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Jobs Gained and Jobs Shifted",
+      "body": "Humanoid robots are filling labor shortages in dangerous or repetitive roles — heavy lifting, night shifts, toxic environments. Economists note a shift rather than elimination: human roles move toward oversight, maintenance, and creative tasks."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Cost Curve Is Falling Fast",
+      "body": "Early humanoid robots cost $200,000+. Scaled manufacturing and competition have pushed prices toward $30,000–$50,000, with projections of sub-$20,000 units by 2028 — comparable to a mid-range car."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Safety and Regulation Challenges",
+      "body": "Governments are scrambling to regulate robots that work alongside humans. Key issues include liability when a robot causes injury, data privacy from onboard cameras, and cybersecurity risks if a fleet is hacked."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Robots Coming Home?",
+      "body": "Consumer humanoid robots are the next frontier — handling chores, assisting the elderly, and acting as household helpers. Pilot programs in Japan and South Korea are already placing early models in care facilities and homes."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Human-Robot Future",
+      "body": "Humanoid robots are no longer a distant promise. As the technology matures, the real work begins: designing a future where humans and robots collaborate safely, fairly, and productively."
+    }
+  ]
+}
