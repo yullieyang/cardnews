@@ -1,0 +1,66 @@
+{
+  "title": "How AI Chips Power the Intelligence Revolution",
+  "theme_color": "#1a6b3c",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How AI Chips Power the Intelligence Revolution",
+      "body": "From GPUs to custom silicon — the hardware race driving modern AI"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Why Regular CPUs Aren't Enough",
+      "body": "Traditional CPUs process tasks one at a time — great for general computing, but AI needs to perform millions of math operations simultaneously. Training a single large AI model can require more calculations than all of humanity has done in history."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The GPU: Accidentally Perfect for AI",
+      "body": "Graphics cards were designed to render pixels in parallel. Researchers discovered in the 2000s that GPUs were ideal for neural network math — matrix multiplications that run thousands of operations at once. NVIDIA's CUDA platform turned this insight into the backbone of modern AI."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Tensor Cores: Specialized AI Circuitry",
+      "body": "Modern AI chips include dedicated 'tensor cores' that accelerate the specific math AI uses — fused multiply-add operations on matrices. NVIDIA's H100 chip contains over 16,000 tensor cores, delivering hundreds of teraflops of AI performance on a single card."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Custom Silicon: Google's TPU",
+      "body": "Google built its own Tensor Processing Unit (TPU) in 2016 because off-the-shelf GPUs were too general-purpose. TPUs are custom-designed for exactly one job: running neural networks. They're more energy-efficient for inference and now power Google Search, Maps, and Gemini."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Memory Bottleneck",
+      "body": "Chips need to move enormous amounts of data between processing cores and memory — a limit called 'memory bandwidth.' AI chips now use High Bandwidth Memory (HBM), stacked directly on the chip, delivering over a terabyte per second of data flow to keep thousands of cores fed."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Networking Thousands of Chips Together",
+      "body": "No single chip can train a frontier AI model. Data centers link thousands of GPUs with ultra-fast interconnects like NVLink and InfiniBand. Training GPT-4-scale models required over 25,000 NVIDIA A100s running in parallel for months — a supercomputer-scale operation."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Neuromorphic and Analog Chips",
+      "body": "The next frontier: chips that mimic the brain's own architecture. Intel's Loihi and IBM's NorthPole process information as spikes of activity — the same way neurons fire. These neuromorphic chips use a fraction of the energy of conventional AI hardware for certain tasks."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Geopolitics of AI Chips",
+      "body": "AI chips are now a matter of national security. The most advanced chips require extreme ultraviolet (EUV) lithography machines made only by ASML in the Netherlands. Export controls on chips and chip-making equipment have become central to US-China geopolitical competition."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Hardware Behind Every Breakthrough",
+      "body": "Every AI assistant, image generator, and language model runs on specialized silicon. The chip war is the intelligence war — whoever leads in AI hardware shapes the future of technology, economy, and global power."
+    }
+  ]
+}
