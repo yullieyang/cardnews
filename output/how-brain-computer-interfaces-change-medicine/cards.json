@@ -1,0 +1,66 @@
+{
+  "title": "How Brain-Computer Interfaces Are Changing Medicine",
+  "theme_color": "#2E86AB",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Brain-Computer Interfaces",
+      "body": "How implantable and wearable BCIs are transforming treatment for paralysis, epilepsy, depression, and beyond"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a BCI?",
+      "body": "A brain-computer interface reads electrical signals from neurons and translates them into commands for external devices. Modern BCIs use electrodes placed on or inside the brain to capture neural firing patterns with millisecond precision."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Restoring Movement After Paralysis",
+      "body": "Implanted electrode arrays let paralyzed patients control robotic limbs or stimulate their own muscles. Clinical trials have enabled people with spinal cord injuries to type, drink, and even walk using thought-driven BCI systems."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Giving Back the Gift of Speech",
+      "body": "BCI-powered speech decoders convert attempted speaking movements into synthesized words at near-conversational speed. Patients with ALS or locked-in syndrome have communicated full sentences in real time — a breakthrough impossible a decade ago."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Fighting Epilepsy in Real Time",
+      "body": "Closed-loop BCIs continuously monitor brain activity and deliver micro-bursts of electrical stimulation the instant a seizure pattern is detected. This responsive approach has reduced seizure frequency by over 70% in drug-resistant patients in pivotal trials."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Treating Depression and OCD",
+      "body": "Deep brain stimulation guided by live neural feedback targets mood-regulating circuits with precision never before possible. Early trials for treatment-resistant depression show lasting remission after weeks — with far fewer side effects than broad-area stimulation."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Memory Prosthetics on the Horizon",
+      "body": "Researchers have built devices that record hippocampal patterns during learning, then replay them during sleep to strengthen memory consolidation. Early human studies show measurable improvements in recall — raising hopes for Alzheimer's patients."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Challenge: Safety and Longevity",
+      "body": "Implanted electrodes gradually lose signal quality as scar tissue forms around them. Next-generation probes use flexible polymers and bioactive coatings to stay effective for years. Getting devices to last decades remains the field's biggest engineering hurdle."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Ethics, Privacy, and Access",
+      "body": "Neural data is the most intimate information imaginable — revealing thoughts, emotions, and intentions. Experts are calling for strict regulation on who can store or sell BCI data. Equitable access is also urgent: today's implants cost hundreds of thousands of dollars."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Brain-Machine Era Has Begun",
+      "body": "BCIs are moving from lab curiosity to approved medical devices — restoring abilities once considered permanently lost. As safety improves and costs fall, these interfaces may redefine what it means to treat — and understand — the human brain."
+    }
+  ]
+}
