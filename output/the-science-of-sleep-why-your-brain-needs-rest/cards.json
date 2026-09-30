@@ -1,66 +1,66 @@
 {
   "title": "The Science of Sleep: Why Your Brain Needs Rest",
-  "theme_color": "#3a0ca3",
+  "theme_color": "#4a6fa5",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "The Science of Sleep",
-      "body": "Why your brain desperately needs those 8 hours — and what happens when it doesn't get them"
+      "body": "Why Your Brain Desperately Needs Rest Every Night"
     },
     {
       "slide_number": 2,
       "type": "content",
       "heading": "Sleep Is Not Passive",
-      "body": "Your brain is far from idle during sleep. Neurons fire, memories consolidate, and critical repair processes run in overdrive. Sleep is one of the most active and complex states your body enters every night."
+      "body": "While your body rests, your brain is intensely active during sleep. It cycles through distinct stages — NREM and REM — each serving a critical biological purpose. Far from downtime, sleep is one of the most productive states your brain enters."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "The Two Types of Sleep",
-      "body": "Sleep cycles through REM (Rapid Eye Movement) and non-REM stages roughly every 90 minutes. Non-REM handles deep physical restoration, while REM is when vivid dreaming and memory processing peak."
+      "heading": "The 90-Minute Sleep Cycle",
+      "body": "Sleep moves in ~90-minute cycles, each containing light sleep, deep sleep, and REM stages. Adults need 4–6 full cycles per night. Waking mid-cycle leaves you groggy — a phenomenon called sleep inertia that can last up to 30 minutes."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "Memory Consolidation",
-      "body": "During sleep, the hippocampus replays the day's events and transfers key information to long-term storage in the cortex. This is why pulling an all-nighter before an exam often backfires — you lose the consolidation window."
+      "heading": "Memory Consolidation Happens at Night",
+      "body": "During deep (slow-wave) sleep, the hippocampus replays the day's experiences and transfers them to long-term cortical storage. Skipping sleep after learning something new can erase up to 40% of what you studied, according to research by Matthew Walker at UC Berkeley."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "The Brain's Cleaning Crew",
-      "body": "The glymphatic system — your brain's waste-clearance network — is nearly 10x more active during sleep. It flushes out toxic proteins, including beta-amyloid, a key culprit in Alzheimer's disease."
+      "heading": "The Brain's Cleaning System",
+      "body": "During sleep, the glymphatic system flushes toxic waste products — including amyloid-beta plaques linked to Alzheimer's — from the brain. This clearance is up to 60% more effective during sleep than while awake, making quality sleep essential for long-term brain health."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "Sleep and Emotional Regulation",
-      "body": "The amygdala, your brain's emotional alarm center, becomes 60% more reactive after just one night of poor sleep. Chronic sleep deprivation is strongly linked to anxiety, depression, and impaired decision-making."
+      "heading": "REM Sleep and Emotional Regulation",
+      "body": "REM (Rapid Eye Movement) sleep acts as overnight emotional therapy. The brain reprocesses difficult memories in a low-stress neurochemical environment, stripping away their emotional charge. Poor REM sleep is strongly linked to anxiety, depression, and PTSD."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "Circadian Rhythm: Your Inner Clock",
-      "body": "A tiny brain region called the suprachiasmatic nucleus tracks light exposure and regulates your 24-hour sleep-wake cycle. Disrupting it — through shift work or jet lag — raises risks of metabolic disease and cancer."
+      "heading": "Sleep Deprivation's Hidden Costs",
+      "body": "Just one night of fewer than 6 hours raises cortisol, impairs glucose metabolism, and reduces immune cell activity by 70%. Chronically sleeping under 7 hours is associated with doubled risk of cardiovascular disease, obesity, and cognitive decline."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "How Much Do You Really Need?",
-      "body": "Adults need 7–9 hours per night, teenagers need 8–10, and newborns up to 17. Genetics play a role — roughly 3% of people carry a gene mutation that lets them thrive on 6 hours. You're probably not one of them."
+      "heading": "Circadian Rhythm: Your Internal Clock",
+      "body": "A master clock in the hypothalamus (the suprachiasmatic nucleus) regulates your 24-hour sleep-wake cycle using light cues. Blue light from screens after sunset suppresses melatonin by up to 3 hours, delaying sleep onset and reducing overall sleep quality."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "The Cost of Sleep Debt",
-      "body": "After 17 hours awake, cognitive impairment equals a blood alcohol level of 0.05%. After 24 hours, it hits 0.10% — legally drunk in most countries. Sleep debt cannot be fully paid back with a single weekend of catch-up sleep."
+      "heading": "Evidence-Based Sleep Hygiene",
+      "body": "Science-backed habits include keeping a consistent wake time (even on weekends), keeping your bedroom below 67°F (19°C), avoiding alcohol within 3 hours of bed (it suppresses REM), and a 20-minute wind-down with dim light before sleep."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "Sleep Smarter Tonight",
-      "body": "Keep a consistent sleep schedule, dim lights an hour before bed, and keep your room cool. Your brain does its best work while you're unconscious — give it the time it needs."
+      "heading": "Sleep Is a Superpower",
+      "body": "Every hour of quality sleep is an investment in memory, mood, immunity, and longevity. Prioritize your sleep — your brain is counting on it."
     }
   ]
 }
