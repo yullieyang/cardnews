@@ -1,66 +1,66 @@
 {
   "title": "The Rise of Humanoid Robots",
-  "theme_color": "#2563EB",
+  "theme_color": "#1a6bb5",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "The Rise of Humanoid Robots",
-      "body": "How machines built like us are entering our homes, factories, and daily lives"
+      "body": "From factory floors to daily life — how human-shaped machines are reshaping our world in 2026"
     },
     {
       "slide_number": 2,
       "type": "content",
-      "heading": "Why Human-Shaped Robots?",
-      "body": "Our world is designed for human bodies — doors, stairs, tools, vehicles. A robot with two arms and two legs can operate in the same spaces and use the same equipment as a person, without redesigning the environment around it."
+      "heading": "Why Human-Shaped?",
+      "body": "Humanoid robots are designed to operate in spaces built for people — using stairs, doorknobs, and tools humans already use. This design philosophy means they can slot into existing infrastructure without costly retrofits."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "The Key Players Racing Ahead",
-      "body": "Figure AI, Tesla Optimus, Boston Dynamics Atlas, and Agility Robotics' Digit are leading the charge. Backed by billions in investment, each is targeting industrial labor first before moving into consumer and healthcare markets."
+      "heading": "The Manufacturing Revolution",
+      "body": "Major automakers and electronics factories have deployed thousands of humanoid robots on assembly lines. They handle repetitive, physically demanding tasks and work alongside humans — boosting output without replacing entire workforces overnight."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "AI Is the Missing Ingredient",
-      "body": "Earlier humanoid robots were brittle — they followed rigid scripts. Today's models use foundation AI models trained on video and sensor data, letting them adapt to novel situations, recover from slips, and learn new tasks from human demonstrations."
+      "heading": "Learning by Watching",
+      "body": "Modern humanoids learn from human demonstration. Workers perform a task once while the robot observes and records motion data. Within hours, the robot can replicate the task — dramatically cutting training time compared to traditional programming."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "What They Can Already Do",
-      "body": "Current humanoid robots can sort packages, fold laundry, carry boxes up stairs, open doors, and assist on factory assembly lines. Some can now work full shifts at real facilities without human intervention."
+      "heading": "The AI Brain Inside",
+      "body": "Each robot is powered by large multimodal AI models that process vision, language, and touch simultaneously. This lets them interpret spoken instructions, recognize objects in clutter, and adapt grip pressure to fragile items in real time."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "The Labor Shortage Driver",
-      "body": "An aging global population is creating acute shortages in elder care, logistics, and manufacturing. Humanoid robots are seen not just as efficiency tools, but as a necessary workforce supplement to keep economies running."
+      "heading": "Home and Care Applications",
+      "body": "Pilot programs in Japan and South Korea are placing humanoid assistants in elder-care facilities. They remind residents to take medication, assist with mobility, and provide companionship — addressing a critical caregiver shortage."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "The Hard Engineering Problems",
-      "body": "Battery life remains the biggest constraint — most robots run 2–4 hours on a charge. Dexterous hand manipulation, walking on uneven terrain, and real-time decision-making under uncertainty are still active research frontiers."
+      "heading": "Safety and Liability Challenges",
+      "body": "Robots operating near humans must fail safely. Regulators are still writing the rulebook: who is liable when a robot causes injury? Current standards require robots to detect human proximity and reduce force before contact occurs."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Safety and Ethics Questions",
-      "body": "As robots work alongside humans, questions arise: Who is liable when a robot causes harm? How do we prevent misuse as surveillance tools? Labor advocates warn of job displacement without adequate social safety nets to absorb the impact."
+      "heading": "The Cost Curve Is Dropping",
+      "body": "In 2023 a humanoid robot cost over $200,000. By 2026 mass production has pushed prices below $30,000 — comparable to a mid-range car. Analysts project sub-$10,000 units within five years as volumes scale."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "The Cost Curve Is Falling Fast",
-      "body": "Early humanoid prototypes cost $500,000+. Mass production targets now aim for units under $30,000 by the late 2020s — comparable to a mid-range car. Falling sensor and actuator costs are making this trajectory realistic."
+      "heading": "Ethical Questions We Must Answer",
+      "body": "As humanoids take on more roles, societies face hard questions: Which jobs should remain human? How do we retrain displaced workers? And how do we prevent emotional over-attachment to machines designed to seem human?"
     },
     {
       "slide_number": 10,
       "type": "closing",
       "heading": "The Robot Decade Has Begun",
-      "body": "Humanoid robots will not arrive all at once — but they are arriving. The decisions we make now about deployment, safety, and labor policy will shape whether this technology uplifts humanity or deepens inequality."
+      "body": "Humanoid robots are no longer science fiction — they are on factory floors, in care homes, and at our doorsteps. Staying informed and shaping policy now is the best way to ensure this technology works for everyone."
     }
   ]
 }
