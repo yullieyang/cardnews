@@ -1,66 +1,66 @@
 {
   "title": "How Brain-Computer Interfaces Work",
-  "theme_color": "#2E4BCC",
+  "theme_color": "#5B2D8E",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "How Brain-Computer Interfaces Work",
-      "body": "The technology turning thoughts into action — and reshaping human potential"
+      "body": "The technology turning thought into action — and what it means for the future of humanity"
     },
     {
       "slide_number": 2,
       "type": "content",
       "heading": "What Is a BCI?",
-      "body": "A brain-computer interface (BCI) is a direct communication pathway between the brain and an external device. It reads electrical signals from neurons and translates them into commands — no muscles required."
+      "body": "A brain-computer interface (BCI) is a direct communication pathway between the brain and an external device. It reads electrical signals from neurons and translates them into commands a computer can execute — no muscles required."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "Reading the Brain's Signals",
-      "body": "Neurons fire by exchanging ions, generating tiny electrical pulses called action potentials. BCIs detect these signals using electrodes placed on or inside the skull, picking up patterns that correspond to intended movements or thoughts."
+      "heading": "How the Brain Signals",
+      "body": "Neurons communicate via tiny electrical pulses called action potentials. When you think about moving your hand, millions of neurons fire in coordinated patterns. BCIs detect these patterns using electrodes placed on or inside the brain."
     },
     {
       "slide_number": 4,
       "type": "content",
       "heading": "Non-Invasive vs. Invasive",
-      "body": "EEG headsets sit on the scalp and are safe but noisy. Invasive implants, like Neuralink's chip, sit directly on the cortex and capture far cleaner, higher-resolution signals — at the cost of surgery and long-term biocompatibility."
+      "body": "EEG headsets sit on the scalp and are safe but pick up noisy, low-resolution signals. Implanted electrodes (like Neuralink's) sit directly in cortical tissue, capturing crisp, high-bandwidth neural data — but require surgery."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "Decoding Intent with AI",
-      "body": "Raw neural data is meaningless without decoding. Machine learning models — trained on thousands of signal-action pairs — learn to map brain patterns to intended outputs like cursor movement, text, or robotic arm control."
+      "heading": "Decoding Neural Signals",
+      "body": "Raw electrode data is a chaotic stream of voltage spikes. Machine learning algorithms — trained on the user's own brain patterns — learn to separate signal from noise and map specific firing patterns to intended actions."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "Real-World Breakthroughs",
-      "body": "Paralyzed patients have used BCIs to type at 90 characters per minute using only their thoughts. In 2024, a Neuralink recipient played chess and browsed the web hands-free, demonstrating real-world viability."
+      "heading": "Medical Breakthroughs",
+      "body": "BCIs have already helped paralyzed patients type messages, move robotic arms, and even walk again via spinal stimulators. For people with ALS or locked-in syndrome, these devices restore a lifeline of communication."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "Bidirectional Interfaces",
-      "body": "Next-generation BCIs don't just read — they write. By stimulating specific neurons, they can restore lost sensations, suppress seizures, or even bypass spinal injuries to reconnect brain signals directly to muscles."
+      "heading": "The Bandwidth Problem",
+      "body": "The human brain has roughly 86 billion neurons. Current implants record from a few hundred to a few thousand at once. Scaling up recording density — without damaging tissue — is the central engineering challenge of the field."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "The Challenges Ahead",
-      "body": "Long-term implants face scar tissue buildup that degrades signal quality over months. Wireless data transmission, battery life, and preventing infection remain major engineering hurdles before BCIs become widely available."
+      "heading": "Bidirectional BCIs",
+      "body": "Next-generation devices don't just read the brain — they write to it. By sending precisely timed electrical pulses back into neural circuits, they can restore sensory feedback, suppress seizures, or treat depression in real time."
     },
     {
       "slide_number": 9,
       "type": "content",
       "heading": "Ethics and Privacy",
-      "body": "Brain data is the most intimate data imaginable. Who owns your neural signals? Can employers or insurers demand access? BCIs raise urgent questions about cognitive liberty, mental privacy, and the risk of hacking the mind."
+      "body": "Neural data is the most intimate data imaginable. Who owns your brainwaves? Can insurers or employers demand access? Researchers and regulators are racing to establish frameworks for neural privacy before the technology outpaces the law."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "The Mind-Machine Future",
-      "body": "BCIs could restore movement, speech, and sight to millions — and one day blur the line between human cognition and computing. The question isn't if, but how carefully we build this bridge."
+      "heading": "Mind Meets Machine",
+      "body": "BCIs are no longer science fiction — they're in clinical trials, restoring lives today. As the technology matures, the line between biological and digital intelligence will blur in ways we're only beginning to understand."
     }
   ]
 }
