@@ -1,0 +1,66 @@
+{
+  "title": "How Quantum Computers Break Encryption",
+  "theme_color": "#5C2D91",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Quantum Computers Break Encryption",
+      "body": "The race between quantum computing and cybersecurity — and why it matters for everyone"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Encryption?",
+      "body": "Encryption scrambles your data using a mathematical key so only intended recipients can read it. The lock securing your bank transfers, passwords, and private messages relies on math problems that classical computers take millions of years to solve."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The RSA Lock",
+      "body": "Most internet encryption (RSA) depends on a simple fact: multiplying two large prime numbers is easy, but reversing it — finding the original primes — is astronomically hard. A 2048-bit RSA key would take a classical computer longer than the age of the universe to crack."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Enter Quantum Bits",
+      "body": "Quantum computers use qubits, which can exist in superposition — both 0 and 1 simultaneously. This lets them explore millions of possible solutions at once, instead of testing them one by one like classical computers."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Shor's Algorithm: The Game Changer",
+      "body": "In 1994, Peter Shor proved that a quantum computer could factor large numbers exponentially faster than any classical method. A quantum machine with enough stable qubits could crack today's RSA-2048 encryption in hours, not eons."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Are We in Danger Now?",
+      "body": "Not yet — today's quantum computers have thousands of noisy qubits, but cracking RSA requires millions of error-corrected qubits. Experts estimate a cryptographically relevant quantum computer is still 10–15 years away, though estimates vary widely."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Harvest Now, Decrypt Later",
+      "body": "Adversaries are already stealing encrypted data today, betting they can decrypt it once quantum machines mature. Sensitive data with a long shelf life — medical records, state secrets, financial data — is at risk right now from this \"harvest now, decrypt later\" strategy."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Post-Quantum Cryptography",
+      "body": "NIST finalized the first post-quantum cryptography standards in 2024. These new algorithms are based on mathematical problems that even quantum computers struggle with — like lattice-based cryptography. Migration to these standards has already begun across government and finance sectors."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Quantum Key Distribution",
+      "body": "Another defense is Quantum Key Distribution (QKD), which uses the laws of physics to share encryption keys. Any eavesdropping attempt physically disturbs the quantum signal and is immediately detectable — making interception theoretically impossible."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Clock Is Ticking",
+      "body": "The quantum threat is real, but so is the response. The transition to quantum-safe encryption must happen now — because data stolen today could be decrypted tomorrow. Stay informed, and push for post-quantum security in the tools you use."
+    }
+  ]
+}
