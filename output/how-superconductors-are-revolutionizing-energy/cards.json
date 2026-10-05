@@ -1,0 +1,66 @@
+{
+  "title": "How Superconductors Are Revolutionizing Energy and Technology",
+  "theme_color": "#1a6b8a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Superconductors: Zero Resistance, Infinite Potential",
+      "body": "The physics phenomenon that could transform power grids, medicine, and transportation"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Superconductor?",
+      "body": "A superconductor is a material that conducts electricity with absolutely zero resistance below a critical temperature. Normal wires lose 5–10% of electricity as heat; superconductors lose nothing. Discovered in 1911 by Heike Kamerlingh Onnes, the effect still surprises physicists today."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Meissner Effect: Floating Magnets",
+      "body": "Superconductors expel all magnetic fields from their interior — a property called the Meissner effect. This causes magnets to levitate above superconducting surfaces. It's not just a party trick: it's the principle behind maglev trains and next-generation motors with no moving friction."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Why They Need to Be So Cold",
+      "body": "Most superconductors only work near absolute zero (−273°C). Electrons pair up into 'Cooper pairs' that travel without scattering at these extreme temperatures. Keeping materials that cold requires liquid helium, which is expensive and rare — the biggest barrier to widespread use."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "High-Temperature Superconductors",
+      "body": "In 1986, researchers discovered ceramic compounds that superconduct at −135°C — cold, but coolable with cheaper liquid nitrogen. 'High-temperature' is relative: still freezing by human standards, but a revolution for engineering. The hunt for a room-temperature superconductor has intensified ever since."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "MRI Machines: Saving Lives Today",
+      "body": "The most widespread real-world use of superconductors is the MRI scanner. Superconducting coils generate powerful, stable magnetic fields that map soft tissue with extraordinary detail. Without superconductors, MRI machines would require impractically huge amounts of electricity."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Power Grids Without Losses",
+      "body": "Global electricity transmission loses roughly $15 billion worth of energy as heat every year. Superconducting cables, already tested in cities like Chicago and Tokyo, can carry five times more current in the same cable diameter. Wide deployment could cut grid losses to near zero."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Nuclear Fusion Needs Them",
+      "body": "Every major fusion reactor design — including ITER and private ventures like Commonwealth Fusion — relies on superconducting magnets to confine 100-million-degree plasma. The new high-temperature superconducting tape (REBCO) enabled magnets twice as strong as anything before, making compact fusion reactors feasible for the first time."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Room-Temperature Race",
+      "body": "A room-temperature, ambient-pressure superconductor would be one of history's greatest discoveries. Several dramatic claims have surfaced and been disputed since 2020. Researchers around the world are converging on hydrogen-rich compounds under extreme pressure as the most promising path — with critical temperatures now above 0°C in lab conditions."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Future Runs on Zero Resistance",
+      "body": "From lossless power grids to levitating trains to fusion reactors, superconductors sit at the center of civilization's next energy chapter. The race to room temperature could unlock a world where energy waste is a memory."
+    }
+  ]
+}
