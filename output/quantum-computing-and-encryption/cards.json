@@ -1,0 +1,66 @@
+{
+  "title": "Quantum Computing & Encryption",
+  "theme_color": "#6C3FDB",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Quantum Computing & Encryption",
+      "body": "How quantum computers threaten today's security — and what we're doing about it"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Quantum Computing?",
+      "body": "Unlike classical computers that use bits (0 or 1), quantum computers use qubits that can exist in superposition — both 0 and 1 simultaneously. This parallelism lets them solve certain problems exponentially faster than any classical machine."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Encryption We Rely On Today",
+      "body": "RSA and ECC encryption protect your banking, email, and online identity. Their security rests on one hard math problem: factoring a huge number into its primes takes classical computers thousands of years. That assumption is about to change."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Shor's Algorithm: The Threat",
+      "body": "In 1994, Peter Shor proved a quantum computer could factor large numbers in polynomial time — potentially in hours or minutes. A sufficiently powerful quantum machine running Shor's algorithm would shatter RSA encryption entirely."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How Far Away Is the Danger?",
+      "body": "Today's quantum computers are noisy and limited to ~1,000 error-prone qubits. Cracking RSA-2048 would require roughly 4,000 stable logical qubits. Experts estimate 10–15 years before a cryptographically relevant quantum computer exists — but adversaries may already be harvesting data to decrypt later."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "\"Harvest Now, Decrypt Later\"",
+      "body": "Nation-state actors may be intercepting and storing encrypted traffic today, betting they can decrypt it once quantum computers mature. For secrets with a long shelf life — military, medical, financial records — this threat is already real and urgent."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Post-Quantum Cryptography (PQC)",
+      "body": "Researchers have developed encryption algorithms based on math problems quantum computers can't easily crack — like lattice problems and hash-based signatures. In 2024, NIST finalized the first global post-quantum encryption standards: CRYSTALS-Kyber and CRYSTALS-Dilithium."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Who Is Migrating Already?",
+      "body": "Google, Apple, Signal, and major cloud providers have begun integrating PQC into their products. The US government mandated federal agencies start migrating to post-quantum standards by 2030. The transition is massive — every TLS certificate, VPN, and digital signature must be updated."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Quantum Key Distribution (QKD)",
+      "body": "QKD uses quantum mechanics itself to share encryption keys: any eavesdropping disturbs the quantum state and is instantly detectable. China has a 4,600-km quantum communication network; the EU and US are building their own. It's physics, not math, as the security guarantee."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Race Is On",
+      "body": "The quantum threat to encryption is real — but so is the response. Migrate to post-quantum standards early, audit what long-lived data you need to protect now, and watch this space: the cryptography underpinning the internet is being rewritten in real time."
+    }
+  ]
+}
