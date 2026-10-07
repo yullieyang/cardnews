@@ -1,0 +1,66 @@
+{
+  "title": "Synthetic Biology: Programming Living Cells",
+  "theme_color": "#1B7A4E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Synthetic Biology: Programming Living Cells",
+      "body": "Scientists are redesigning life itself — writing genetic code to make cells that cure disease, clean pollution, and manufacture the impossible."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Synthetic Biology?",
+      "body": "Synthetic biology combines genetics, engineering, and computing to design and build new biological parts, devices, and even entire organisms. Unlike traditional genetic modification, it treats DNA like software — writing entirely new biological programs from scratch."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The DNA Programming Language",
+      "body": "Researchers use standardized genetic 'parts' — promoters, toggles, logic gates — that work like components in a circuit. By assembling these parts, scientists can make cells that sense their environment, compute decisions, and produce precise outputs on command."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Cells That Fight Cancer",
+      "body": "Engineered CAR-T cells are white blood cells reprogrammed to hunt and destroy specific cancer types. In clinical trials, they have achieved remission in patients with previously untreatable leukemia and lymphoma, representing one of synthetic biology's most dramatic medical wins."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Living Factories for Medicine",
+      "body": "Bacteria and yeast are now engineered to produce insulin, cancer drugs, and rare antibiotics far more cheaply than chemical synthesis. Artemisinin — a key malaria drug — was once scarce and expensive; synthetic biology enabled microbial production at massive scale, saving millions of lives."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Cleaning Up Pollution",
+      "body": "Synthetic microbes can be engineered to detect and break down specific toxins — plastics, oil spills, heavy metals, and industrial chemicals. Some strains can even absorb carbon dioxide and convert it into biofuels, turning pollution problems into energy solutions."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Growing Materials of the Future",
+      "body": "Companies are using synthetic biology to grow spider silk stronger than steel, self-healing leather from mushroom mycelium, and structural materials from engineered wood fungi. Living cells offer a manufacturing method that is renewable, low-energy, and biodegradable."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Risks and Safeguards",
+      "body": "Engineering life raises serious safety and ethical concerns. Researchers build 'kill switches' into synthetic organisms so they cannot survive outside controlled environments. International biosafety frameworks govern the release of engineered organisms, though enforcement remains a global challenge."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Cost of Writing DNA Is Falling Fast",
+      "body": "In 2003, synthesizing 1,000 DNA base pairs cost roughly $10,000. Today it costs under a dollar. As synthesis becomes cheaper and AI accelerates design, the pace of synthetic biology innovation is compounding — with thousands of new biological programs written each year."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Life, Redesigned",
+      "body": "Synthetic biology is moving from lab curiosity to global industry. The cells we program today could become the medicines, materials, and environmental solutions of tomorrow — provided we develop the tools to use this power wisely."
+    }
+  ]
+}
