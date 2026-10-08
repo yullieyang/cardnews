@@ -1,0 +1,66 @@
+{
+  "title": "The Internet of Bodies: Healthcare's Next Revolution",
+  "theme_color": "#0e7490",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Internet of Bodies",
+      "body": "How smart implants, edible sensors, and wearable tech are rewriting the future of medicine"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is the Internet of Bodies?",
+      "body": "The Internet of Bodies (IoB) is a network of connected devices that are worn on, ingested by, or implanted inside the human body. Unlike fitness trackers, IoB devices collect medical-grade data in real time — 24/7, from inside you."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Smart Pills You Swallow",
+      "body": "Ingestible sensors transmit data as they travel through your digestive tract. They can detect internal bleeding, confirm medication was taken, and measure gut microbiome activity — then dissolve harmlessly after the job is done."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Implants That Monitor Your Heart",
+      "body": "Next-gen cardiac implants do far more than pace your heartbeat. They stream continuous ECG data to physicians, detect arrhythmias minutes before symptoms arise, and can even administer micro-doses of medication on demand."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Continuous Glucose Without the Needle",
+      "body": "Subcutaneous glucose sensors worn under the skin give diabetics live blood sugar readings without finger pricks. AI algorithms on these devices predict dangerous spikes and dips up to 30 minutes in advance, automatically alerting caregivers."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Neural Interfaces and Brain-Body Links",
+      "body": "Brain-computer interface implants now enable paralyzed patients to control prosthetics, type text, and even restore a sense of touch. Trials in 2025–2026 have expanded to treating severe depression and Parkinson's disease with precision electrical stimulation."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The AI Engine Behind IoB",
+      "body": "Raw body data is only useful if it can be interpreted instantly. On-device AI models filter noise, detect anomalies, and generate personalized health scores. The real breakthrough is AI that learns your unique baseline and flags deviations that would be invisible in a routine check-up."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Privacy and Security Risks",
+      "body": "Devices inside your body create unprecedented privacy stakes. Researchers have demonstrated that some implants can be hacked wirelessly. Regulators are racing to mandate end-to-end encryption for medical IoB devices and establish strict data-ownership rights for patients."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Who Owns Your Body Data?",
+      "body": "IoB generates highly intimate data — heartbeats, glucose, brain signals — that insurers, employers, and advertisers would pay to access. Landmark legislation in the EU and several US states now classifies continuous biometric streams as a protected category alongside genetic data."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Your Body, Connected",
+      "body": "The Internet of Bodies promises earlier diagnosis, personalized treatment, and lives saved — but only if we build it with strong privacy, equity of access, and patient control at the center. The future is already under your skin."
+    }
+  ]
+}
