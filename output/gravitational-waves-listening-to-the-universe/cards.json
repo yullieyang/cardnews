@@ -1,0 +1,66 @@
+{
+  "title": "Gravitational Waves: Listening to the Universe",
+  "theme_color": "#1a237e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Gravitational Waves",
+      "body": "How humanity learned to listen to ripples in the fabric of spacetime"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Einstein's Prediction",
+      "body": "In 1916, Albert Einstein predicted that massive accelerating objects warp spacetime and send ripples outward at the speed of light. These gravitational waves were a cornerstone of general relativity — yet he doubted they'd ever be detected."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "What Are Gravitational Waves?",
+      "body": "Gravitational waves are distortions in spacetime itself — not traveling through space, but stretching and squeezing the very fabric of the universe. When they pass Earth, they alternately compress and expand space in perpendicular directions, but by an incredibly tiny amount."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The First Detection: 2015",
+      "body": "On September 14, 2015, LIGO's twin detectors in Louisiana and Washington simultaneously recorded a signal lasting 0.2 seconds. It was two black holes — each roughly 30 times the Sun's mass — merging 1.3 billion light-years away. The signal stretched LIGO's 4 km arms by less than one-thousandth the diameter of a proton."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How LIGO Works",
+      "body": "LIGO uses laser interferometry: a laser beam is split, travels down two perpendicular 4 km arms, bounces off mirrors, and recombines. A passing gravitational wave changes the arm lengths by different amounts, creating an interference pattern. The precision required is extraordinary — 10,000 times smaller than a proton."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Neutron Star Collision: 2017",
+      "body": "In 2017, LIGO and Virgo detected two neutron stars merging 130 million light-years away. This cosmic event was also seen by telescopes across the electromagnetic spectrum — the first 'multi-messenger astronomy' event. It confirmed that neutron star mergers create heavy elements like gold and platinum."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "What We Can Learn",
+      "body": "Gravitational waves let us observe phenomena invisible to light: black hole collisions deep in cosmic history, the internal structure of neutron stars, and the moments just after the Big Bang. They open a completely new window on the universe — like gaining a sense of hearing after only ever seeing."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Global Network",
+      "body": "Today, a worldwide network of detectors — LIGO (USA), Virgo (Italy), KAGRA (Japan), and LIGO-India — triangulates the source of signals across the sky. With multiple detectors, scientists can pinpoint the cosmic address of merging objects and alert optical telescopes within seconds."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Future: LISA in Space",
+      "body": "The Laser Interferometer Space Antenna (LISA), launching in the 2030s, will place three spacecraft 2.5 million km apart in a triangle configuration. LISA will detect much lower-frequency gravitational waves — from supermassive black hole mergers across the entire observable universe."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A New Sense for the Cosmos",
+      "body": "Gravitational wave astronomy is barely a decade old, yet it has already rewritten our understanding of black holes, neutron stars, and the universe's violent history. We are learning to hear the universe for the first time — and the sounds it makes are extraordinary."
+    }
+  ]
+}
