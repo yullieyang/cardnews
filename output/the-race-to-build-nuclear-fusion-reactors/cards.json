@@ -1,0 +1,66 @@
+{
+  "title": "The Race to Build Nuclear Fusion Reactors",
+  "theme_color": "#1a6bb5",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Race to Build Nuclear Fusion Reactors",
+      "body": "Humanity's biggest energy dream is closer than ever — here's what's at stake."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Nuclear Fusion?",
+      "body": "Fusion powers the Sun by fusing hydrogen atoms into helium, releasing enormous energy. Unlike fission, it produces no long-lived radioactive waste and uses abundant fuel like deuterium from seawater."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 'Always 30 Years Away' Joke",
+      "body": "For decades, critics joked that commercial fusion was always '30 years away.' But since 2020, dozens of well-funded startups and government mega-projects have dramatically accelerated the timeline."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "ITER: The Global Megaproject",
+      "body": "ITER in southern France is the world's largest fusion experiment, backed by 35 nations. Scheduled to achieve first plasma by the late 2020s, it will demonstrate fusion at industrial scale for the first time."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The NIF Ignition Breakthrough",
+      "body": "In December 2022, the US National Ignition Facility achieved 'ignition' — fusion reactions that released more energy than the lasers pumped in. It was a historic first, proving the physics works."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Private Startups Lead the Charge",
+      "body": "Companies like Commonwealth Fusion Systems, TAE Technologies, and Helion Energy have raised billions. Helion has a deal with Microsoft to deliver fusion electricity by 2028, a shockingly near target."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "How a Tokamak Works",
+      "body": "The most common design uses a donut-shaped magnetic chamber called a tokamak to confine superheated plasma at over 100 million °C — hotter than the Sun's core — long enough for fusion to occur."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Fuel Is Nearly Unlimited",
+      "body": "Deuterium is extracted from ordinary water; tritium is bred from lithium. A single bathtub of seawater contains enough deuterium to produce energy equivalent to 300 liters of oil — with zero carbon emissions."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Remaining Challenges",
+      "body": "Engineers must solve plasma instability, materials that survive neutron bombardment for decades, and tritium breeding at scale. The engineering hurdles are immense, even after the physics is proven."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Clean Energy Future?",
+      "body": "Fusion won't replace renewables overnight, but it could provide always-on, carbon-free baseload power by mid-century. After 70 years of research, the finish line is finally in sight."
+    }
+  ]
+}
