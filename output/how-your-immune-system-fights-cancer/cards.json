@@ -1,0 +1,66 @@
+{
+  "title": "How Your Immune System Fights Cancer",
+  "theme_color": "#1a6b4a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Your Immune System Fights Cancer",
+      "body": "Your body has a natural defense against tumors — and scientists are learning to supercharge it."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Cancer Is a Cellular Rebellion",
+      "body": "Cancer begins when normal cells accumulate genetic mutations and start dividing uncontrollably. These rogue cells ignore the body's usual stop signals and can invade surrounding tissue. The immune system's job is to recognize and eliminate them before they spread."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "T Cells: Your Cancer Hunters",
+      "body": "Cytotoxic T cells patrol the body scanning for abnormal proteins displayed on cell surfaces. When a T cell detects a cancer cell's mutant proteins — called neoantigens — it latches on and injects molecules that trigger self-destruction. One T cell can kill multiple tumor cells in sequence."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Natural Killer Cells: No ID Required",
+      "body": "Natural Killer (NK) cells take a different approach: they attack cells that are missing normal identity markers. Tumors sometimes hide by stripping away surface proteins, fooling T cells — but this actually makes them more vulnerable to NK cells. It's a complementary detection system."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How Tumors Evade Detection",
+      "body": "Cancer cells evolve countermeasures. They can express 'checkpoint' proteins like PD-L1 that send a 'don't kill me' signal to T cells, mimicking normal tissue. They also recruit suppressor cells that dampen immune activity around the tumor, creating a shielded microenvironment."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Checkpoint Inhibitors: Releasing the Brakes",
+      "body": "Drugs like pembrolizumab (Keytruda) block the PD-1/PD-L1 'off switch,' freeing T cells to attack tumors again. First approved in 2014, checkpoint inhibitors have transformed treatment for melanoma, lung, and dozens of other cancers. Some patients achieve complete and durable remissions."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "CAR-T Therapy: Engineering Soldiers",
+      "body": "CAR-T cell therapy takes a patient's own T cells, genetically reprograms them in a lab to target a specific cancer protein, then infuses them back. The engineered cells multiply and hunt tumors with extraordinary precision. It has produced remarkable results in previously untreatable blood cancers."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Cancer Vaccines Are Arriving",
+      "body": "mRNA technology — the same platform behind COVID vaccines — is now being used to create personalized cancer vaccines. Scientists sequence a patient's tumor, identify its unique mutations, then build a custom vaccine to train that patient's immune system to recognize those exact targets. Phase III trials are underway."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Combination Therapy: The New Frontier",
+      "body": "No single approach works for every cancer. Researchers are combining checkpoint inhibitors, CAR-T cells, vaccines, and targeted drugs to hit tumors from multiple angles at once. Early results show synergistic effects — each treatment makes the others more effective, raising response rates dramatically."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Immune System Is Medicine's New Frontier",
+      "body": "Immunotherapy has shifted cancer treatment from a war of attrition to a strategy of precision — turning your own biology into the cure. As personalized vaccines and next-gen cell therapies mature, the goal of converting cancer into a manageable or even curable condition moves steadily closer."
+    }
+  ]
+}
