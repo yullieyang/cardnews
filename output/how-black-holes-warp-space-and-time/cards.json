@@ -1,0 +1,66 @@
+{
+  "title": "How Black Holes Warp Space and Time",
+  "theme_color": "#4A00E0",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Black Holes Warp Space and Time",
+      "body": "The most extreme objects in the universe — where gravity is so powerful that not even light can escape"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Black Hole?",
+      "body": "A black hole is a region of space where gravity has become so intense that nothing — not even light — can escape its pull. It forms when a massive star collapses under its own gravity at the end of its life, compressing its core into an infinitely dense point called a singularity."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Event Horizon",
+      "body": "The 'point of no return' around a black hole is called the event horizon. Cross it and you can never come back. From the outside, an object falling into a black hole appears to slow down and freeze at the horizon — a direct consequence of extreme gravitational time dilation, as predicted by Einstein's general relativity."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Warping Space Itself",
+      "body": "Einstein showed that mass curves the fabric of spacetime. A black hole curves it so severely that space literally funnels inward. This creates a gravitational lens: light from distant stars bends around the black hole, sometimes forming perfect rings of light called Einstein rings visible from Earth."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Time Slows Near a Black Hole",
+      "body": "The stronger the gravity, the slower time passes — a proven phenomenon called gravitational time dilation. Near a black hole, time slows dramatically compared to far away. An astronaut hovering just outside the event horizon would age only minutes while thousands of years passed on Earth."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "First Image of a Black Hole",
+      "body": "In 2019, the Event Horizon Telescope — a global network of radio observatories — captured the first-ever image of a black hole's shadow: the supermassive black hole M87*, located 55 million light-years away. In 2022, it captured Sagittarius A*, the 4-million-solar-mass black hole at the center of our own Milky Way."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Supermassive Black Holes",
+      "body": "Nearly every large galaxy harbors a supermassive black hole at its center, ranging from millions to billions of solar masses. These giants shape galaxy formation, regulating star birth by blasting jets of energy into surrounding gas. The largest known black hole, TON 618, is 66 billion times the mass of our Sun."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Hawking Radiation and Evaporation",
+      "body": "Stephen Hawking theorized that black holes slowly emit radiation due to quantum effects at the event horizon — a process now called Hawking radiation. Over immense timescales, a black hole would eventually evaporate entirely. This discovery revealed a deep conflict between general relativity and quantum mechanics that physicists are still trying to resolve."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Black Holes and Gravitational Waves",
+      "body": "When two black holes spiral together and merge, they create ripples in spacetime called gravitational waves. In 2015, the LIGO detector made the first-ever detection of gravitational waves from two merging black holes 1.3 billion light-years away — opening an entirely new window on the universe."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Universe's Ultimate Mystery",
+      "body": "Black holes sit at the intersection of our deepest theories and greatest unknowns. They test Einstein's relativity, challenge quantum mechanics, and hint at physics we have yet to discover. The more we learn, the more profound the questions they raise."
+    }
+  ]
+}
