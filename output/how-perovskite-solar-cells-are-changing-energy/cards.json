@@ -1,0 +1,66 @@
+{
+  "title": "How Perovskite Solar Cells Are Changing Energy",
+  "theme_color": "#E8A020",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Solar Revolution You Haven't Heard Of",
+      "body": "How perovskite cells are set to make solar power cheaper, lighter, and more efficient than ever before."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Perovskite?",
+      "body": "Perovskite refers to a crystal structure — ABX₃ — originally found in a Russian mineral. Scientists discovered that synthetic perovskites made from lead, halides, and organic compounds can convert sunlight to electricity with remarkable efficiency."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "A Record-Breaking Rise in Efficiency",
+      "body": "In 2009, perovskite solar cells were just 3.8% efficient. By 2026, they've exceeded 33% in lab conditions — surpassing conventional silicon cells that took decades to reach similar levels. This improvement happened in under 15 years."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Why Silicon Has Limits",
+      "body": "Traditional silicon solar panels absorb only a portion of the solar spectrum. They require energy-intensive manufacturing at extremely high temperatures. Perovskite can be tuned to absorb different wavelengths and printed at low temperatures using simple processes."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Tandem Cells: The Best of Both Worlds",
+      "body": "Stacking perovskite on top of silicon creates \"tandem\" cells that capture more of the solar spectrum. These hybrid cells have demonstrated over 33.9% efficiency — well beyond what either material achieves alone, and approaching the theoretical maximum."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Ultra-Thin and Flexible",
+      "body": "Unlike rigid silicon panels, perovskite can be deposited as ultra-thin films on flexible substrates. This opens up applications on curved surfaces, vehicle roofs, windows, clothing, and even indoor devices powered by ambient light."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Durability Challenge",
+      "body": "Early perovskite cells degraded quickly when exposed to heat, moisture, and light. Researchers are solving this with new chemical compositions, protective coatings, and encapsulation techniques. Commercial-grade durability — 25+ years — is now within reach."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Lead Problem and Green Alternatives",
+      "body": "Most high-efficiency perovskites contain lead, raising environmental concerns. Scientists are actively developing tin-based and bismuth-based perovskites as non-toxic alternatives, though they currently lag in efficiency. The race for lead-free versions is accelerating."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "From Labs to Rooftops",
+      "body": "Companies like Oxford PV, Saule Technologies, and several Chinese manufacturers are scaling perovskite production. First commercial perovskite-silicon tandem modules began shipping in 2025, promising panels that generate more electricity per square meter at lower cost."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Brighter Energy Future",
+      "body": "Perovskite solar cells could slash the cost of clean electricity and bring solar power to places where conventional panels don't work. The next generation of solar is already here — and it's crystalline, flexible, and shining bright."
+    }
+  ]
+}
