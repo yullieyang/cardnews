@@ -1,0 +1,66 @@
+{
+  "title": "The Hidden World of Your Microbiome",
+  "theme_color": "#2E7D52",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Hidden World of Your Microbiome",
+      "body": "Trillions of microbes live inside you — and they run more of your life than you think"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "You Are 50% Microbial",
+      "body": "Your body contains roughly 38 trillion bacteria alongside 30 trillion human cells. These microbes aren't invaders — they're essential partners that have co-evolved with us for millions of years."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Your Gut Is a Second Brain",
+      "body": "The gut-brain axis is a two-way communication highway. Your gut produces 90% of your body's serotonin and directly influences mood, anxiety, and cognitive function through the vagus nerve."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Immune System's Control Room",
+      "body": "About 70% of your immune system lives in your gut. Gut microbes train immune cells to distinguish friend from foe, and an imbalanced microbiome is linked to autoimmune diseases, allergies, and chronic inflammation."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "No Two Microbiomes Are Alike",
+      "body": "Your microbiome is as unique as a fingerprint. Diet, birth method, early environment, antibiotics, and even stress shape its composition — meaning personalized medicine based on microbiome profiling is now a real clinical tool."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "What You Eat Reshapes It Fast",
+      "body": "Your microbiome can shift measurably within 24–48 hours of changing your diet. A fiber-rich, plant-diverse diet feeds beneficial bacteria, while ultra-processed foods quickly reduce microbial diversity — a key marker of poor health."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Antibiotics: Necessary but Costly",
+      "body": "A single course of antibiotics can wipe out hundreds of bacterial species. While often lifesaving, the collateral damage to your microbiome can persist for months or years, affecting digestion, immunity, and mental health."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Microbiome & Chronic Disease",
+      "body": "Researchers have linked disrupted microbiomes to obesity, type 2 diabetes, Parkinson's disease, depression, and even certain cancers. Fecal microbiota transplants (FMT) are already FDA-approved for treating recurrent C. diff infections."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "How to Support Your Microbiome",
+      "body": "Eat 30+ different plant foods weekly, embrace fermented foods (yogurt, kimchi, kefir), minimize unnecessary antibiotics, get outdoors, and manage stress. Diversity of microbes tracks directly with diversity of diet."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Your Microbiome Is Your Health",
+      "body": "The microbes inside you aren't passengers — they're co-pilots. Nurture them with diverse food, less stress, and smarter antibiotic use, and they'll take care of you right back."
+    }
+  ]
+}
