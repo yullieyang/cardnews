@@ -1,0 +1,66 @@
+{
+  "title": "CRISPR: How We Edit Life's Genetic Code",
+  "theme_color": "#2e7d32",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "CRISPR: How We Edit Life's Genetic Code",
+      "body": "A molecular scissors that's rewriting medicine, agriculture, and the future of life itself"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is CRISPR?",
+      "body": "CRISPR-Cas9 is a revolutionary gene-editing tool that lets scientists precisely cut, delete, or replace DNA sequences in any living organism. Originally discovered as part of bacteria's natural immune system, it has become the most powerful and affordable gene-editing technology ever developed."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "How It Works: The Guide RNA",
+      "body": "CRISPR uses a short piece of RNA called a guide RNA to navigate to a specific location in the genome — like a GPS address in 3 billion letters of DNA. Once it finds the target, the Cas9 protein acts as molecular scissors, making a precise cut in the double helix at exactly that spot."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "After the Cut: Edit, Delete, or Fix",
+      "body": "When Cas9 cuts the DNA, the cell's natural repair machinery kicks in. Scientists can exploit this to disable a gene entirely, correct a mutation by providing a template for repair, or insert an entirely new sequence. This makes CRISPR versatile enough to treat almost any genetic condition."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Nobel Prize Discovery",
+      "body": "Jennifer Doudna and Emmanuelle Charpentier were awarded the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9 as a gene-editing tool. Their 2012 paper transformed a bacterial curiosity into a technology that now underpins hundreds of clinical trials and thousands of research projects worldwide."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Treating Genetic Diseases",
+      "body": "In 2023, the first CRISPR-based medicine — Casgevy — was approved to treat sickle cell disease and beta thalassemia. For patients who previously needed lifelong blood transfusions, a single CRISPR treatment can eliminate symptoms permanently. It marks the dawn of curing diseases once considered untreatable."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Fighting Cancer With CRISPR",
+      "body": "Researchers are using CRISPR to engineer supercharged immune cells (CAR-T cells) that hunt and destroy tumors. Early trials show complete remissions in some patients with leukemia and lymphoma. CRISPR can also disable cancer cells' ability to evade the immune system, opening a new front in oncology."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "CRISPR in Agriculture",
+      "body": "CRISPR is transforming crops: scientists have developed disease-resistant wheat, drought-tolerant rice, and tomatoes that don't bruise. Unlike older GMO methods that insert foreign genes, CRISPR often makes edits within the plant's own genome — raising fewer regulatory hurdles and consumer concerns."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Ethical Debate",
+      "body": "In 2018, a Chinese scientist controversially created the world's first gene-edited babies, sparking global outrage over germline editing — changes that pass to future generations. The scientific community now debates strict boundaries: somatic (body cell) edits for disease are widely accepted, but heritable edits remain deeply controversial."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Age of Genetic Medicine",
+      "body": "CRISPR has already begun curing diseases that plagued humanity for millennia. As the technology matures and costs fall, it promises to reshape medicine, agriculture, and our understanding of life itself — raising profound questions about how far we should go in rewriting the code of living things."
+    }
+  ]
+}
