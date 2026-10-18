@@ -1,0 +1,66 @@
+{
+  "title": "How Digital Twins Are Reshaping the Real World",
+  "theme_color": "#1565C0",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Digital Twins",
+      "body": "The virtual replicas quietly running our world — from jet engines to entire cities"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Digital Twin?",
+      "body": "A digital twin is a real-time virtual replica of a physical object, process, or system. It continuously syncs with its real-world counterpart using sensor data, letting engineers and planners simulate, monitor, and predict behavior without touching the original."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Born in Aerospace",
+      "body": "NASA pioneered the concept in the 1970s to simulate Apollo spacecraft in real time from Earth. Today, every commercial jet engine has a digital twin that streams thousands of sensor readings per second, letting engineers spot wear before a part fails mid-flight."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Saving Factories from Downtime",
+      "body": "In manufacturing, a digital twin of an assembly line can predict equipment failures days in advance. Companies like Siemens and GE report 25–40% reductions in unplanned downtime after deploying twins — translating to hundreds of millions in saved costs annually."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Smart Cities in Simulation",
+      "body": "Singapore built a city-wide digital twin called Virtual Singapore — a 3D model updated with live traffic, weather, and utility data. Planners test the impact of new buildings on wind flow and flood risk before breaking ground, saving years of costly trial and error."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Your Body as a Twin",
+      "body": "Medical researchers are developing patient-specific digital twins of hearts and lungs. By simulating surgery or drug dosing on a virtual organ first, doctors can optimize treatment plans for individual patients — a step toward truly personalized medicine."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Climate and Infrastructure",
+      "body": "Engineers use digital twins of bridges, power grids, and water systems to stress-test them against extreme weather events. The UK's National Grid uses a twin to balance supply and demand in milliseconds, preventing blackouts as more renewable sources are added."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "How AI Supercharges Twins",
+      "body": "Pairing digital twins with machine learning unlocks predictive analytics that go far beyond monitoring. AI models trained on twin data can forecast how a system will behave weeks ahead, suggest optimal adjustments, and even autonomously make corrections in real time."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Challenges Ahead",
+      "body": "Building a digital twin demands vast sensor networks, reliable data pipelines, and serious cybersecurity — a hacked twin could feed false readings to critical infrastructure. Standardizing data formats across industries remains the field's biggest unsolved challenge."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Mirror World Taking Shape",
+      "body": "Digital twins are becoming the nervous system of modern industry and cities. As sensors get cheaper and AI gets smarter, every major system on Earth may soon have a virtual counterpart helping it run safer, greener, and smarter."
+    }
+  ]
+}

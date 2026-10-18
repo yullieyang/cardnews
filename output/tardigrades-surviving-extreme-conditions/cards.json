@@ -1,0 +1,66 @@
+{
+  "title": "Tardigrades: The Indestructible Animals",
+  "theme_color": "#2E7D5E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Tardigrades: The Indestructible Animals",
+      "body": "Meet the microscopic creatures that can survive the vacuum of space, boiling heat, and mass extinctions — all in a body smaller than a grain of sand."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a Tardigrade?",
+      "body": "Tardigrades — nicknamed 'water bears' — are microscopic animals about 0.5 mm long. They have eight stubby legs, a barrel-shaped body, and live in mosses, soil, and ocean sediments worldwide. Over 1,300 species have been identified."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Tun State: Suspended Animation",
+      "body": "When conditions turn lethal, tardigrades enter cryptobiosis — they curl into a dry, dormant 'tun.' Metabolism drops to 0.01% of normal. They can stay in this state for decades and revive when conditions improve."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Surviving Extreme Heat and Cold",
+      "body": "Tardigrades tolerate temperatures from -272°C (near absolute zero) to +150°C. They've survived being flash-frozen in liquid helium and being baked in an oven — ranges that would destroy virtually every other known animal."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Living in the Vacuum of Space",
+      "body": "In 2007, the FOTON-M3 mission exposed tardigrades to open space for 10 days. Many survived the vacuum, cosmic radiation, and UV rays. They were the first animals confirmed to survive direct outer space exposure."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Radiation Resistance Beyond All Limits",
+      "body": "Tardigrades can withstand radiation doses up to 570,000 rads — a dose that would kill a human at just 1,000 rads. They produce a unique protein called Dsup (Damage Suppressor) that physically shields their DNA from breaking."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Surviving Pressure and Desiccation",
+      "body": "They endure pressures six times that of the Mariana Trench and survive complete dehydration. In the tun state, they replace water in their cells with a sugar called trehalose, which preserves cell structures like a biological glass."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Ancient Survivors of Mass Extinctions",
+      "body": "Tardigrades have existed for over 530 million years, predating dinosaurs. They survived all five major mass extinctions. Their resilience is so extreme that scientists suggest they could outlive the sun's eventual expansion."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What Science Is Learning From Them",
+      "body": "The Dsup protein is being studied to protect human astronauts and cancer patients from radiation damage. Trehalose preservation techniques could revolutionize organ storage for transplants. Tardigrades are a blueprint for biological engineering."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Life Finds a Way",
+      "body": "Tardigrades prove that life can be far more resilient than we imagined. Their secrets — from radiation-shielding proteins to suspended animation — are now guiding cutting-edge medicine and space science."
+    }
+  ]
+}

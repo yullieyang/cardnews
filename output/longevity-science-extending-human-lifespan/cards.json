@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Longevity: How Researchers Are Extending Human Lifespan",
+  "theme_color": "#2E7D9A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Longevity",
+      "body": "How researchers are unlocking the secrets of aging — and what it means for how long (and how well) we live"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Why We Age: The Hallmarks",
+      "body": "Scientists have identified 12 biological 'hallmarks of aging' — from DNA damage and cellular senescence to stem cell exhaustion. These aren't inevitable; they're processes that can potentially be slowed, paused, or even reversed."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Senescent Cells: Aging's Toxic Neighbors",
+      "body": "When damaged cells stop dividing but refuse to die, they become 'zombie' cells that spew inflammatory signals. Drugs called senolytics selectively clear these cells in animal studies, restoring tissue function and extending healthy lifespan."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Epigenetic Reprogramming",
+      "body": "In 2023, Yamanaka factor gene therapy reversed aging markers in mice by decades. Partial reprogramming resets the 'epigenetic clock' — chemical tags on DNA that accumulate with age — without erasing cell identity, a key safety milestone."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "mTOR & Caloric Restriction Mimetics",
+      "body": "Rapamycin, an mTOR inhibitor, extends lifespan in nearly every organism tested. It mimics caloric restriction's effects on metabolism. Human clinical trials are underway to test whether low-dose rapamycin slows biological aging safely."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "NAD+ and Mitochondrial Decline",
+      "body": "NAD+, a molecule critical to cellular energy, drops by 50% between ages 20 and 60. Precursors like NMN and NR boost NAD+ levels. Researchers are studying whether restoring NAD+ can reverse metabolic decline and improve muscle and brain function."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Telomeres: The Chromosome Clock",
+      "body": "Telomeres are protective caps on chromosomes that shorten with each cell division. Short telomeres signal cells to stop dividing. Strategies to maintain telomere length — without triggering cancer — remain an active frontier in longevity research."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Gut Microbiome Connection",
+      "body": "Centenarians show distinct gut microbiome profiles linked to inflammation control and metabolic health. Fecal microbiota transplants from young animals improve brain and physical function in older ones, pointing to the gut as a lever for aging."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Lifespan vs. Healthspan",
+      "body": "The real goal isn't just living longer — it's 'compressing morbidity': staying healthy, mobile, and cognitively sharp until very late in life. Most longevity researchers now focus on adding quality years, not just years, to human life."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Longevity Revolution Is Here",
+      "body": "From senolytics to epigenetic reprogramming, the science of aging is advancing faster than ever. The first generation to meaningfully slow biological aging may already be alive — and the choices we make today in diet, exercise, and medicine will shape how we experience tomorrow."
+    }
+  ]
+}
