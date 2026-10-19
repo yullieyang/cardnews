@@ -1,66 +1,66 @@
 {
   "title": "How Carbon Capture Technology Works",
-  "theme_color": "#1a6b3c",
+  "theme_color": "#1a7a4a",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "How Carbon Capture Technology Works",
-      "body": "The machines pulling CO₂ out of the sky — and what happens next"
+      "body": "The science pulling CO₂ out of the air — and why it might save us"
     },
     {
       "slide_number": 2,
       "type": "content",
-      "heading": "Why We Need to Capture Carbon",
-      "body": "Even if we stop all emissions today, CO₂ already in the atmosphere will keep warming the planet for centuries. Carbon capture aims to actively remove that excess, giving humanity a second chance at the 1.5°C target."
+      "heading": "The Core Problem",
+      "body": "CO₂ levels have surpassed 430 ppm — the highest in 3 million years. Even if we stopped all emissions today, existing atmospheric CO₂ would continue warming the planet for decades. Carbon capture aims to reverse this buildup."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "Point-Source Capture: Catching It at the Chimney",
-      "body": "The oldest approach intercepts CO₂ directly from power plants and factories before it enters the air. A chemical solvent — usually an amine — absorbs the gas, then releases it when heated so it can be compressed and stored. This method can cut a single facility's emissions by up to 90%."
+      "heading": "Two Main Approaches",
+      "body": "Point-source capture grabs CO₂ directly from factory or power-plant exhaust before it reaches the air. Direct Air Capture (DAC) pulls CO₂ from the open atmosphere anywhere on Earth — far harder, but more flexible."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "Direct Air Capture: Vacuuming the Sky",
-      "body": "Direct Air Capture (DAC) machines draw in ambient air and pass it over liquid or solid sorbents that bind CO₂. The captured gas is stripped off using heat, yielding a pure CO₂ stream. Climeworks' Mammoth plant in Iceland became the world's largest DAC facility in 2024, pulling 36,000 tonnes per year."
+      "heading": "How DAC Actually Works",
+      "body": "Giant fans push air through chemical filters — either liquid solvents or solid sorbents — that bind CO₂ molecules. The material is then heated to release a pure CO₂ stream, regenerating the filter for reuse. It's essentially a giant artificial tree."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "BECCS: Combining Forests with Engineering",
-      "body": "Bioenergy with Carbon Capture and Storage (BECCS) grows biomass crops that absorb CO₂ as they grow, burns them for energy, then captures the emissions. The result is energy generation that is carbon-negative — removing more CO₂ than it releases throughout its lifecycle."
+      "heading": "Storing the Carbon",
+      "body": "Captured CO₂ is compressed and injected deep underground into porous rock formations, often depleted oil and gas reservoirs. Mineralization turns it into solid carbonate rock within years — a permanent, geologically stable solution."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "What Happens to the Captured CO₂?",
-      "body": "Captured carbon can be permanently injected into deep geological formations — depleted oil fields or basalt rock — where it mineralizes into stone within years. Alternatively, it becomes a feedstock: making sustainable aviation fuel, concrete, plastics, or even carbonated drinks."
+      "heading": "The Energy Challenge",
+      "body": "Today's DAC plants consume 1,500–2,000 kWh of energy per ton of CO₂ removed. If powered by fossil fuels, capture creates nearly as much CO₂ as it removes. Renewable energy integration is critical — and is driving massive innovation."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "The Cost Challenge",
-      "body": "DAC currently costs $300–$1,000 per tonne of CO₂ — far above the ~$50 social cost of carbon that makes it economically viable at scale. Researchers are targeting $100 per tonne by 2030 through better sorbents, cheaper renewable energy, and optimized heat cycles."
+      "heading": "Current Scale & Cost",
+      "body": "The world's largest DAC facility, Mammoth in Iceland, captures 36,000 tons of CO₂ per year at roughly $1,000 per ton. Humanity emits ~37 billion tons annually. Costs must drop to under $100/ton to become climate-significant."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Scale: The Gigaton Gap",
-      "body": "The IPCC estimates we need to remove 10 billion tonnes of CO₂ per year by 2050 to meet climate goals. All current carbon capture projects combined remove less than 0.01% of that. Closing this gap requires exponential growth in funding, policy, and engineering talent."
+      "heading": "Nature-Based Carbon Capture",
+      "body": "Forests, wetlands, and oceans already capture ~11 billion tons of CO₂ per year. Enhanced approaches — afforestation, ocean iron fertilization, enhanced rock weathering — can amplify this at far lower cost than engineered solutions."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "The Controversy: Silver Bullet or Moral Hazard?",
-      "body": "Critics warn that carbon capture could become an excuse to delay cutting emissions at the source. Others argue it is a necessary complement to renewables, not a replacement. The scientific consensus: capture alone cannot solve climate change, but without it, meeting net-zero targets is nearly impossible."
+      "heading": "Who's Building It",
+      "body": "Climeworks, Carbon Engineering, and dozens of startups are racing to scale. Microsoft, Stripe, and Shopify have committed billions in advance purchase agreements. In 2026, the US Department of Energy funds 7 regional DAC hubs targeting 1 million tons/year."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "The Air Is the Frontier",
-      "body": "Carbon capture is no longer science fiction — it is an engineering and economic challenge. As costs drop and scale grows, the technology that vacuums CO₂ from the sky may become as vital to civilization as the power grid itself."
+      "heading": "The Road Ahead",
+      "body": "Carbon capture alone won't solve climate change — but it's a critical tool in the toolkit. As costs fall and scale grows, every ton removed buys time for deeper systemic change. The race to clean the air is just beginning."
     }
   ]
 }
