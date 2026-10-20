@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Alzheimer's Disease",
+  "theme_color": "#1A6B8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Alzheimer's Disease",
+      "body": "What really happens inside the brain — and why researchers are finally making progress"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "More Than Forgetting",
+      "body": "Alzheimer's is the most common form of dementia, accounting for 60–80% of cases worldwide. It is a progressive neurological disorder that destroys memory, thinking, and ultimately the ability to carry out daily tasks. Over 55 million people live with dementia globally."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Amyloid Plaque Problem",
+      "body": "In Alzheimer's, a protein fragment called amyloid-beta misfolds and clumps together between neurons, forming sticky plaques. These plaques disrupt cell communication and trigger an immune response that damages surrounding brain tissue over years or even decades before symptoms appear."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Tau Tangles: The Internal Collapse",
+      "body": "Inside neurons, a protein called tau stabilizes structures that transport nutrients. In Alzheimer's, tau becomes chemically altered and collapses into twisted tangles. These tangles block internal transport, starving neurons of supplies until they die — spreading through the brain like a slow wave."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Brain's Immune System Backfires",
+      "body": "Microglia — the brain's resident immune cells — normally clear debris and protect neurons. In Alzheimer's, chronic activation of microglia leads to neuroinflammation that damages healthy tissue. This runaway immune response is now considered a key driver of disease progression, not just a side effect."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Early Signs: Years Before Diagnosis",
+      "body": "Alzheimer's begins silently. Brain changes can start 20 years before any symptoms appear. Early warning signs include subtle word-finding difficulty, getting lost in familiar places, and difficulty with complex tasks. These mild changes are easy to dismiss — which is why early detection tools are so critical."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "How the Disease Progresses",
+      "body": "Alzheimer's moves through three stages. In the mild stage, memory lapses and confusion emerge. The moderate stage brings increasing disorientation, mood changes, and difficulty with daily tasks. In the severe stage, individuals lose the ability to communicate, recognize loved ones, and control bodily functions."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Risk Factors: Genes and Lifestyle",
+      "body": "Age is the biggest risk factor — one in three people over 85 has Alzheimer's. The APOE4 gene variant significantly raises risk. But lifestyle also matters: high blood pressure, obesity, physical inactivity, and poor sleep all increase risk. Up to 40% of Alzheimer's cases may be preventable through lifestyle changes."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Treatment Breakthrough",
+      "body": "For decades, no drug could slow Alzheimer's. That changed with amyloid-clearing antibodies — lecanemab and donanemab — which in 2023–2024 trials modestly slowed cognitive decline in early-stage patients. These are the first therapies shown to alter the disease's course, opening a new era of Alzheimer's treatment."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Understanding Is the First Step",
+      "body": "Alzheimer's research has accelerated dramatically. Blood tests can now detect amyloid decades early. New drug targets — tau, inflammation, synaptic repair — are in clinical trials. The science is moving. With early detection and emerging therapies, there is genuine hope for the first time."
+    }
+  ]
+}
