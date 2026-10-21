@@ -1,1 +1,66 @@
-ewogICJ0aXRsZSI6ICJUaGUgU2NpZW5jZSBvZiBTbGVlcCBTdGFnZXMiLAogICJ0aGVtZV9jb2xvciI6ICIjM0I0QkM4IiwKICAic2xpZGVzIjogWwogICAgewogICAgICAic2xpZGVfbnVtYmVyIjogMSwKICAgICAgInR5cGUiOiAidGl0bGUiLAogICAgICAiaGVhZGluZyI6ICJUaGUgU2NpZW5jZSBvZiBTbGVlcCBTdGFnZXMiLAogICAgICAiYm9keSI6ICJXaGF0IHJlYWxseSBoYXBwZW5zIGluc2lkZSB5b3VyIGJyYWluIGV2ZXJ5IG5pZ2h0IOKAlCBhbmQgd2h5IGl0IG1hdHRlcnMgbW9yZSB0aGFuIHlvdSB0aGluay4iCiAgICB9LAogICAgewogICAgICAic2xpZGVfbnVtYmVyIjogMiwKICAgICAgInR5cGUiOiAiY29udGVudCIsCiAgICAgICJoZWFkaW5nIjogIlNsZWVwIElzIE5vdCBPbmUgVGhpbmciLAogICAgICAiYm9keSI6ICJTbGVlcCBpcyBhIGR5bmFtaWMgcHJvY2VzcyB3aXRoIGRpc3RpbmN0IHBoYXNlcyBjeWNsaW5nIHRocm91Z2ggdGhlIG5pZ2h0LiBZb3VyIGJyYWluIGlzIGZhciBmcm9tIHJlc3Rpbmcg4oCUIGl0J3MgYnVzeSBjb25zb2xpZGF0aW5nIG1lbW9yaWVzLCByZXBhaXJpbmcgdGlzc3VlLCBhbmQgcmVndWxhdGluZyBob3Jtb25lcy4gTWlzc2luZyBldmVuIG9uZSBzdGFnZSBoYXMgbWVhc3VyYWJsZSBjb25zZXF1ZW5jZXMuIgogICAgfSwKICAgIHsKICAgICAgInNsaWRlX251bWJlciI6IDMsCiAgICAgICJ0eXBlIjogImNvbnRlbnQiLAogICAgICAiaGVhZGluZyI6ICJTdGFnZSAxIOKAlCBMaWdodCBTbGVlcCIsCiAgICAgICJib2R5IjogIlRoZSB0cmFuc2l0aW9uIGZyb20gd2FrZWZ1bG5lc3MsIGxhc3RpbmcganVzdCAx4oCTNSBtaW51dGVzLiBNdXNjbGUgYWN0aXZpdHkgc2xvd3MsIGV5ZXMgbW92ZSBzbG93bHksIGFuZCB5b3UgY2FuIGJlIHdva2VuIGVhc2lseS4gVGhpcyBpcyB3aGVuIGh5cG5pYyBqZXJrcyDigJQgdGhvc2Ugc3VkZGVuIGZhbGxpbmcgc2Vuc2F0aW9ucyDigJQgY29tbW9ubHkgb2NjdXIuIgogICAgfSwKICAgIHsKICAgICAgInNsaWRlX251bWJlciI6IDQsCiAgICAgICJ0eXBlIjogImNvbnRlbnQiLAogICAgICAiaGVhZGluZyI6ICJTdGFnZSAyIOKAlCBUcnVlIFNsZWVwIEJlZ2lucyIsCiAgICAgICJib2R5IjogIkJvZHkgdGVtcGVyYXR1cmUgZHJvcHMgYW5kIGhlYXJ0IHJhdGUgc2xvd3MuIFRoZSBicmFpbiBwcm9kdWNlcyBidXJzdHMgb2YgcmFwaWQgYWN0aXZpdHkgY2FsbGVkIHNsZWVwIHNwaW5kbGVzLCB3aGljaCBhcmUgdGhvdWdodCB0byBwcm90ZWN0IHNsZWVwIGFuZCBwbGF5IGEgcm9sZSBpbiBtb3RvciBsZWFybmluZy4gWW91IHNwZW5kIGFib3V0IDUwJSBvZiB0aGUgbmlnaHQgaGVyZS4iCiAgICB9LAogICAgewogICAgICAic2xpZGVfbnVtYmVyIjogNSwKICAgICAgInR5cGUiOiAiY29udGVudCIsCiAgICAgICJoZWFkaW5nIjogIlN0YWdlIDMg4oCUIERlZXAgU2xlZXAgKFNsb3ctV2F2ZSkiLAogICAgICAiYm9keSI6ICJUaGUgaGFyZGVzdCBzdGFnZSB0byB3YWtlIHNvbWVvbmUgZnJvbS4gRGVsdGEgYnJhaW53YXZlcyBkb21pbmF0ZSwgYW5kIHRoZSBib2R5IHJlbGVhc2VzIGdyb3d0aCBob3Jtb25lLCByZXBhaXJzIG11c2NsZSwgYW5kIHN0cmVuZ3RoZW5zIHRoZSBpbW11bmUgc3lzdGVtLiBEZWVwIHNsZWVwIGlzIGNyaXRpY2FsIGZvciBwaHlzaWNhbCByZWNvdmVyeSBhbmQgbG9uZy10ZXJtIG1lbW9yeS4iCiAgICB9LAogICAgewogICAgICAic2xpZGVfbnVtYmVyIjogNiwKICAgICAgInR5cGUiOiAiY29udGVudCIsCiAgICAgICJoZWFkaW5nIjogIlJFTSBTbGVlcCDigJQgV2hlcmUgRHJlYW1zIExpdmUiLAogICAgICAiYm9keSI6ICJSYXBpZCBFeWUgTW92ZW1lbnQgc2xlZXAga2lja3MgaW4gYWJvdXQgOTAgbWludXRlcyBhZnRlciBmYWxsaW5nIGFzbGVlcC4gQnJhaW4gYWN0aXZpdHkgc3Bpa2VzIHRvIG5lYXItd2FraW5nIGxldmVscywgYnV0IHRoZSBib2R5IGlzIHRlbXBvcmFyaWx5IHBhcmFseXplZC4gVGhpcyBzdGFnZSBkcml2ZXMgZW1vdGlvbmFsIHByb2Nlc3NpbmcsIGNyZWF0aXZpdHksIGFuZCBwcm9ibGVtLXNvbHZpbmcuIgogICAgfSwKICAgIHsKICAgICAgInNsaWRlX251bWJlciI6IDcsCiAgICAgICJ0eXBlIjogImNvbnRlbnQiLAogICAgICAiaGVhZGluZyI6ICJUaGUgOTAtTWludXRlIEN5Y2xlIiwKICAgICAgImJvZHkiOiAiU3RhZ2VzIDHigJMzIGFuZCBSRU0gcmVwZWF0IGluIHJvdWdobHkgOTAtbWludXRlIGN5Y2xlcywgNOKAkzYgdGltZXMgcGVyIG5pZ2h0LiBFYXJseSBjeWNsZXMgaGF2ZSBtb3JlIGRlZXAgc2xlZXA7IGxhdGVyIGN5Y2xlcyBhcmUgUkVNLWhlYXZ5LiBDdXR0aW5nIHNsZWVwIHNob3J0IGRpc3Byb3BvcnRpb25hdGVseSBlbGltaW5hdGVzIFJFTSDigJQgeW91ciBicmFpbidzIGNyZWF0aXZlIGFuZCBlbW90aW9uYWwgZW5naW5lLiIKICAgIH0sCiAgICB7CiAgICAgICJzbGlkZV9udW1iZXIiOiA4LAogICAgICAidHlwZSI6ICJjb250ZW50IiwKICAgICAgImhlYWRpbmciOiAiV2hhdCBXcmVja3MgWW91ciBTbGVlcCBBcmNoaXRlY3R1cmUiLAogICAgICAiYm9keSI6ICJBbGNvaG9sIHN1cHByZXNzZXMgUkVNIHNsZWVwIGRlc3BpdGUgaGVscGluZyB5b3UgZmFsbCBhc2xlZXAgZmFzdGVyLiBCbHVlLWxpZ2h0IGV4cG9zdXJlIGRlbGF5cyBtZWxhdG9uaW4gcmVsZWFzZSBieSB1cCB0byAzIGhvdXJzLiBJbmNvbnNpc3RlbnQgc2xlZXAgc2NoZWR1bGVzIGZyYWdtZW50IGN5Y2xlcywgcmVkdWNpbmcgdGhlIHJlc3RvcmF0aXZlIGJlbmVmaXQgb2YgZWFjaCBzdGFnZS4iCiAgICB9LAogICAgewogICAgICAic2xpZGVfbnVtYmVyIjogOSwKICAgICAgInR5cGUiOiAiY29udGVudCIsCiAgICAgICJoZWFkaW5nIjogIlRoZSBDb3N0IG9mIFNraW1waW5nIG9uIFNsZWVwIiwKICAgICAgImJvZHkiOiAiSnVzdCBvbmUgbmlnaHQgb2YgcG9vciBzbGVlcCByYWlzZXMgY29ydGlzb2wsIGltcGFpcnMgZ2x1Y29zZSByZWd1bGF0aW9uLCBhbmQgcmVkdWNlcyB2YWNjaW5lIGVmZmVjdGl2ZW5lc3MuIENocm9uaWMgc2hvcnQgc2xlZXAgaXMgbGlua2VkIHRvIGhpZ2hlciByaXNrcyBvZiBBbHpoZWltZXIncywgY2FyZGlvdmFzY3VsYXIgZGlzZWFzZSwgYW5kIGRlcHJlc3Npb24g4oCUIG5vIGFtb3VudCBvZiB3ZWVrZW5kIGNhdGNoLXVwIGZ1bGx5IGNvbXBlbnNhdGVzLiIKICAgIH0sCiAgICB7CiAgICAgICJzbGlkZV9udW1iZXIiOiAxMCwKICAgICAgInR5cGUiOiAiY2xvc2luZyIsCiAgICAgICJoZWFkaW5nIjogIlNsZWVwIFNtYXJ0ZXIsIE5vdCBKdXN0IExvbmdlciIsCiAgICAgICJib2R5IjogIlF1YWxpdHkgYmVhdHMgcXVhbnRpdHkuIENvbnNpc3RlbnQgYmVkdGltZXMsIGEgY29vbCBkYXJrIHJvb20sIGFuZCBsaW1pdGluZyBhbGNvaG9sIGFuZCBzY3JlZW5zIGhlbHAgcHJvdGVjdCBhbGwgc3RhZ2VzLiBZb3VyIGJyYWluIGRvZXMgaXRzIGJlc3Qgd29yayB3aGVuIHlvdSBnaXZlIHNsZWVwIHRoZSByZXNwZWN0IGl0IGRlc2VydmVzLiIKICAgIH0KICBdCn0K
+{
+  "title": "The Science of Sleep Stages",
+  "theme_color": "#3A5F8A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Sleep Stages",
+      "body": "What really happens in your brain while you rest — and why each stage matters"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Sleep Is Not One Thing",
+      "body": "A full night of sleep cycles through four distinct stages roughly every 90 minutes. Each cycle includes both lighter non-REM stages and a deep REM phase, totalling 4–6 complete cycles per night."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Stage 1 — Light Sleep (N1)",
+      "body": "The brief transition between wakefulness and sleep, lasting just 1–7 minutes. Muscle activity slows, you can be easily woken, and hypnic jerks (sudden twitches) are common during this phase."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Stage 2 — True Sleep (N2)",
+      "body": "Body temperature drops, heart rate slows, and the brain produces short bursts of activity called sleep spindles. This stage takes up about 50% of total sleep time and is key for memory consolidation."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Stage 3 — Deep Sleep (N3)",
+      "body": "Slow delta waves dominate the brain. This is the hardest stage to wake from, and it's when the body does most of its physical repair — releasing growth hormone and rebuilding tissue and immune cells."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "REM Sleep — Dream Stage",
+      "body": "Rapid Eye Movement sleep features intense brain activity almost like wakefulness. Your muscles are temporarily paralyzed, and vivid dreaming occurs. REM is critical for emotional processing and creative thinking."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Deep Sleep Shifts to REM",
+      "body": "Early in the night, cycles are heavier on deep sleep. As morning approaches, REM periods grow longer. This is why the last hour of sleep — often cut by alarms — is rich in REM and particularly valuable."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "What Disrupts Your Cycles",
+      "body": "Alcohol suppresses REM sleep even when it helps you fall asleep faster. Blue light from screens delays melatonin release, pushing your whole cycle later. Irregular schedules fragment the cycle progression."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Signs You're Not Getting Enough Deep Sleep",
+      "body": "Frequent illness, slow recovery from exercise, brain fog, and waking unrefreshed all point to insufficient deep sleep. Sleep trackers can give rough estimates, but consistent sleep times are the best fix."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Sleep Smarter, Not Just Longer",
+      "body": "Quality sleep means protecting all four stages. Keep a consistent schedule, limit alcohol and screens before bed, and let your body complete its natural cycles — your brain and body will thank you."
+    }
+  ]
+}
