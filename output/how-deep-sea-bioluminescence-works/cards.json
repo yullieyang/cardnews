@@ -1,0 +1,66 @@
+{
+  "title": "How Deep Sea Bioluminescence Works",
+  "theme_color": "#1a6b8a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Ocean Glow",
+      "body": "How Deep Sea Bioluminescence Works"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Light Without Heat",
+      "body": "Bioluminescence is the production of light by living organisms through a chemical reaction. Unlike fire or light bulbs, it produces almost no heat — making it one of nature's most efficient light sources."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Chemistry Behind the Glow",
+      "body": "The reaction involves a molecule called luciferin oxidizing in the presence of an enzyme called luciferase. This reaction releases energy as light rather than heat. Different species use slightly different versions of these molecules."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How Deep Does It Go?",
+      "body": "Below 200 meters, sunlight disappears almost entirely. Yet up to 76% of deep sea creatures produce their own light. In the ocean's midnight zone (1,000–4,000 m), bioluminescence is the only light source available."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Why Do They Glow?",
+      "body": "Organisms use bioluminescence for three main purposes: attracting prey (like the anglerfish's lure), communicating with potential mates, and confusing or warning predators. Some squid even mimic the dim glow of sunlight from below to camouflage themselves."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Anglerfish's Deadly Lantern",
+      "body": "The deep sea anglerfish dangles a bioluminescent lure above its mouth to attract prey in the dark. The glow is powered by symbiotic bacteria living inside the lure — the fish provides nutrients, the bacteria produce the light."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Firefly Squid: A Dazzling Display",
+      "body": "The Japanese firefly squid (Watasenia scintillans) has thousands of light-producing organs across its body. Each spring, millions gather near the surface to spawn, creating spectacular glowing waves visible from shore."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Glowing in the Lab",
+      "body": "Scientists have borrowed the luciferase gene to create glowing lab mice, plants, and bacteria. This technology helps researchers track cancer cells, study gene activity in real time, and even detect pollutants in water."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Most Life Glows — We Just Can't See It",
+      "body": "Bioluminescence has evolved independently at least 50 separate times across the tree of life. It exists in fish, jellyfish, fungi, fireflies, and even some sharks. Scientists believe most of the ocean's biomass produces light at some point in its life cycle."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Deep Sea Shines",
+      "body": "From chemistry labs to the midnight ocean, bioluminescence reveals nature's ingenuity. The next time you see a glowing wave on a beach at night, you're witnessing millions of microscopic organisms lighting up the dark — just as life in the deep has done for hundreds of millions of years."
+    }
+  ]
+}
