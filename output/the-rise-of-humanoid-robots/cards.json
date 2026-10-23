@@ -1,66 +1,66 @@
 {
   "title": "The Rise of Humanoid Robots",
-  "theme_color": "#1a6bb5",
+  "theme_color": "#1A237E",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "The Rise of Humanoid Robots",
-      "body": "From factory floors to daily life — how human-shaped machines are reshaping our world in 2026"
+      "body": "How machines shaped like us are stepping into our world — and what comes next"
     },
     {
       "slide_number": 2,
       "type": "content",
-      "heading": "Why Human-Shaped?",
-      "body": "Humanoid robots are designed to operate in spaces built for people — using stairs, doorknobs, and tools humans already use. This design philosophy means they can slot into existing infrastructure without costly retrofits."
+      "heading": "Why Human Shape?",
+      "body": "Humanoid robots are built to work in spaces designed for people — doorways, staircases, and tools built for human hands. A human-shaped body lets them slot into existing environments without expensive retrofits."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "The Manufacturing Revolution",
-      "body": "Major automakers and electronics factories have deployed thousands of humanoid robots on assembly lines. They handle repetitive, physically demanding tasks and work alongside humans — boosting output without replacing entire workforces overnight."
+      "heading": "Who's Building Them?",
+      "body": "Tesla's Optimus, Figure AI, Boston Dynamics' Atlas, and Agility Robotics' Digit are leading the race. Dozens of startups and major manufacturers are pouring billions into the space, signaling a genuine industry shift."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "Learning by Watching",
-      "body": "Modern humanoids learn from human demonstration. Workers perform a task once while the robot observes and records motion data. Within hours, the robot can replicate the task — dramatically cutting training time compared to traditional programming."
+      "heading": "From Factory Floor to Your Home",
+      "body": "The first deployments are in warehouses and manufacturing lines, handling repetitive tasks like sorting and assembly. The long-term vision is a general-purpose helper that can cook, clean, and assist with elder care."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "The AI Brain Inside",
-      "body": "Each robot is powered by large multimodal AI models that process vision, language, and touch simultaneously. This lets them interpret spoken instructions, recognize objects in clutter, and adapt grip pressure to fragile items in real time."
+      "heading": "The AI Brain Behind the Body",
+      "body": "Modern humanoids are powered by foundation models trained on vast human video data. This lets them learn new tasks from just a few demonstrations rather than requiring months of manual programming."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "Home and Care Applications",
-      "body": "Pilot programs in Japan and South Korea are placing humanoid assistants in elder-care facilities. They remind residents to take medication, assist with mobility, and provide companionship — addressing a critical caregiver shortage."
+      "heading": "Key Engineering Challenges",
+      "body": "Balance, dexterity, and energy efficiency remain hard problems. A robot that can walk across uneven terrain, open a bottle, and run for eight hours on a single charge still pushes the edge of what's possible."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "Safety and Liability Challenges",
-      "body": "Robots operating near humans must fail safely. Regulators are still writing the rulebook: who is liable when a robot causes injury? Current standards require robots to detect human proximity and reduce force before contact occurs."
+      "heading": "Cost: The Final Barrier",
+      "body": "Early units cost $100,000–$200,000 each. Manufacturers are targeting the $20,000–$30,000 range by the end of the decade through mass production and cheaper actuators — close to the price of a car."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "The Cost Curve Is Dropping",
-      "body": "In 2023 a humanoid robot cost over $200,000. By 2026 mass production has pushed prices below $30,000 — comparable to a mid-range car. Analysts project sub-$10,000 units within five years as volumes scale."
+      "heading": "Jobs, Safety & Ethics",
+      "body": "Economists debate whether humanoid robots will eliminate jobs or create new ones. Safety certification, liability when a robot injures someone, and data privacy in home environments are urgent regulatory questions with no settled answers yet."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "Ethical Questions We Must Answer",
-      "body": "As humanoids take on more roles, societies face hard questions: Which jobs should remain human? How do we retrain displaced workers? And how do we prevent emotional over-attachment to machines designed to seem human?"
+      "heading": "The Next Three Years",
+      "body": "Expect tens of thousands of units deployed in industrial settings by 2027, followed by pilot programs in hospitality and healthcare. Consumer models are still further out, but the roadmap is accelerating faster than most predicted."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "The Robot Decade Has Begun",
-      "body": "Humanoid robots are no longer science fiction — they are on factory floors, in care homes, and at our doorsteps. Staying informed and shaping policy now is the best way to ensure this technology works for everyone."
+      "heading": "The Robot Era Is Here",
+      "body": "Humanoid robots are no longer science fiction. Understanding their capabilities — and limits — puts you ahead of one of the defining technology shifts of the next decade."
     }
   ]
 }
