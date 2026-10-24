@@ -1,0 +1,66 @@
+{
+  "title": "Deep Sea Mining: The Race for Critical Minerals",
+  "theme_color": "#1a6b8a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Deep Sea Mining",
+      "body": "The Race for Critical Minerals Powering Our Clean Energy Future"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Why the Ocean Floor?",
+      "body": "The deep sea contains vast deposits of cobalt, nickel, manganese, and rare earth elements essential for EV batteries and renewable energy tech. Some estimates suggest the Pacific alone holds more cobalt than all land-based reserves combined."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Polymetallic Nodules",
+      "body": "These potato-sized rocks litter the abyssal plains at 4–6 km depth. Formed over millions of years, they're packed with nickel, copper, cobalt, and manganese. The Clarion-Clipperton Zone in the Pacific is the industry's prime target."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How Mining Would Work",
+      "body": "Robotic crawlers would vacuum nodules off the seafloor, pumping them to surface ships via long risers. The sediment-laden slurry is separated, the ore is shipped to refineries, and the wastewater — loaded with fine particles — is discharged back into the water column."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Environmental Stakes",
+      "body": "The deep sea is one of Earth's least understood biomes. Nodule fields host unique ecosystems that take centuries to recover from disturbance. Scientists have found species found nowhere else living on the nodules themselves — and many remain undiscovered."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Sediment Plume Problem",
+      "body": "Mining operations would generate massive sediment plumes spreading thousands of kilometers. These plumes can smother filter feeders, block sunlight for photosynthesis, and introduce toxic heavy metals into mid-water food webs far from the mining site."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Who Governs the Deep Sea?",
+      "body": "The International Seabed Authority (ISA), a UN body, regulates mining in international waters. Over 30 exploration licenses have been granted, but commercial extraction rules remain contested. Some nations argue for a moratorium until science catches up."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Industry vs. Conservation",
+      "body": "Companies like The Metals Company and state-backed ventures argue deep-sea mining avoids the human rights abuses of land-based cobalt mining in the DRC. Critics counter that we must first exhaust recycling, material substitution, and efficiency gains before opening the ocean floor."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Alternatives Being Developed",
+      "body": "Lithium-iron-phosphate batteries reduce cobalt dependence. Battery recycling rates are improving rapidly. Asteroid mining, urban mining from e-waste, and sodium-ion batteries could together reduce pressure on the seabed — but timelines are uncertain."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Decision for Our Generation",
+      "body": "Deep sea mining sits at the crossroads of energy transition and ecological preservation. The choices made now — before commercial operations begin — will define the future of the largest and least-known ecosystem on Earth."
+    }
+  ]
+}
