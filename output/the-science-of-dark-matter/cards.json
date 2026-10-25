@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Dark Matter",
+  "theme_color": "#1A0A2E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of\nDark Matter",
+      "body": "27% of the universe is made of something we cannot see, touch, or directly detect — yet its gravity holds galaxies together"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Universe We Can't See",
+      "body": "Ordinary matter — stars, planets, you — makes up only 5% of the universe. Dark matter accounts for 27% and dark energy 68%. Everything we have ever observed or touched is a tiny fraction of what actually exists."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "How We Know It Exists",
+      "body": "Astronomer Vera Rubin discovered in the 1970s that galaxies spin too fast for their visible mass to hold them together. Something invisible had to provide extra gravity. This 'missing mass' became known as dark matter."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Gravitational Lensing Reveals Its Shape",
+      "body": "Einstein's relativity predicts massive objects bend light. By mapping how light from distant galaxies curves around galaxy clusters, astronomers can map dark matter's distribution — like seeing the wind by watching leaves blow."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Bullet Cluster: Smoking Gun",
+      "body": "When two galaxy clusters collided 3.7 billion light-years away, hot gas slowed down but dark matter passed right through. This 2006 observation showed dark matter barely interacts with itself or ordinary matter — only with gravity."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "What Dark Matter Might Be",
+      "body": "The leading candidate is WIMPs — Weakly Interacting Massive Particles. Other candidates include axions (ultra-light particles), sterile neutrinos, and primordial black holes. Decades of experiments have yet to catch any of them."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The World's Most Sensitive Detectors",
+      "body": "Experiments like LUX-ZEPLIN run a mile underground to shield from cosmic noise, waiting for a WIMP to nudge an atom of liquid xenon. Despite detecting nothing, each non-detection narrows down what dark matter cannot be."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Dark Matter Builds the Universe",
+      "body": "Without dark matter, galaxies would never have formed. Its gravity seeded the early universe with clumps that attracted ordinary matter, creating the cosmic web of filaments and voids we see today in galaxy surveys."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Could It Be Something Else?",
+      "body": "Some physicists argue we should modify gravity instead of adding invisible matter — MOND (Modified Newtonian Dynamics). But the Bullet Cluster and cosmic structure data remain the strongest evidence that dark matter is real and separate from gravity."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Biggest Mystery in Physics",
+      "body": "Dark matter has evaded discovery for 50 years, yet its fingerprints are everywhere. Solving this mystery would rewrite physics, cosmology, and our place in the cosmos. The universe is stranger — and more exciting — than we imagined."
+    }
+  ]
+}
