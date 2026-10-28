@@ -1,66 +1,66 @@
 {
   "title": "Neuroplasticity: How Your Brain Rewires Itself",
-  "theme_color": "#6a1b9a",
+  "theme_color": "#2E86AB",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "Neuroplasticity",
-      "body": "How Your Brain Rewires Itself — and Why That Changes Everything"
+      "body": "How Your Brain Rewires Itself — and Why It Changes Everything"
     },
     {
       "slide_number": 2,
       "type": "content",
-      "heading": "The Old Myth: Fixed at Birth",
-      "body": "For most of the 20th century, scientists believed the adult brain was hardwired — neurons grew only in childhood and once lost, were gone forever. That assumption turned out to be completely wrong."
+      "heading": "What Is Neuroplasticity?",
+      "body": "Neuroplasticity is the brain's ability to reorganize itself by forming new neural connections throughout life. Unlike older beliefs that the brain was fixed after childhood, we now know it remains adaptable at any age."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "What Neuroplasticity Actually Means",
-      "body": "Neuroplasticity is the brain's ability to change its structure and function in response to experience. New neural connections form, existing ones strengthen or weaken, and in some regions, entirely new neurons grow throughout life."
+      "heading": "Neurons That Fire Together Wire Together",
+      "body": "When neurons activate simultaneously and repeatedly, their connections strengthen — a principle known as Hebbian learning. This is the fundamental mechanism behind how habits, skills, and memories are formed in the brain."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "Neurons That Fire Together, Wire Together",
-      "body": "Every time you repeat an action or thought, the synaptic connections involved get stronger — like a path worn into grass. This is Hebb's Rule, coined in 1949, and it's the core mechanism behind all learning and habit formation."
+      "heading": "Two Types of Plasticity",
+      "body": "Structural plasticity changes the brain's physical structure through new synapses and dendrite growth. Functional plasticity allows the brain to shift functions to undamaged areas — crucial for recovery after injury or stroke."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "The Brain After Injury",
-      "body": "Stroke patients who lose speech or movement can recover function as neighboring brain regions take over lost duties. This reorganization can happen even years after injury — proof that the adult brain never stops adapting."
+      "heading": "Learning Changes Your Brain",
+      "body": "Studies of London taxi drivers show their hippocampus (navigation center) grows significantly larger with experience. Musicians develop expanded motor and auditory cortices. Every new skill you learn physically reshapes your brain."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "Sleep Is When Rewiring Happens",
-      "body": "During deep sleep, the brain consolidates memories by replaying the day's experiences and pruning weak connections. Skimping on sleep doesn't just make you tired — it actively interferes with your brain's ability to learn and rewire."
+      "heading": "The Critical Period Myth",
+      "body": "While children's brains are especially plastic, adult brains retain strong remodeling capacity. Adults learning a new language, instrument, or sport still form new neural pathways — it just takes more repetition and deliberate practice."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "Exercise: The Brain's Best Drug",
-      "body": "Aerobic exercise triggers release of BDNF (brain-derived neurotrophic factor) — a protein that acts like fertilizer for neurons. Regular exercise measurably grows the hippocampus, the brain region central to memory and learning."
+      "heading": "Sleep: The Brain's Rewiring Hour",
+      "body": "During sleep, the brain consolidates the day's learning by replaying neural activity and pruning weak connections. Skipping sleep doesn't just make you tired — it actively prevents the neural rewiring that learning requires."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Meditation Changes Brain Structure",
-      "body": "MRI studies of long-term meditators show thicker cortical regions tied to attention and self-awareness. Even an 8-week mindfulness program produces measurable structural changes — the brain literally reshapes around what you practice."
+      "heading": "Exercise Supercharges Plasticity",
+      "body": "Aerobic exercise triggers the release of BDNF (brain-derived neurotrophic factor), a protein that promotes neuron growth and strengthens connections. Even 20 minutes of moderate exercise measurably boosts memory and learning capacity."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "The Dark Side: Bad Habits Wire In Too",
-      "body": "Neuroplasticity is neutral — it reinforces whatever you repeat. Addiction hijacks this system, carving deep grooves for craving. Chronic stress shrinks the prefrontal cortex. What you feed your brain grows stronger, for better or worse."
+      "heading": "Healing Through Neuroplasticity",
+      "body": "After strokes, traumatic brain injuries, or surgery, neuroplasticity allows the brain to reroute functions around damaged areas. Intensive rehabilitation therapy harnesses this process — the earlier and more consistent the effort, the greater the recovery."
     },
     {
       "slide_number": 10,
       "type": "closing",
-      "heading": "You Are Always Under Construction",
-      "body": "Your brain is not fixed — it is shaped by every thought, habit, and experience you repeat. That is both a scientific fact and an invitation: the brain you have today is not the only brain you can have."
+      "heading": "Your Brain Is Never Finished",
+      "body": "Every new experience, skill, and challenge literally sculpts your brain. Embrace learning, move your body, sleep well — and trust that real, physical change is happening inside your head every single day."
     }
   ]
 }
