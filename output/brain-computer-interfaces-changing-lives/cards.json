@@ -1,0 +1,66 @@
+{
+  "title": "Brain-Computer Interfaces: Changing Lives",
+  "theme_color": "#6C3DE8",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Brain-Computer Interfaces",
+      "body": "How technology is bridging the gap between the human mind and machines"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a BCI?",
+      "body": "A brain-computer interface (BCI) is a direct communication pathway between brain signals and an external device. It reads electrical activity from neurons and translates it into commands, allowing people to control computers, prosthetics, or robots purely with thought."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "How Brain Signals Are Captured",
+      "body": "Non-invasive BCIs use EEG caps placed on the scalp to measure brainwaves. Invasive implants, like Neuralink's N1 chip, are placed directly on or inside the brain cortex for far greater precision. Each method trades signal clarity for surgical risk."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Restoring Movement",
+      "body": "BCIs have enabled paralyzed patients to control robotic arms and move cursor on screens using thought alone. In 2024, a trial participant with ALS typed over 40 words per minute using only neural signals — faster than most people type on a phone."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Restoring Speech",
+      "body": "Researchers at UC San Francisco created a BCI that decodes attempted speech from motor cortex signals in real time. Patients who had lost the ability to speak were able to communicate through a synthesized voice avatar with a vocabulary of over 1,000 words."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Treating Neurological Disorders",
+      "body": "Deep brain stimulation (a form of BCI) already treats Parkinson's tremors in over 200,000 patients worldwide. Next-generation closed-loop BCIs can detect seizure onset and automatically deliver a counteracting pulse — effectively stopping epileptic events before they occur."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Consumer Frontier",
+      "body": "Consumer EEG headsets now let gamers control in-game actions with focus and relaxation levels. Companies are developing BCIs for productivity, allowing workers to switch apps or authorize actions with a mental command rather than a click — blurring the line between user and interface."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Ethical Challenges",
+      "body": "BCIs raise profound questions about mental privacy, data ownership, and cognitive liberty. Neural data is arguably the most intimate information imaginable. Who owns the data stream from your brain — you, the device maker, or your employer? Legal frameworks lag far behind the technology."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What's Coming Next",
+      "body": "Wireless, fully implantable BCIs with month-long battery life are in clinical trials. Bidirectional BCIs — which not only read but also write to the brain — could one day restore memories, deliver immersive sensations, or treat depression with pinpoint stimulation. The pace of progress is accelerating."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Mind-Machine Age Has Begun",
+      "body": "BCIs are moving from science fiction to the clinic to the consumer market. Whether healing paralysis, restoring voices, or redefining how we interact with computers, the implications are enormous — and the conversation about who controls this technology must happen now."
+    }
+  ]
+}
