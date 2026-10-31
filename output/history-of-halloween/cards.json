@@ -1,0 +1,66 @@
+{
+  "title": "The History of Halloween",
+  "theme_color": "#8B1A1A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The History of Halloween",
+      "body": "From ancient Celtic fire festivals to the world's most beloved spooky celebration"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Ancient Celtic Origins",
+      "body": "Halloween began as Samhain, a Celtic harvest festival marking the end of summer. Celts believed the boundary between the living and the dead dissolved on October 31st, allowing spirits to roam the earth."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Bonfires and Costumes",
+      "body": "Celts lit massive bonfires to ward off evil spirits and donned animal hides as disguises. Druids used the occasion to make prophecies about the winter ahead — a time of great uncertainty and danger."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Roman Influence",
+      "body": "When Rome conquered Celtic lands, Samhain merged with two Roman festivals: Feralia (honoring the dead) and a day celebrating Pomona, goddess of fruit and trees. This is why we bob for apples to this day."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Christian Transformation",
+      "body": "In 609 AD, the Catholic Church established All Saints' Day on November 1st. The evening before became 'All Hallows' Eve,' eventually shortened to Halloween. Church feasts absorbed many pagan traditions."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Jack-o'-Lanterns",
+      "body": "Irish legend tells of 'Stingy Jack,' a trickster who bargained with the Devil and was condemned to wander the earth with only a carved turnip for light. Irish immigrants brought this tradition to America, where pumpkins proved far easier to carve."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Trick-or-Treating",
+      "body": "Medieval 'souling' had the poor visiting homes for food in exchange for prayers for the dead. In America during the 1920s–1950s, trick-or-treating emerged as a community-wide custom to reduce Halloween mischief and bring neighborhoods together."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Halloween Goes Global",
+      "body": "What began as a Celtic tradition spread through the British Isles and then exploded across North America. Today, Halloween is celebrated in over 30 countries and generates more than $10 billion in spending in the US alone annually."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Modern Halloween",
+      "body": "From haunted houses and horror movies to elaborate costumes and themed parties, Halloween has evolved into a month-long cultural phenomenon. It is now the second-largest commercial holiday in the United States after Christmas."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Happy Halloween!",
+      "body": "Over 2,000 years of history — and every October 31st, the ancient tradition of embracing the mysterious, the spooky, and the unknown lives on. May your night be filled with more treats than tricks!"
+    }
+  ]
+}
