@@ -1,0 +1,66 @@
+{
+  "title": "How Undersea Cables Power the Global Internet",
+  "theme_color": "#1a6b8a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Invisible Backbone of the Internet",
+      "body": "99% of international data travels through cables on the ocean floor — not satellites"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "A Network Built Over 150 Years",
+      "body": "The first transatlantic telegraph cable was laid in 1858. Today, over 530 submarine cable systems span 1.3 million kilometers — enough to circle Earth 32 times. Each generation carries exponentially more data."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "How Data Travels Through Fiber",
+      "body": "Undersea cables use fiber-optic strands thinner than a human hair. Pulses of laser light encode data and travel at roughly 200,000 km/s. Repeaters amplify the signal every 50–150 km along the route."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "An Engineering Marvel Under Pressure",
+      "body": "Deep-sea cables are armored with steel wire, aluminum, and polyethylene to withstand crushing pressure and ocean currents. In shallow coastal zones, they're buried under the seabed to protect against ship anchors and fishing trawls."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Big Tech Now Owns the Infrastructure",
+      "body": "Google, Meta, Microsoft, and Amazon now fund and own a growing share of undersea cables. By 2025, hyperscalers funded over 30% of new cable capacity — shifting power from traditional telecom carriers to platform giants."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "When Cables Break, Continents Go Dark",
+      "body": "A single cut can disrupt internet for millions. In 2022, a volcanic eruption severed Tonga's only cable, isolating it for weeks. Earthquakes, ship anchors, and even shark bites are real threats to this critical infrastructure."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Geopolitics of the Ocean Floor",
+      "body": "Undersea cables have become a front in great-power competition. Nations debate who should own cables near rival shores, and military vessels now routinely monitor cable routes. A single cut near a chokepoint can affect dozens of countries."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Satellites vs. Cables: No Contest",
+      "body": "Starlink and LEO satellites offer last-mile coverage in remote areas, but they can't match fiber's bandwidth or latency at scale. For intercontinental bulk data — streaming, cloud, finance — undersea cables remain unmatched and will for decades."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Cable Ships That Keep Us Connected",
+      "body": "A fleet of around 60 specialized cable-laying and repair ships operates worldwide. Finding and fixing a break at 4,000 meters depth requires acoustic positioning, robotic submersibles, and months at sea — yet repairs typically complete within weeks."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Internet Runs Underwater",
+      "body": "Every email, video call, and financial transaction you make likely traveled across an ocean floor. Protecting this invisible infrastructure is one of the defining challenges of the connected age."
+    }
+  ]
+}
