@@ -1,0 +1,66 @@
+{
+  "title": "How the Brain Stores and Retrieves Memories",
+  "theme_color": "#5C6BC0",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How the Brain Stores and Retrieves Memories",
+      "body": "The hidden system that makes you who you are"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Memory Is Not a Recording",
+      "body": "Unlike a video camera, the brain doesn't store exact replicas of experiences. Each memory is reconstructed from fragments each time you recall it — meaning memories change slightly every time you remember them."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Three Types of Memory",
+      "body": "The brain uses three main systems: sensory memory (milliseconds), working memory (seconds to minutes), and long-term memory (days to decades). Each type relies on different brain regions and mechanisms."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Hippocampus: Memory's Gateway",
+      "body": "Located deep in the temporal lobe, the hippocampus converts short-term experiences into long-term memories through a process called consolidation. Damage to it — as seen in Alzheimer's — severely impairs the ability to form new memories."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Synaptic Plasticity: How Memories Form",
+      "body": "Memories are physically stored as changes in synaptic strength between neurons. When neurons fire together repeatedly, their connections strengthen — a process described by the phrase \"neurons that fire together, wire together.\""
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Sleep Is Critical for Memory",
+      "body": "During sleep, the hippocampus replays the day's events and transfers them to the cortex for long-term storage. Skipping sleep after learning can reduce memory retention by up to 40%, making rest as important as study."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Emotion Supercharges Memory",
+      "body": "The amygdala, which processes emotions, sits right next to the hippocampus. Emotional experiences trigger stronger synaptic changes, which is why you vividly remember your first day of school but forget last Tuesday's lunch."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Why We Forget",
+      "body": "Forgetting isn't a failure — it's a feature. The brain actively prunes unused connections to reduce clutter and improve retrieval efficiency. Interference from similar memories, stress hormones, and simple lack of reinforcement all accelerate forgetting."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "How to Improve Your Memory",
+      "body": "Spaced repetition (reviewing information at increasing intervals), retrieval practice (self-testing), adequate sleep, and physical exercise all measurably improve memory formation and retention. These aren't myths — they're backed by decades of neuroscience research."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "You Are Your Memories",
+      "body": "Memory shapes identity, enables learning, and connects us to our past. Understanding how it works — and how to protect it — is one of the most powerful investments you can make in your brain."
+    }
+  ]
+}
