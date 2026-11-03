@@ -1,0 +1,66 @@
+{
+  "title": "How Geothermal Energy Could Power the Future",
+  "theme_color": "#c0392b",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Geothermal Energy Could Power the Future",
+      "body": "Earth's internal heat is a vast, untapped energy source — and new drilling technology is finally unlocking it."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Geothermal Energy?",
+      "body": "Geothermal energy harnesses heat from deep within the Earth. The planet's core sits at over 5,000°C — nearly as hot as the Sun's surface. That heat flows steadily outward and is available 24/7, unlike solar or wind."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Traditional Geothermal Has Limits",
+      "body": "Classic geothermal plants require volcanic hotspots where heat is close to the surface — places like Iceland, Kenya, or California. This restricts deployment to just 10% of the world's landmass, leaving most countries unable to tap the technology."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Enhanced Geothermal Systems (EGS)",
+      "body": "EGS technology drills deep into hot dry rock, fractures it, then pumps water through to extract steam. This approach works almost anywhere on Earth — not just at tectonic hotspots — dramatically expanding the potential reach of geothermal power."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Drilling Breakthrough",
+      "body": "New plasma drilling and millimeter-wave boring technology can reach depths of 10–20 km at a fraction of previous costs. Startups like Quaise Energy are adapting the same millimeter-wave energy used in fusion research to vaporize rock faster than any conventional drill bit."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "A Staggeringly Large Resource",
+      "body": "The U.S. Department of Energy estimates that EGS could supply 90% of U.S. electricity demand. Globally, accessible geothermal energy is estimated at over 100 times current world energy consumption — it is effectively limitless on human timescales."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Always-On, Zero-Carbon Power",
+      "body": "Unlike solar panels that stop at night or wind turbines that idle on calm days, geothermal generates electricity continuously at over 90% capacity factor. This baseload reliability could solve the biggest challenge of a renewable grid: intermittency."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Repurposing Oil & Gas Infrastructure",
+      "body": "Thousands of decommissioned oil and gas wells sit at depths and temperatures ideal for geothermal extraction. Companies are retrofitting these wells, reusing existing pipelines and turbines. This slashes costs and gives fossil fuel workers a path into clean energy."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Challenges Still Ahead",
+      "body": "Deep EGS drilling is expensive, and induced seismicity — small earthquakes caused by fracturing rock — remains a concern in some regions. Regulatory frameworks are still catching up, and capital costs for first-of-a-kind projects deter investors without policy support."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Heat Is Always On",
+      "body": "Geothermal energy represents one of clean energy's most promising frontiers. With advancing drilling technology and growing investment, the ground beneath our feet could become the world's most reliable power source. The future may literally be underfoot."
+    }
+  ]
+}
