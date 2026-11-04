@@ -1,0 +1,66 @@
+{
+  "title": "Nuclear Fusion: The Energy of Stars, Finally on Earth",
+  "theme_color": "#C2410C",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Nuclear Fusion: The Energy of Stars, Finally on Earth",
+      "body": "How humanity cracked the hardest energy problem in history"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Nuclear Fusion?",
+      "body": "Fusion is the process that powers the Sun. Two hydrogen atoms are forced together to form helium, releasing enormous energy. Unlike fission (splitting atoms), fusion produces no long-lived radioactive waste and uses fuel found in ordinary seawater."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why It Took 70 Years",
+      "body": "To trigger fusion, plasma must reach 100 million degrees Celsius — hotter than the Sun's core. Containing that plasma without it touching any surface was an unsolved engineering challenge for seven decades. Scientists joked fusion was always '30 years away.'"
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Tokamak Breakthrough",
+      "body": "A tokamak uses powerful magnetic fields shaped like a donut to cage superheated plasma. The ITER project in France — a 35-nation collaboration — built the world's largest tokamak to prove sustained plasma confinement at scale is physically possible."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "NIF's Ignition Milestone",
+      "body": "In December 2022, the National Ignition Facility in California fired 192 lasers at a hydrogen pellet and got more energy out than the lasers put in — the first-ever fusion ignition. It proved the physics works; now engineering must catch up."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Private Companies Enter the Race",
+      "body": "Startups like Commonwealth Fusion Systems, Helion Energy, and TAE Technologies have raised billions betting they can reach commercial fusion faster than government labs. Commonwealth's high-temperature superconducting magnets achieved a world record 20 tesla field in 2021, compressing timelines dramatically."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "How Fusion Fuel Is Nearly Limitless",
+      "body": "Fusion reactors will burn deuterium (extracted from seawater) and tritium (bred from lithium). One bathtub of seawater contains enough deuterium to equal the energy of 300 liters of gasoline. Earth's oceans could fuel fusion civilization for billions of years."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Safety: No Meltdowns, No Chain Reactions",
+      "body": "A fusion reactor cannot melt down. If the plasma loses confinement for even a millisecond, the reaction simply stops. There is no runaway chain reaction, no uranium, and the half-life of activated structural materials is decades — not millennia."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What the Grid Could Look Like",
+      "body": "A single commercial fusion plant could supply electricity for 1 million homes around the clock with zero carbon emissions. Unlike solar and wind, fusion is always on. Analysts project first commercial plants connecting to grids in the mid-2030s, with rapid scaling through the 2040s."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Age of Fusion Is Coming",
+      "body": "After 70 years of research, the physics is proven, the private capital is flowing, and the engineering is on track. Fusion may be the last energy source humanity ever needs to discover. The stars are closer than ever."
+    }
+  ]
+}
