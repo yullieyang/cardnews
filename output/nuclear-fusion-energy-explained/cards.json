@@ -1,0 +1,66 @@
+{
+  "title": "Nuclear Fusion Energy Explained",
+  "theme_color": "#E84A5F",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Nuclear Fusion Energy",
+      "body": "The power that fuels the stars — and humanity's cleanest energy hope"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Fusion?",
+      "body": "Fusion is the process of combining two light atomic nuclei — usually hydrogen isotopes — into a heavier one, releasing enormous amounts of energy. It's the same reaction that powers the Sun and all stars in the universe."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Fusion vs. Fission",
+      "body": "Fission splits heavy atoms (like uranium) apart, while fusion joins light atoms together. Fusion produces far more energy per unit of fuel and generates no long-lived radioactive waste, making it vastly cleaner than fission-based nuclear power."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Fuel: Hydrogen Isotopes",
+      "body": "The most practical fusion reaction uses deuterium and tritium — two isotopes of hydrogen. Deuterium is extracted from seawater, making it virtually limitless. Tritium is rarer, but can be bred from lithium inside the reactor itself."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Challenge: Extreme Heat",
+      "body": "To fuse, nuclei must overcome their natural repulsion at temperatures exceeding 100 million °C — hotter than the Sun's core. Achieving and sustaining this plasma state is one of the greatest engineering challenges in history."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Tokamaks: Magnetic Cages",
+      "body": "The leading reactor design is the tokamak, which uses powerful magnetic fields to contain the superheated plasma in a donut-shaped chamber. ITER in France — the world's largest — is currently under construction and will produce 500 MW from just 50 MW of input."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The 2022 Ignition Milestone",
+      "body": "In December 2022, the National Ignition Facility in California achieved ignition — a fusion reaction that produced more energy than the laser energy delivered to the target. It was the first time in history that fusion energy output exceeded input."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Private Sector Race",
+      "body": "Over 40 private companies are now racing to commercialize fusion, backed by billions in investment. Companies like Commonwealth Fusion Systems and TAE Technologies aim to have demonstration plants online in the early 2030s — decades ahead of earlier timelines."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Why It Matters for Climate",
+      "body": "A working fusion power plant would produce zero carbon emissions, virtually unlimited fuel from seawater, and far less radioactive waste than fission. It could supply baseload power 24/7 — solving the intermittency problem of solar and wind."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Fusion Future",
+      "body": "After 70 years of research, fusion energy is closer than ever. With both public megaprojects and agile private ventures pushing the frontier, the dream of clean, unlimited power may finally be within reach this generation."
+    }
+  ]
+}
