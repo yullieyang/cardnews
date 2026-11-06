@@ -1,0 +1,66 @@
+{
+  "title": "How AI Is Revolutionizing Weather Forecasting",
+  "theme_color": "#1a6fbf",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How AI Is Revolutionizing Weather Forecasting",
+      "body": "From 10-day forecasts to hurricane paths — machine learning is rewriting what's possible"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Old Way: Physics-Based Models",
+      "body": "Traditional weather forecasts run equations that simulate Earth's atmosphere at thousands of grid points. These numerical weather prediction (NWP) models require massive supercomputers and take hours to generate a single forecast."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "AI Enters the Forecast Room",
+      "body": "Models like Google's GraphCast and Huawei's Pangu-Weather learn directly from 40+ years of historical weather data. Instead of solving physics equations, they learn patterns — and do it in minutes, not hours."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "GraphCast: A 10-Day Forecast in 60 Seconds",
+      "body": "DeepMind's GraphCast outperformed the world's best traditional model (ECMWF) on 90% of test metrics. It runs on a single Google TPU and delivers a 10-day global forecast roughly 1,000x faster than conventional methods."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Better Hurricane Track Predictions",
+      "body": "AI models have shown measurably better accuracy at predicting tropical storm tracks 3–7 days out. More precise paths give coastal communities longer, better-targeted evacuation windows — a direct life-saving advantage."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Hyperlocal Forecasting",
+      "body": "Traditional models struggle below roughly 10 km resolution. AI downscaling can generate street-level predictions from coarse global data, enabling city-by-city flash flood alerts and minute-by-minute precipitation maps."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Extreme Weather in a Warming World",
+      "body": "Climate change is producing weather outside the range of historical training data — a known weakness for AI models. Researchers are blending physics constraints into neural networks to keep predictions reliable even in novel conditions."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Democratization of Forecasting",
+      "body": "Because AI models run on a single GPU instead of a room full of supercomputers, smaller nations and research groups can now produce world-class forecasts. The barrier to high-quality weather prediction has collapsed."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Humans Still in the Loop",
+      "body": "Operational meteorologists verify AI output, catch edge cases, and communicate risk to the public. The best forecasting systems today combine AI speed with human expertise — neither alone beats the two working together."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Future of Forecasting",
+      "body": "AI won't replace meteorology — it will supercharge it. Faster, cheaper, and more accurate predictions mean better-prepared communities, smarter energy grids, and lives saved when every hour of warning counts."
+    }
+  ]
+}
