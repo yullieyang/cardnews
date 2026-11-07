@@ -1,0 +1,66 @@
+{
+  "title": "Brain-Computer Interfaces: The Next Frontier",
+  "theme_color": "#5B2D8E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Brain-Computer Interfaces",
+      "body": "How humans are learning to control machines with thought alone"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is a BCI?",
+      "body": "A brain-computer interface (BCI) is a direct communication pathway between the brain's electrical activity and an external device. It reads neural signals, decodes them, and translates them into commands — no muscles required."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "How the Brain Sends Signals",
+      "body": "Neurons communicate through electrical impulses called action potentials. BCIs detect these signals using electrodes placed on the scalp (non-invasive) or implanted directly in brain tissue (invasive). The closer the electrode, the cleaner the signal."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Non-Invasive vs. Invasive",
+      "body": "EEG headsets sit on the scalp and are safe but noisy. Implanted microelectrode arrays like Utah Arrays offer millimeter precision but require surgery. The tradeoff is always comfort vs. signal fidelity."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Restoring Movement & Speech",
+      "body": "BCI implants have enabled paralyzed patients to type, move robotic arms, and even restore synthetic speech. In 2023, researchers decoded full sentences from brain signals at near-conversational speed — a breakthrough for ALS patients."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Neuralink & The Commercial Race",
+      "body": "Neuralink's N1 chip, implanted in its first human in 2024, demonstrated cursor control using only thought. Dozens of startups and research labs are now competing to miniaturize, improve bandwidth, and reduce surgical risk."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Beyond Medicine: Consumer BCIs",
+      "body": "Non-invasive consumer devices can already detect focus, stress, and fatigue. Future applications include hands-free AR/VR control, thought-driven smart home interfaces, and adaptive software that responds to your mental state in real time."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Big Challenges Ahead",
+      "body": "Long-term implants face scar tissue buildup that degrades signal quality over months. Wireless data rates need to scale massively. And decoding complex, multi-dimensional thoughts remains far harder than decoding simple motor commands."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Ethics & Privacy",
+      "body": "Neural data is the most intimate data imaginable. Who owns your thoughts? Can employers or insurers access BCI data? Researchers are calling for 'neurorights' legislation before the technology outpaces the law."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Mind-Machine Era Is Here",
+      "body": "BCIs are moving from science fiction to clinical reality. The next decade will decide whether this technology liberates people with disabilities — or reshapes what it means to be human."
+    }
+  ]
+}
