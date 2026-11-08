@@ -1,0 +1,66 @@
+{
+  "title": "Optogenetics: Controlling Brain Cells with Light",
+  "theme_color": "#6C3FC8",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Optogenetics: Controlling Brain Cells with Light",
+      "body": "A Nobel-worthy technique that lets scientists switch neurons on and off using pulses of light — and is rewriting our understanding of the brain."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Optogenetics?",
+      "body": "Optogenetics combines optics and genetics to control specific neurons with millisecond precision. Scientists genetically engineer cells to express light-sensitive proteins called opsins, then illuminate them with colored light to activate or silence them on command."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Discovery That Made It Possible",
+      "body": "In 2002, biologists discovered channelrhodopsin in green algae — a protein that opens an ion channel when hit with blue light. Karl Deisseroth and Edward Boyden adapted it for mammalian neurons in 2005, sparking the entire field of optogenetics."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How the Light Switch Works",
+      "body": "A virus delivers the opsin gene into target neurons. A thin optical fiber is then implanted nearby. When blue light pulses (channelrhodopsin), the neuron fires. When yellow-orange light hits halorhodopsin, the neuron is silenced. The switch happens in under a millisecond."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Mapping Memory and Behavior",
+      "body": "Optogenetics lets researchers activate specific neural circuits and watch exactly which behaviors emerge. Scientists have used it to implant false memories in mice, turn fear on and off, and identify the precise neurons responsible for hunger, addiction, and reward."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Unlocking the Secrets of Disease",
+      "body": "By selectively activating or blocking circuits, researchers are pinpointing what goes wrong in Parkinson's, depression, epilepsy, and OCD. Optogenetics revealed that Parkinson's tremors originate from abnormal firing patterns in the basal ganglia, paving the way for targeted therapies."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Restoring Vision: The First Human Trials",
+      "body": "In 2021, a blind patient partially regained vision after optogenetic therapy injected opsins into retinal cells. Wearing special amber-tinted goggles that convert images to light pulses, he could detect cups and crossing stripes — the first optogenetic sensory restoration in humans."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Beyond the Brain: Body-Wide Applications",
+      "body": "Researchers are applying optogenetics to cardiac cells to control heart rhythm without electrical shock, to spinal cord neurons to restore movement after injury, and to immune cells to dial inflammation up or down — turning it into a platform technology across medicine."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Challenges on the Road to Clinical Use",
+      "body": "Getting light deep into living tissue is hard — it scatters within millimeters. Viral delivery can trigger immune responses. And opsins must be expressed only in target cells, not neighbors. Engineers are developing near-infrared opsins and wireless micro-LEDs to solve these barriers."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Light Is the New Scalpel",
+      "body": "Optogenetics has already transformed neuroscience research and is edging toward the clinic. By writing in the language of light that neurons speak, we may finally treat the brain's most stubborn disorders — not with blunt chemicals, but with pinpoint precision."
+    }
+  ]
+}
