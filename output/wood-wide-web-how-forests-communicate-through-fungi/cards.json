@@ -1,0 +1,66 @@
+{
+  "title": "The Wood Wide Web: How Forests Communicate Through Fungi",
+  "theme_color": "#2E7D32",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Wood Wide Web",
+      "body": "Beneath your feet, forests are having conversations — through a hidden fungal internet that has existed for 400 million years."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What is the Mycorrhizal Network?",
+      "body": "Mycorrhizal fungi form symbiotic partnerships with tree roots, weaving a vast underground web of thread-like structures called hyphae. A single teaspoon of forest soil can contain several kilometers of these fungal threads."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "A Mutually Beneficial Trade",
+      "body": "Trees supply fungi with sugars produced by photosynthesis — up to 30% of a tree's sugar output. In return, fungi dramatically expand the tree's ability to absorb water and minerals, especially phosphorus and nitrogen, from the soil."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Sharing Resources Across the Forest",
+      "body": "Trees don't just trade with their own fungal partner — the network connects hundreds of trees together. Carbon, water, and nutrients flow between trees, with older \"mother trees\" channeling resources toward struggling seedlings in the shade."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Chemical Warnings Sent Underground",
+      "body": "When a tree is attacked by insects or disease, it sends chemical distress signals through the network. Neighboring trees receive these signals and begin producing defensive compounds, preparing for the threat before it arrives."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Hub Trees: The Nodes of the Network",
+      "body": "Ecologist Suzanne Simard discovered that some large, old trees act as network hubs, connected to dozens or hundreds of other trees. These \"mother trees\" play an outsized role in forest resilience — their removal can destabilize entire networks."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "400 Million Years of Partnership",
+      "body": "The fossil record shows mycorrhizal fungi partnering with plants as far back as 407 million years ago — possibly enabling early plants to colonize land at all. This ancient alliance is one of the most consequential in the history of life on Earth."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Fungi Also Compete and Manipulate",
+      "body": "The network isn't purely cooperative. Fungi compete fiercely with each other for tree partners, and can redirect resources in ways that favor themselves. Some parasitic plants even tap the network to steal sugars from neighboring trees without giving anything back."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Implications for Conservation and Forestry",
+      "body": "Industrial clear-cutting destroys mycorrhizal networks that took centuries to build. New forestry practices now aim to preserve network hubs and soil structure so replanted forests can reconnect faster — dramatically improving their survival and growth rates."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Forest is Never Alone",
+      "body": "What looks like a collection of individual trees is really one deeply interconnected community. Understanding the wood wide web is changing how we think about forests — and how we protect them."
+    }
+  ]
+}
