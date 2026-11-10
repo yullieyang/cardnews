@@ -1,0 +1,66 @@
+{
+  "title": "The Future of Nuclear Fusion Energy",
+  "theme_color": "#E84393",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Future of Nuclear Fusion Energy",
+      "body": "The power of the stars, finally within our reach"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Nuclear Fusion?",
+      "body": "Fusion is the process that powers the sun — fusing hydrogen atoms together at extreme temperatures to release enormous amounts of energy. Unlike fission, it produces no long-lived radioactive waste and uses fuel from seawater."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The 70-Year Quest",
+      "body": "Scientists have been chasing fusion since the 1950s, famously joked to be '30 years away' for decades. The challenge: containing plasma hotter than the sun's core long enough to get more energy out than you put in."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The ITER Milestone",
+      "body": "ITER, the international fusion megaproject in France, represents a $22 billion collaboration of 35 nations. It aims to demonstrate 10x energy gain (Q=10), proving fusion can be a viable power source once and for all."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Private Race Heats Up",
+      "body": "Companies like Commonwealth Fusion Systems, TAE Technologies, and Helion Energy have raised billions to build compact fusion reactors. CFS's high-temperature superconducting magnets achieved a world record in 2021, compressing the timeline dramatically."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "NIF's Historic Ignition",
+      "body": "In December 2022, the National Ignition Facility achieved fusion ignition — producing more energy from fusion than the laser energy delivered. It was a landmark proof of concept, though the total system efficiency still needs major improvement."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Fuel Is Everywhere",
+      "body": "Fusion uses deuterium (from ocean water) and tritium (bred from lithium). The deuterium in one bathtub of seawater holds the energy equivalent of 300 liters of gasoline. Earth's oceans could power civilization for millions of years."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Why It's Not Here Yet",
+      "body": "Plasma must reach 100 million°C and be held stable long enough to generate net energy at scale. Engineering challenges include plasma instabilities, neutron-resistant materials, and efficient tritium breeding — all active areas of research."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The 2030s: A Turning Point",
+      "body": "Multiple private companies are targeting pilot plant demonstrations in the early 2030s. If even one succeeds, it could unlock a new energy era — clean, virtually limitless power with no carbon emissions and minimal waste."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Star on Earth",
+      "body": "Fusion has been the dream of a generation of scientists. With breakthroughs accelerating, it may finally become the reality that powers the next one. The question is no longer if — but when."
+    }
+  ]
+}
