@@ -1,0 +1,66 @@
+{
+  "title": "How Quantum Entanglement Works",
+  "theme_color": "#5B2D8E",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Quantum Entanglement Works",
+      "body": "Einstein called it 'spooky action at a distance' — here's why he was both right and wrong"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Quantum Entanglement?",
+      "body": "When two particles interact in certain ways, they become linked — or entangled. Measuring one particle instantly determines the state of the other, no matter how far apart they are."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Superposition: The Setup",
+      "body": "Before measurement, a quantum particle exists in multiple states simultaneously — this is called superposition. A photon can be both horizontally and vertically polarized at the same time, until observed."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How Entanglement Is Created",
+      "body": "Scientists create entangled pairs by shooting photons through special crystals or cooling atoms to near absolute zero. The particles share a quantum state that cannot be described independently of each other."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Measurement Paradox",
+      "body": "When you measure one entangled particle, its twin instantly 'knows' the result — even across vast distances. In 2022, researchers confirmed this over 1,200 km using satellite-based experiments."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Why It Doesn't Break Physics",
+      "body": "Entanglement cannot transmit information faster than light. The result of each measurement is random — you can only compare notes after the fact using classical (slow) communication. No loophole for FTL signals."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Bell's Theorem: Proof It's Real",
+      "body": "John Bell devised a test in 1964 to distinguish true quantum weirdness from hidden variables. Every experiment since has confirmed: nature is genuinely non-local. The 2022 Nobel Prize in Physics honored this work."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Quantum Computing Applications",
+      "body": "Entanglement is the core resource in quantum computing. Qubits that share entangled states can process exponentially more information in parallel, powering algorithms that classical computers cannot match."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Quantum Cryptography & Teleportation",
+      "body": "Entanglement enables quantum key distribution (QKD) — encryption that is physically unbreakable. Quantum teleportation uses entanglement to transfer quantum states (not matter) between locations with perfect fidelity."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Quantum Future Is Now",
+      "body": "From unhackable internet to trillion-operation quantum computers, entanglement is transforming technology. The universe is stranger than we imagined — and that strangeness is our greatest engineering tool."
+    }
+  ]
+}
