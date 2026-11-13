@@ -1,0 +1,66 @@
+{
+  "title": "The Psychology of Decision Fatigue",
+  "theme_color": "#4A6FA5",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Psychology of Decision Fatigue",
+      "body": "Why making too many choices leaves your brain drained — and what to do about it"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Decision Fatigue?",
+      "body": "Decision fatigue is the mental exhaustion that sets in after making many choices. Research shows that the quality of our decisions deteriorates the more choices we make throughout the day — even simple ones add up."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Judge's Ruling Effect",
+      "body": "A landmark study found that Israeli parole judges granted parole ~65% of the time early in the morning, dropping to nearly 0% right before a break. After eating, approval rates reset to 65%. The only variable was mental depletion."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Your Brain's Limited Fuel",
+      "body": "The prefrontal cortex — your decision-making hub — consumes significant glucose. As blood sugar and mental resources dip, your brain defaults to easier, often impulsive shortcuts rather than careful reasoning."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The 35,000 Daily Decisions",
+      "body": "Adults make an estimated 35,000 decisions per day, from trivial (what to wear) to critical (career moves). Most are unconscious, but each one still draws on a finite reservoir of cognitive energy."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "How It Manifests",
+      "body": "Decision fatigue shows up as procrastination, impulsive choices, decision avoidance, and poor self-control. Retail stores exploit this — placing tempting items near checkout lines because shoppers are mentally worn down after a long browse."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "High-Stakes Victims",
+      "body": "CEOs, surgeons, judges, and parents are especially vulnerable. Studies show surgical errors increase in afternoon hours, and executives make riskier financial decisions later in the day — not from bad character, but from depleted willpower."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Obama Wardrobe Rule",
+      "body": "Barack Obama wore only gray or blue suits to eliminate clothing decisions. Steve Jobs's black turtleneck served the same purpose. By automating trivial choices, they preserved cognitive resources for decisions that actually mattered."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Strategies to Fight It",
+      "body": "Schedule important decisions in the morning. Reduce daily choice points by routinizing meals, clothing, and commutes. Take real breaks with food and rest. Use decision frameworks or checklists to offload mental effort to a system."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Guard Your Decision Energy",
+      "body": "Your willpower is a finite resource — spend it wisely. Automate the trivial, prioritize the important, and rest between big choices. Better decisions start with knowing when your brain needs a break."
+    }
+  ]
+}
