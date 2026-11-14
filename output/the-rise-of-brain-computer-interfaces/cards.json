@@ -1,0 +1,66 @@
+{
+  "title": "The Rise of Brain-Computer Interfaces",
+  "theme_color": "#6C3FC5",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Rise of Brain-Computer Interfaces",
+      "body": "How humans are learning to control technology with their minds"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What is a BCI?",
+      "body": "A brain-computer interface (BCI) is a direct communication pathway between the brain's electrical activity and an external device. It reads neural signals and translates them into commands a computer can execute — no hands, no voice required."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "How Does It Actually Work?",
+      "body": "Electrodes placed on or inside the brain detect electrical impulses fired by neurons. Algorithms decode these patterns in real time, mapping specific thoughts or intentions to specific actions. The more the system is used, the more accurate it becomes."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Non-Invasive vs. Invasive BCIs",
+      "body": "EEG headsets sit on the scalp and are safe but imprecise. Invasive chips, like those implanted inside the skull, capture far richer signals with much greater accuracy. The trade-off is surgical risk versus performance."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Restoring Movement & Communication",
+      "body": "BCIs have already helped paralyzed patients type text, move robotic arms, and walk again via exoskeletons. Patients with ALS are using neural implants to communicate at speeds close to natural speech — a life-changing breakthrough."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Memory, Learning & Enhancement",
+      "body": "Research teams are exploring BCIs that can strengthen memory formation by stimulating the hippocampus at the right moment. Future systems could accelerate skill learning, treat depression, or even let people share sensations directly."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "The Big Players Racing Ahead",
+      "body": "Neuralink, Synchron, Precision Neuroscience, and academic labs worldwide are competing to miniaturize implants and improve longevity. Synchron's Stentrode — inserted via a blood vessel — avoids open-brain surgery entirely."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Privacy & Ethical Red Flags",
+      "body": "Brain data is the most intimate data imaginable. Experts warn about neural surveillance, coerced consent, and a future where employers or governments could access thought patterns. Regulation is still far behind the technology."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "How Soon Will BCIs Go Mainstream?",
+      "body": "Medical BCIs for severe disabilities are already here. Consumer-grade devices for focus and gaming are still coarse, but improving fast. Most neuroscientists expect broadly capable, minimally invasive implants within the next decade."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Mind-Machine Frontier",
+      "body": "BCIs could be the most transformative technology since the smartphone — rewriting how humans interact with digital systems, treat disease, and even experience consciousness itself. The future is literally in your head."
+    }
+  ]
+}
