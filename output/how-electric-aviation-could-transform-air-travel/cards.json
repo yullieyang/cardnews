@@ -1,0 +1,66 @@
+{
+  "title": "How Electric Aviation Could Transform Air Travel",
+  "theme_color": "#1b5e8a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Electric Aviation Could Transform Air Travel",
+      "body": "Aviation accounts for 2.5% of global CO₂ emissions. A new wave of electric and hydrogen aircraft is now challenging the jet age — here's how it works."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "Why Aviation Is So Hard to Decarbonize",
+      "body": "Unlike cars, planes can't just swap fuel for batteries. Jet fuel packs roughly 40 times more energy per kilogram than today's best lithium-ion cells. Flying 200 passengers across the Atlantic demands enormous energy in an extremely weight-sensitive machine."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Electric Planes: What's Flying Today",
+      "body": "Battery-electric aircraft are already operating on short routes. Harbour Air in Canada runs an all-electric floatplane on 30-minute hops. Heart Aerospace's ES-30 regional jet, with 30 seats and a 200 km range, is targeting commercial entry by 2028."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Battery Problem",
+      "body": "Current batteries achieve about 250 Wh/kg. Aviation needs around 800 Wh/kg to match jet-fuel range for larger aircraft. Solid-state batteries, now in rapid development, could break that threshold by the early 2030s — that's the tipping point the industry is waiting for."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Hybrid-Electric: The Bridge Technology",
+      "body": "Hybrid-electric planes use a mix of electric motors and conventional turbines, reducing fuel burn by 30–50%. Rolls-Royce and Airbus are both developing hybrid regional aircraft. This approach lets airlines cut emissions now without waiting for next-gen batteries."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Hydrogen Aviation Takes Off",
+      "body": "Hydrogen is three times more energy-dense than jet fuel by weight. Airbus's ZEROe program aims to put a hydrogen-powered commercial aircraft in service by 2035. The main challenges are storing ultra-cold liquid hydrogen safely and building airport refueling infrastructure."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Electric Vertical Takeoff: The eVTOL Boom",
+      "body": "Air taxis (eVTOLs) are the fastest-moving segment of electric aviation. Companies like Joby Aviation and Archer are receiving FAA certification for urban air mobility. These multi-rotor electric aircraft could replace short car trips in congested cities within years."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Noise, Cost, and Efficiency Gains",
+      "body": "Electric motors are significantly quieter than jet engines — a major advantage for urban routes near residential areas. They are also mechanically simpler with fewer moving parts, lowering maintenance costs. Electricity is cheaper per mile than jet fuel, improving airline economics."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Route Math: Short Hops First",
+      "body": "About 50% of aviation emissions come from flights under 1,500 km. Electric and hydrogen technology is maturing fastest for exactly these routes. Electrifying short-haul travel alone would cut aviation's climate impact in half — without changing long-haul at all."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Sky Is Changing",
+      "body": "Electric aviation won't replace the 747 overnight, but the short-haul revolution has already begun. As batteries improve and hydrogen infrastructure grows, the jet age will gradually give way to something cleaner, quieter, and cheaper to fly."
+    }
+  ]
+}
