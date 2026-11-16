@@ -1,0 +1,66 @@
+{
+  "title": "How AI Drug Discovery is Changing Medicine",
+  "theme_color": "#1a6b8a",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How AI Drug Discovery is Changing Medicine",
+      "body": "From years to months: the AI revolution reshaping how we find cures"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "The Old Way Was Painfully Slow",
+      "body": "Traditional drug discovery takes 10–15 years and costs over $2 billion per drug. Scientists manually screen millions of compounds hoping to find one that works, with a 90% failure rate in clinical trials."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "AI Can Screen Billions of Molecules Instantly",
+      "body": "AI models trained on vast chemical databases can predict how molecules interact with disease targets in seconds. What once required years of lab work can now be simulated computationally, narrowing millions of candidates to hundreds."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "AlphaFold Changed Everything",
+      "body": "DeepMind's AlphaFold cracked the 50-year-old protein folding problem in 2021, predicting the 3D shape of virtually every known protein. Understanding protein structure is essential to designing drugs that bind and block disease-causing molecules."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Real Drugs Are Already in Trials",
+      "body": "Insilico Medicine used AI to design a drug for idiopathic pulmonary fibrosis in just 18 months — a process that normally takes 4–5 years. It entered Phase II clinical trials in 2023, marking a historic milestone for AI-designed medicines."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Generative AI Designs New Molecules",
+      "body": "Beyond screening existing compounds, generative AI models can create entirely novel molecules optimized for specific targets, safety profiles, and manufacturing constraints — drugs that have never existed before in nature or chemistry."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Personalized Medicine Becomes Possible",
+      "body": "AI can analyze a patient's genetic data, medical history, and biomarkers to predict which existing drugs will work best for them. This reduces trial-and-error prescribing, cutting side effects and improving outcomes dramatically."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Tackling Rare and Neglected Diseases",
+      "body": "AI lowers the cost barrier for researching diseases that affect small populations or occur mainly in low-income countries, where traditional economics made drug development unviable. Companies can now pursue these targets with far smaller budgets."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Challenges Still Remain",
+      "body": "AI predictions must still be validated in real biological systems — cells, animals, and humans. Regulatory frameworks are catching up with the technology, and bias in training data can lead to drugs that work less well for underrepresented populations."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A New Era of Medicine is Here",
+      "body": "AI won't replace scientists, but it will make them dramatically more powerful. The drugs that cure tomorrow's cancers, pandemics, and rare diseases may already be taking shape inside a neural network — waiting to be discovered."
+    }
+  ]
+}
