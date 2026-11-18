@@ -1,0 +1,66 @@
+{
+  "title": "The Science of Senolytics",
+  "theme_color": "#2E86AB",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Science of Senolytics",
+      "body": "How clearing zombie cells from your body could slow aging and extend a healthy life"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Are Senescent Cells?",
+      "body": "Senescent cells are damaged cells that stop dividing but refuse to die. Nicknamed 'zombie cells,' they linger in your tissues, resisting the body's normal cleanup signals and accumulating with age."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why Zombie Cells Are Dangerous",
+      "body": "Senescent cells secrete a toxic cocktail of inflammatory proteins called the SASP (Senescence-Associated Secretory Phenotype). This chronic inflammation drives arthritis, heart disease, diabetes, and cognitive decline — the hallmarks of aging."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Senolytic Breakthrough",
+      "body": "Senolytics are drugs or compounds that selectively kill senescent cells while leaving healthy cells unharmed. The first senolytics — dasatinib and quercetin — were discovered by researchers at Mayo Clinic in 2015, sparking a new field of aging research."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How Senolytics Target Zombie Cells",
+      "body": "Senescent cells survive by hijacking anti-apoptosis pathways — the same survival circuits used by cancer cells. Senolytics block these pathways, forcing the zombie cells to finally self-destruct through programmed cell death."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Stunning Results in Animal Studies",
+      "body": "In mice, periodic senolytic treatment extended median lifespan by 25–36%, improved physical function, and reduced age-related diseases. Mice treated late in life still showed dramatic health improvements, suggesting the approach works even after aging has begun."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Early Human Clinical Trials",
+      "body": "Phase 1 and 2 trials in humans show promise for conditions like idiopathic pulmonary fibrosis, diabetic kidney disease, and osteoarthritis. Patients show measurable reductions in senescent cell burden and SASP markers after short treatment courses."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Natural Senolytics: What You Can Take Now",
+      "body": "Quercetin (found in onions, capers, and apples) and fisetin (found in strawberries) show senolytic activity in lab studies. While not as potent as pharmaceutical senolytics, they represent the first accessible dietary tools in this space."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Challenges and Open Questions",
+      "body": "Not all senescent cells are harmful — some play roles in wound healing and tumor suppression. Scientists are racing to develop more targeted senolytics that spare beneficial senescent cells, and to identify biomarkers that measure treatment success."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A New Frontier in Longevity",
+      "body": "Senolytics represent one of the most promising strategies in aging science — treating aging itself as a treatable condition, not an inevitable fate. The coming decade of clinical trials will reveal whether clearing zombie cells can truly extend healthy human life."
+    }
+  ]
+}
