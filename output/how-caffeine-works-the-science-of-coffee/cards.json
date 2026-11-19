@@ -1,0 +1,66 @@
+{
+  "title": "The Science Behind Caffeine",
+  "theme_color": "#6B3A2A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Caffeine Wakes You Up",
+      "body": "The fascinating neuroscience behind your morning coffee"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Caffeine?",
+      "body": "Caffeine is a naturally occurring stimulant found in coffee, tea, cacao, and over 60 plant species. It belongs to a class of compounds called xanthines and is the world's most widely consumed psychoactive substance."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Adenosine Problem",
+      "body": "Throughout the day, your brain produces adenosine — a chemical that builds up and makes you feel sleepy. Adenosine binds to receptors in your brain, gradually slowing neural activity and signaling that it's time to rest."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Caffeine's Clever Trick",
+      "body": "Caffeine molecules are structurally similar to adenosine. They sneak into the same receptors and block adenosine from binding — without triggering the sleep signal. The result: your brain stops receiving the \"you're tired\" message."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "The Dopamine Surge",
+      "body": "With adenosine blocked, dopamine and norepinephrine activity increases. These neurotransmitters boost alertness, mood, and motivation. This is why caffeine doesn't just wake you up — it can make you feel genuinely good."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "How Fast Does It Work?",
+      "body": "Caffeine enters your bloodstream within 15 minutes of drinking coffee and peaks in concentration after 30–60 minutes. Its half-life is about 5–6 hours, meaning half of that afternoon cup is still active at midnight."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Tolerance and Dependence",
+      "body": "Regular caffeine consumption causes your brain to grow more adenosine receptors to compensate. Over time, you need more caffeine to feel the same effect. Stopping suddenly leads to withdrawal: headaches, fatigue, and irritability."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Crash Explained",
+      "body": "When caffeine wears off, all the adenosine that accumulated while it was blocking receptors floods back in at once. This sudden surge causes the dreaded afternoon crash — often worse than if you hadn't had caffeine at all."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Is Caffeine Good for You?",
+      "body": "Moderate caffeine intake (200–400 mg/day) is associated with reduced risk of Parkinson's disease, type 2 diabetes, and cognitive decline. However, too much disrupts sleep, raises anxiety, and can spike blood pressure in sensitive individuals."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Drink Smarter",
+      "body": "Caffeine is a powerful tool — not just a habit. Time your intake before the adenosine buildup peaks, avoid it within 6 hours of bedtime, and take occasional breaks to reset your tolerance."
+    }
+  ]
+}
