@@ -1,0 +1,66 @@
+{
+  "title": "How Quantum Computing is Breaking Modern Encryption",
+  "theme_color": "#6C3FC5",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Quantum Computing & Encryption",
+      "body": "The race to protect the world's secrets before quantum computers crack them open"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "How Encryption Works Today",
+      "body": "Modern encryption relies on math problems that are easy to verify but nearly impossible to reverse — like factoring huge numbers. RSA encryption, used by banks and governments, would take a classical computer millions of years to break."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "What Makes Quantum Different",
+      "body": "Quantum computers use qubits that can exist in multiple states simultaneously (superposition). This lets them explore millions of solutions at once, making certain hard problems trivially easy to solve."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Shor's Algorithm: The Threat",
+      "body": "In 1994, mathematician Peter Shor discovered a quantum algorithm that can factor large numbers exponentially faster than classical methods. A powerful quantum computer running Shor's algorithm could crack RSA encryption in hours."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "How Close Are We?",
+      "body": "Breaking current 2048-bit RSA encryption would require roughly 4,000 stable logical qubits. Today's best machines have millions of physical but far fewer error-corrected logical qubits — experts estimate a cryptographically relevant quantum computer is 5–15 years away."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Harvest Now, Decrypt Later",
+      "body": "Nation-state actors are already collecting encrypted government and financial data today, planning to decrypt it once quantum computers mature. This 'harvest now, decrypt later' strategy means the threat is already unfolding even before powerful quantum machines exist."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "NIST's Post-Quantum Standards",
+      "body": "In 2024, NIST finalized its first post-quantum cryptography standards — algorithms like CRYSTALS-Kyber and CRYSTALS-Dilithium. These are based on lattice math problems that even quantum computers struggle to crack."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Industries Most at Risk",
+      "body": "Banking, healthcare, government, and critical infrastructure face the highest stakes. Any system protecting long-lived secrets — medical records, state intelligence, financial contracts — must migrate to quantum-resistant encryption now."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Quantum Key Distribution",
+      "body": "Quantum physics also offers a solution: QKD (Quantum Key Distribution) uses quantum mechanics itself to share encryption keys. Any eavesdropping attempt disturbs the quantum state and is instantly detectable — theoretically unbreakable."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Crypto-Agility Imperative",
+      "body": "The window to migrate is now. Organizations adopting 'crypto-agility' — the ability to swap algorithms quickly — will be ready when the quantum era arrives. The internet's security depends on acting before the threat matures."
+    }
+  ]
+}
