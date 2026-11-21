@@ -1,0 +1,66 @@
+{
+  "title": "How Humanoid Robots Are Changing the Future of Work",
+  "theme_color": "#1A6BCC",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "Humanoid Robots Are Changing Work Forever",
+      "body": "From factory floors to hospital wards, a new generation of robots that look and move like us is reshaping every industry."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Makes a Robot \"Humanoid\"?",
+      "body": "Humanoid robots have a torso, two arms, two legs, and a head — mirroring the human body. This form factor lets them use the same tools, vehicles, and workspaces designed for people, without costly redesigns."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "From Science Fiction to Factory Floor",
+      "body": "Companies like Boston Dynamics, Tesla (Optimus), Figure, and 1X have moved humanoid robots from demos to real deployments. By 2026, tens of thousands of units are operating in warehouses and manufacturing lines worldwide."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "AI Is the Brain Behind the Body",
+      "body": "Modern humanoid robots are trained using imitation learning and reinforcement learning, letting them pick up new tasks from human demonstrations in hours rather than months. Large language models help them understand spoken instructions on the fly."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Where They're Working Right Now",
+      "body": "Humanoid robots currently handle repetitive or dangerous jobs: sorting packages, assembling electronics, stocking shelves, and assisting in construction. They work 24/7 without fatigue, in environments too hot, loud, or hazardous for humans."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Jobs Most at Risk — and Why",
+      "body": "Roles involving predictable physical tasks — assembly, packing, delivery — face the greatest near-term disruption. However, jobs requiring empathy, creative problem-solving, or nuanced social judgment remain far beyond current robot capabilities."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "New Jobs That Robots Are Creating",
+      "body": "Every robot deployment generates demand for robot trainers, fleet managers, maintenance engineers, and AI safety specialists. Historically, automation has created more jobs than it eliminates — though the transition requires retraining."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "The Big Challenges Still to Solve",
+      "body": "Battery life limits most humanoids to 2–4 hours of heavy work. Dexterous manipulation — handling a raw egg, threading a needle — remains hard. And proving safety and reliability in unpredictable real-world environments is an ongoing engineering challenge."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "Society's Bigger Questions",
+      "body": "Who owns the productivity gains when a robot replaces a worker? How do we ensure benefits are broadly shared? Policymakers and economists are debating robot taxes, universal basic income pilots, and mandatory retraining funds as safeguards."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "The Robot Coworker Is Almost Here",
+      "body": "Humanoid robots won't replace humanity — but they will redefine what work means. Understanding the technology today helps us shape the policies, education, and opportunities that make the transition fair and beneficial for everyone."
+    }
+  ]
+}
