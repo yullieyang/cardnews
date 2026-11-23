@@ -1,0 +1,66 @@
+{
+  "title": "How Nuclear Fusion Could Power the Future",
+  "theme_color": "#E8550A",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Nuclear Fusion Could Power the Future",
+      "body": "The star-powered energy source that could change civilization forever"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Nuclear Fusion?",
+      "body": "Fusion is the process that powers the sun: two light atomic nuclei (like hydrogen isotopes) combine to form a heavier nucleus, releasing enormous energy. Unlike fission, it splits no heavy atoms — it fuses light ones together."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Why It's So Hard to Achieve",
+      "body": "Fusing nuclei requires overcoming their electric repulsion, which demands temperatures exceeding 100 million degrees Celsius — hotter than the sun's core. Containing that plasma without it touching any surface is an engineering challenge unlike any other."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Fuel: Deuterium & Tritium",
+      "body": "The most viable fusion reaction uses deuterium and tritium — both hydrogen isotopes. Deuterium is extracted from seawater (virtually unlimited), and tritium can be bred from lithium. One bathtub of seawater holds the energy equivalent of 300 tonnes of coal."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Magnetic Confinement: Tokamaks",
+      "body": "The leading design uses doughnut-shaped devices called tokamaks that confine plasma with powerful magnetic fields. ITER, under construction in France, will be the world's largest tokamak — a global collaboration of 35 nations building the most complex machine ever made."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The 2022 NIF Breakthrough",
+      "body": "In December 2022, the National Ignition Facility in California achieved ignition — laser-driven fusion that produced more energy than the lasers delivered to the target. This landmark proved the physics works. It was the first time fusion energy exceeded input energy in a controlled experiment."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Private Sector Racing Ahead",
+      "body": "Companies like Commonwealth Fusion Systems, TAE Technologies, and Helion are betting billions that compact, high-field magnets and new designs can reach commercial fusion faster than government mega-projects. Helion has a Power Purchase Agreement with Microsoft for electricity by 2028."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Why Fusion Is Safer Than Fission",
+      "body": "Fusion produces no long-lived radioactive waste — only helium and short-lived activated materials. It cannot melt down: shut off the fuel and the reaction stops in seconds. There is no risk of a Chernobyl or Fukushima-style catastrophe."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Remaining Engineering Challenges",
+      "body": "Achieving net energy gain at scale, developing materials that survive neutron bombardment for decades, and building a system that breeds enough tritium to sustain itself are the last major hurdles. Each is formidable — but none violates the laws of physics."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Star on Earth",
+      "body": "If fusion succeeds, it promises abundant, clean energy for millennia with minimal waste and no carbon emissions. The question is no longer 'if' but 'when' — and the race to get there is on."
+    }
+  ]
+}
