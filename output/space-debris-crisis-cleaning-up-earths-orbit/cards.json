@@ -1,0 +1,66 @@
+{
+  "title": "The Space Debris Crisis: Cleaning Up Earth's Orbit",
+  "theme_color": "#1a237e",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Space Debris Crisis",
+      "body": "Over 27,000 tracked objects are hurtling around Earth at 17,500 mph — and millions more are too small to follow."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "How Bad Is It?",
+      "body": "There are roughly 27,000 tracked debris objects and an estimated 130 million pieces larger than 1mm in low Earth orbit. Even a paint fleck at orbital speed carries the kinetic energy of a bullet."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "Where Did It All Come From?",
+      "body": "Dead satellites, spent rocket stages, and fragments from past collisions and anti-satellite weapons tests all contribute. The 2007 Chinese ASAT test alone created over 3,500 trackable fragments that persist today."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "The Kessler Syndrome",
+      "body": "NASA scientist Donald Kessler predicted a worst-case cascade: enough debris triggers collisions that create more debris, which triggers more collisions — rendering entire orbital shells unusable for centuries."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Mega-Constellations Raise the Stakes",
+      "body": "SpaceX Starlink, Amazon Kuiper, and others plan tens of thousands of new satellites. More objects mean higher collision odds, putting pressure on global coordination before the cascade begins."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Tracking the Threat",
+      "body": "The US Space Surveillance Network uses radar and telescopes to track objects larger than 10 cm. The ISS maneuvers several times a year to dodge debris — and astronauts occasionally shelter in docked spacecraft."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Active Debris Removal",
+      "body": "ESA's ClearSpace-1 mission, launching in the late 2020s, will capture a defunct rocket adapter with a claw-like gripper and deorbit it. Japan's Astroscale is testing magnetic docking to tow dead satellites to their doom."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Lasers, Nets, and Harpoons",
+      "body": "Ground-based lasers can nudge small debris by heating one side. Experimental spacecraft have deployed nets and harpoons to snare tumbling objects. Each method works best for specific debris sizes and orbits."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Policy Problem",
+      "body": "Space debris is a global commons tragedy: cleanup is expensive but benefits everyone, so no single country wants to pay. International guidelines require deorbiting within 25 years, but compliance remains voluntary and low."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Cluttered Sky Is a Shared Risk",
+      "body": "GPS, weather forecasting, and global communications all depend on safe orbital lanes. Solving the debris crisis will take new technology, binding policy, and economic incentives — before the cascade point is crossed."
+    }
+  ]
+}
