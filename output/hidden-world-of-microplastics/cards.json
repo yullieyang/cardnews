@@ -1,0 +1,66 @@
+{
+  "title": "The Hidden World of Microplastics",
+  "theme_color": "#2E7D9C",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "The Hidden World of Microplastics",
+      "body": "Tiny plastic particles are everywhere — including inside you. Here's what science says."
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Are Microplastics?",
+      "body": "Microplastics are plastic fragments smaller than 5mm — many invisible to the naked eye. They form when larger plastics break down from UV light, heat, and mechanical wear. Nanoplastics, under 1 micrometer, can penetrate cells directly."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "They're Literally Everywhere",
+      "body": "Scientists have found microplastics in the deepest ocean trenches, the highest mountain peaks, and in Antarctic ice. A 2023 study detected them in every human blood sample tested. There is no pristine place on Earth left."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "How They Enter Your Body",
+      "body": "You ingest microplastics through food, drinking water, and even the air you breathe. Seafood, bottled water, and sea salt are major dietary sources. Studies estimate humans consume up to a credit card's worth of plastic per week."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Inside the Human Body",
+      "body": "Researchers have found microplastics in human lungs, liver, kidneys, placenta, and breast milk. A landmark 2024 study found them embedded in arterial plaque, linking higher concentrations to greater risk of heart attack and stroke."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "The Health Concerns",
+      "body": "Microplastics carry harmful chemicals — including endocrine disruptors and carcinogens — that can leach into tissues. They also act as carriers for pathogens and heavy metals. Long-term health effects are still being studied, but early signals are alarming."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Damage to Ecosystems",
+      "body": "Marine animals mistake microplastics for food, leading to starvation and chemical poisoning. They disrupt plankton — Earth's primary oxygen producers and CO2 absorbers. Microplastic pollution is now considered a planetary boundary threat."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Where Do They Come From?",
+      "body": "Single-use packaging, synthetic textiles, and vehicle tires are the top sources. A single laundry cycle releases up to 700,000 microfibers. Road runoff from tire wear is now one of the largest sources entering waterways."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "What Can Be Done?",
+      "body": "Filtering washing machine wastewater, reducing single-use plastics, and switching to natural fibers all help. New biodegradable polymers and advanced water filtration are promising. Policy solutions like extended producer responsibility laws are gaining traction globally."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "A Plastic Planet Needs Plastic-Free Thinking",
+      "body": "Microplastics are the pollution we cannot see but cannot ignore. Individual choices matter — but systemic change is essential to protect human health and the planet."
+    }
+  ]
+}
