@@ -1,66 +1,66 @@
 {
   "title": "The Rise of Humanoid Robots",
-  "theme_color": "#1A237E",
+  "theme_color": "#1a237e",
   "slides": [
     {
       "slide_number": 1,
       "type": "title",
       "heading": "The Rise of Humanoid Robots",
-      "body": "How machines shaped like us are stepping into our world — and what comes next"
+      "body": "From science fiction to factory floors — how walking, thinking machines are reshaping our world"
     },
     {
       "slide_number": 2,
       "type": "content",
-      "heading": "Why Human Shape?",
-      "body": "Humanoid robots are built to work in spaces designed for people — doorways, staircases, and tools built for human hands. A human-shaped body lets them slot into existing environments without expensive retrofits."
+      "heading": "What Is a Humanoid Robot?",
+      "body": "A humanoid robot has a body shaped like a human — two arms, two legs, a torso, and a head. This form factor lets them use tools, navigate stairs, and operate in spaces designed for people, without requiring any special infrastructure."
     },
     {
       "slide_number": 3,
       "type": "content",
-      "heading": "Who's Building Them?",
-      "body": "Tesla's Optimus, Figure AI, Boston Dynamics' Atlas, and Agility Robotics' Digit are leading the race. Dozens of startups and major manufacturers are pouring billions into the space, signaling a genuine industry shift."
+      "heading": "The Big Players Racing Ahead",
+      "body": "Tesla's Optimus, Figure AI's Figure 02, Boston Dynamics' Atlas, and Agility Robotics' Digit are all competing to deploy commercial humanoids. Major automakers, logistics companies, and tech giants are pouring billions into this race."
     },
     {
       "slide_number": 4,
       "type": "content",
-      "heading": "From Factory Floor to Your Home",
-      "body": "The first deployments are in warehouses and manufacturing lines, handling repetitive tasks like sorting and assembly. The long-term vision is a general-purpose helper that can cook, clean, and assist with elder care."
+      "heading": "AI Is the Missing Piece",
+      "body": "Earlier robots followed rigid pre-programmed paths. Modern humanoids use large language models and vision AI to understand instructions, adapt to new environments, and even learn from demonstrations — the same way humans do."
     },
     {
       "slide_number": 5,
       "type": "content",
-      "heading": "The AI Brain Behind the Body",
-      "body": "Modern humanoids are powered by foundation models trained on vast human video data. This lets them learn new tasks from just a few demonstrations rather than requiring months of manual programming."
+      "heading": "Real Jobs, Real Factories",
+      "body": "BMW, Amazon, and Foxconn are already piloting humanoid robots on production lines. They handle tasks like pick-and-place, assembly, and inspection — jobs too complex for traditional fixed-arm robots but too repetitive or hazardous for people."
     },
     {
       "slide_number": 6,
       "type": "content",
-      "heading": "Key Engineering Challenges",
-      "body": "Balance, dexterity, and energy efficiency remain hard problems. A robot that can walk across uneven terrain, open a bottle, and run for eight hours on a single charge still pushes the edge of what's possible."
+      "heading": "The Hardware Challenge",
+      "body": "Building a humanoid is brutally hard. Motors must be powerful yet precise, batteries must last a full shift, and actuators must absorb the shock of walking on uneven ground. Getting all this into a human-sized package at scale drives most of the R&D cost."
     },
     {
       "slide_number": 7,
       "type": "content",
-      "heading": "Cost: The Final Barrier",
-      "body": "Early units cost $100,000–$200,000 each. Manufacturers are targeting the $20,000–$30,000 range by the end of the decade through mass production and cheaper actuators — close to the price of a car."
+      "heading": "Cost Trajectory: Why It Matters",
+      "body": "Early humanoids cost $100,000+, but analysts expect prices to fall below $30,000 by the end of the decade — cheaper than a year of human wages in many countries. That crossover point could trigger mass deployment across industries."
     },
     {
       "slide_number": 8,
       "type": "content",
-      "heading": "Jobs, Safety & Ethics",
-      "body": "Economists debate whether humanoid robots will eliminate jobs or create new ones. Safety certification, liability when a robot injures someone, and data privacy in home environments are urgent regulatory questions with no settled answers yet."
+      "heading": "Safety, Ethics & Regulation",
+      "body": "Who is responsible when a robot injures a worker? How do we prevent misuse in military or surveillance contexts? Regulators worldwide are racing to draft safety standards and liability frameworks before humanoids become truly widespread."
     },
     {
       "slide_number": 9,
       "type": "content",
-      "heading": "The Next Three Years",
-      "body": "Expect tens of thousands of units deployed in industrial settings by 2027, followed by pilot programs in hospitality and healthcare. Consumer models are still further out, but the roadmap is accelerating faster than most predicted."
+      "heading": "Impact on the Workforce",
+      "body": "Humanoids will likely automate physically demanding and dangerous jobs first — construction, mining, logistics. This could reduce workplace injuries but also displace workers who lack alternatives. Economists are sharply divided on the net effect."
     },
     {
       "slide_number": 10,
       "type": "closing",
       "heading": "The Robot Era Is Here",
-      "body": "Humanoid robots are no longer science fiction. Understanding their capabilities — and limits — puts you ahead of one of the defining technology shifts of the next decade."
+      "body": "Humanoid robots are no longer a promise — they are prototypes walking the same floors as human workers today. How we design, deploy, and govern them will define the next chapter of both technology and society."
     }
   ]
 }
