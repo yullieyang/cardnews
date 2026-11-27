@@ -1,0 +1,66 @@
+{
+  "title": "How Neuromorphic Computing Mimics the Human Brain",
+  "theme_color": "#6C3FC5",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "title",
+      "heading": "How Neuromorphic Computing Mimics the Human Brain",
+      "body": "The next frontier in computing takes its blueprints directly from neuroscience"
+    },
+    {
+      "slide_number": 2,
+      "type": "content",
+      "heading": "What Is Neuromorphic Computing?",
+      "body": "Neuromorphic computing uses chip architectures modeled after the brain's neural networks. Unlike traditional CPUs that process instructions sequentially, these chips process information in parallel streams — just like biological neurons do."
+    },
+    {
+      "slide_number": 3,
+      "type": "content",
+      "heading": "The Problem With Traditional Chips",
+      "body": "Conventional computers shuttle data back and forth between a processor and memory — a bottleneck called the von Neumann wall. This wastes enormous energy. The human brain performs far more complex tasks using only about 20 watts, the same power as a dim light bulb."
+    },
+    {
+      "slide_number": 4,
+      "type": "content",
+      "heading": "Spiking Neural Networks: The Core Idea",
+      "body": "Neuromorphic chips use spiking neural networks (SNNs), where artificial neurons only fire electrical pulses when they receive enough input — exactly like real neurons. This event-driven approach means the chip uses energy only when it actually needs to compute."
+    },
+    {
+      "slide_number": 5,
+      "type": "content",
+      "heading": "Intel's Loihi and IBM's TrueNorth",
+      "body": "Intel's Loihi 2 chip packs over one million programmable neurons and supports on-chip learning. IBM's TrueNorth holds 4,096 processor cores mimicking 1 million neurons. Both chips consume a fraction of the power of a standard GPU for comparable tasks."
+    },
+    {
+      "slide_number": 6,
+      "type": "content",
+      "heading": "Real-World Applications Today",
+      "body": "Neuromorphic chips are being used for edge AI — running smart sensors, gesture recognition, and robotics without draining a battery. They excel at processing continuous sensory streams like audio, video, and radar in real time with minimal power."
+    },
+    {
+      "slide_number": 7,
+      "type": "content",
+      "heading": "Learning Like a Brain",
+      "body": "These chips can implement spike-timing-dependent plasticity (STDP), a biological learning rule where synaptic connections strengthen when two neurons fire in close succession. This enables hardware that adapts and learns without being retrained from scratch each time."
+    },
+    {
+      "slide_number": 8,
+      "type": "content",
+      "heading": "Challenges Still to Solve",
+      "body": "Programming neuromorphic chips requires entirely new software frameworks — traditional code doesn't apply. Scaling to billions of neurons, managing chip-to-chip communication, and benchmarking performance against GPUs remain active research challenges."
+    },
+    {
+      "slide_number": 9,
+      "type": "content",
+      "heading": "The Road Ahead",
+      "body": "Research teams are integrating memristors — tiny resistors that remember past electrical states — as artificial synapses, pushing energy efficiency even further. By the late 2020s, neuromorphic systems may power autonomous vehicles, medical implants, and always-on AI assistants."
+    },
+    {
+      "slide_number": 10,
+      "type": "closing",
+      "heading": "Brain-Inspired. Energy-Efficient. The Future.",
+      "body": "Neuromorphic computing won't replace traditional chips — but for tasks requiring real-time sensing and adaptation on minimal power, it may be the most transformative computing shift since the microprocessor."
+    }
+  ]
+}
